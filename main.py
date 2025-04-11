@@ -41,42 +41,6 @@ def main():
         
         plan_run = portia.run_plan(plan)
         print(f"{plan_run.model_dump_json(indent = 2)}")  
-    
-    # Combine tool registries
-    #complete_tool_registry = example_tool_registry + custom_tool_registry
-    
-    # Define the task with the individual to search for
-    # task = f"""
-    # Please help me accomplish the following tasks:
-    # -  Search the web for Relevant  
-    # - Search for '{name}' in the file
-    # """
-    
-    # print("\nA plan will now be generated. Please wait...")
-    
-    # # Configure and instantiate Portia
-    # my_config = default_config()
-    # portia = Portia(
-    #     config=my_config,
-    #     tools=  DefaultToolRegistry(config = my_config),
-    #     #execution_hooks=CLIExecutionHooks(),
-    # )
-    
-    # # Generate the plan
-    # plan = portia.plan(task)
-    
-    # # Display the plan steps
-    # print("\nHere are the steps in the generated plan:")
-    # for step in plan.steps:
-    #     print(step.model_dump_json(indent=2))
-    
-    # # Execute the plan
-    # plan_run = portia.run_plan(plan)
-    
-    # # Display the results
-    # print("\nPlan execution results:")
-    # print(plan_run.model_dump_json(indent=2))
-
 
 if __name__ == "__main__":
     main()
