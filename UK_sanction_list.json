@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "list_name": "Global Sanctions Database",
+    "version": "2025.04.11",
+    "last_updated": "2025-04-10T14:30:00Z",
+    "source": "Consolidated from multiple government sources",
+    "total_entries": 245
+  },
+  "sanctions": [
+    {
+      "id": "SDN12345",
+      "entity_type": "individual",
+      "primary_name": "Vladimir Petrov",
+      "name_aliases": [
+        "Vlad Petrov",
+        "Vladimir A. Petrov"
+      ],
+      "date_of_birth": "1975-03-12",
+      "place_of_birth": "Moscow, Russia",
+      "nationality": "Russian Federation",
+      "passport_numbers": ["71245892"],
+      "addresses": [
+        {
+          "street": "Tverskaya Street 15",
+          "city": "Moscow",
+          "country": "Russian Federation",
+          "postal_code": "125009"
+        }
+      ],
+      "sanction_details": {
+        "program": "Russia/Ukraine Sanctions",
+        "listing_date": "2022-03-15",
+        "listing_authority": "OFAC",
+        "grounds": "Senior executive of sanctioned financial institution",
+        "references": ["EO 14024"]
+      }
+    },
+    {
+      "id": "SDN67890",
+      "entity_type": "entity",
+      "primary_name": "Northern Shipping Corporation",
+      "name_aliases": [
+        "NSC Shipping",
+        "North Ship Co."
+      ],
+      "registration_details": {
+        "country": "DPRK",
+        "registration_number": "NKSC7821",
+        "registration_date": "2010-08-22"
+      },
+      "addresses": [
+        {
+          "street": "Ryomyong Street 56",
+          "city": "Pyongyang",
+          "country": "Democratic People's Republic of Korea"
+        }
+      ],
+      "vessel_information": [
+        {
+          "vessel_name": "Glory Star",
+          "imo_number": "9213656",
+          "flag": "DPRK"
+        },
+        {
+          "vessel_name": "Sea Pioneer",
+          "imo_number": "9341914",
+          "flag": "DPRK"
+        }
+      ],
+      "sanction_details": {
+        "program": "North Korea Sanctions",
+        "listing_date": "2019-12-10",
+        "listing_authority": "United Nations",
+        "grounds": "Involvement in prohibited ship-to-ship transfers of petroleum products",
+        "references": ["UNSCR 2397"]
+      }
+    },
+    {
+      "id": "EU24680",
+      "entity_type": "entity",
+      "primary_name": "Global Resource Trading Ltd",
+      "name_aliases": [
+        "GRT International",
+        "Global Resources"
+      ],
+      "registration_details": {
+        "country": "Hong Kong SAR",
+        "registration_number": "HK78921445",
+        "registration_date": "2015-05-17"
+      },
+      "addresses": [
+        {
+          "street": "Central Plaza, 18 Harbour Road",
+          "city": "Hong Kong",
+          "country": "Hong Kong SAR",
+          "postal_code": ""
+        }
+      ],
+      "associated_entities": [
+        {
+          "name": "Universal Mining Corporation",
+          "relationship": "parent company",
+          "id": "SDN45678"
+        }
+      ],
+      "sanction_details": {
+        "program": "Iran Sanctions",
+        "listing_date": "2020-07-23",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating the sale of sanctioned minerals from Iran",
+        "references": ["EU Regulation 267/2012"]
+      }
+    },
+    {
+      "id": "UK13579",
+      "entity_type": "individual",
+      "primary_name": "Ahmed Al-Bashir",
+      "name_aliases": [
+        "Ahmed Khalid Al-Bashir",
+        "A.K. Bashir"
+      ],
+      "date_of_birth": "1968-11-05",
+      "place_of_birth": "Khartoum, Sudan",
+      "nationality": "Sudan",
+      "passport_numbers": ["SD5432198"],
+      "addresses": [
+        {
+          "street": "Unknown",
+          "city": "Dubai",
+          "country": "United Arab Emirates"
+        }
+      ],
+      "identification_details": {
+        "national_id": "SUD8745219663"
+      },
+      "sanction_details": {
+        "program": "Global Human Rights Sanctions",
+        "listing_date": "2023-09-05",
+        "listing_authority": "UK OFSI",
+        "grounds": "Involvement in serious human rights violations",
+        "references": ["UK Global Human Rights Sanctions Regulations 2020"]
+      }
+    },
+    {
+      "id": "UN35791",
+      "entity_type": "entity",
+      "primary_name": "Falcon Security Services",
+      "name_aliases": [
+        "FSS International",
+        "Falcon Security Solutions"
+      ],
+      "registration_details": {
+        "country": "Libya",
+        "registration_number": "LY542137",
+        "registration_date": "2014-03-30"
+      },
+      "addresses": [
+        {
+          "street": "Al Fatah Street 27",
+          "city": "Tripoli",
+          "country": "Libya"
+        }
+      ],
+      "associated_individuals": [
+        {
+          "name": "Mohammed Al-Zahawi",
+          "position": "Director",
+          "id": "UN46810"
+        }
+      ],
+      "sanction_details": {
+        "program": "Libya Sanctions",
+        "listing_date": "2021-04-18",
+        "listing_authority": "United Nations",
+        "grounds": "Providing support to armed groups destabilizing Libya",
+        "references": ["UNSCR 1970"]
+      }
+    },
+    {
+      "id": "SDN24680",
+      "entity_type": "individual",
+      "primary_name": "Isabella Vega Ruiz",
+      "name_aliases": [
+        "Isabella Vega",
+        "Isabella Ruiz"
+      ],
+      "date_of_birth": "1982-09-17",
+      "place_of_birth": "Caracas, Venezuela",
+      "nationality": "Venezuela",
+      "passport_numbers": ["VE789456123"],
+      "addresses": [
+        {
+          "street": "Avenida Libertador 314",
+          "city": "Caracas",
+          "country": "Venezuela"
+        },
+        {
+          "street": "Calle 82 #10-54",
+          "city": "Bogotá",
+          "country": "Colombia"
+        }
+      ],
+      "sanction_details": {
+        "program": "Venezuela Sanctions",
+        "listing_date": "2023-11-20",
+        "listing_authority": "OFAC",
+        "grounds": "Acting for or on behalf of the Venezuelan government in the petroleum sector",
+        "references": ["EO 13850"]
+      }
+    },
+    {
+      "id": "CH13579",
+      "entity_type": "entity",
+      "primary_name": "Syrius Technologies AG",
+      "name_aliases": [
+        "SyriusTech"
+      ],
+      "registration_details": {
+        "country": "Switzerland",
+        "registration_number": "CHE-123.456.789",
+        "registration_date": "2017-06-12"
+      },
+      "addresses": [
+        {
+          "street": "Bahnhofstrasse 42",
+          "city": "Zurich",
+          "country": "Switzerland",
+          "postal_code": "8001"
+        }
+      ],
+      "sanction_details": {
+        "program": "Syria Sanctions",
+        "listing_date": "2024-01-15",
+        "listing_authority": "Switzerland SECO",
+        "grounds": "Provision of surveillance technology to Syrian government",
+        "references": ["Swiss Federal Act on the Implementation of International Sanctions"]
+      }
+    }
+  ]
+}

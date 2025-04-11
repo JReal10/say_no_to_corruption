@@ -1,0 +1,3 @@
+poetry
+portia-sdk-python
+openai
