@@ -29,18 +29,43 @@ def main():
     
     config = default_config()
     portia = Portia(config=config, tools = DefaultToolRegistry(config=config))
+    country = ""
     
     with execution_context(end_user_id = "test", additional_data={"name": "test_name"}):
     
-        plan = portia.plan(f'Search company *{name}* registry in {country}' 
+        plan = portia.plan(f'Search company *{name}* registry that it operates in'
+            f'store the {country}'
             f'Search *{name}* sustainability/CSR reports'
             f'Search if *{name}* is in the json file "UK_sanction_list.json"'
-            f'Search if *{name}* operates in any "high_risk_jurisdiction.json" country')
+            f'Search if *{name}* operates in any "high_risk_jurisdiction.json" country'
+            f'From "corruption_index.json" List index score of all the country {name} operates in')
         
         input(f"{plan.model_dump_json(indent = 2)}") 
         
         plan_run = portia.run_plan(plan)
         print(f"{plan_run.model_dump_json(indent = 2)}")  
+
+def Individual_Search(individual_name):
+    
+    load_dotenv(override=True)
+    country = "United Kingdom"
+    
+    config = default_config()
+    portia = Portia(config=config, tools = DefaultToolRegistry(config=config))
+
+    with execution_context(end_user_id = "test_individual", additional_data={"name": "test_individual"}):
+
+        plan = portia.plan(f'Search company *{individual_name}* registry in {country}'                            
+            f'Search *{individual_name}* sustainability/CSR reports'
+            f'Search if *{individual_name}* is in the json file "UK_sanction_list.json"'
+            f'Search if *{individual_name}* operates in any "high_risk_jurisdiction.json" country'
+            f'From "corruption_index.json" List index score of all the country {individual_name} operates in')
+        
+        input(f"{plan.model_dump_json(indent = 2)}") 
+        
+        plan_run = portia.run_plan(plan)
+        
+        return(f"{plan_run.model_dump_json(indent = 2)}")
 
 if __name__ == "__main__":
     main()
