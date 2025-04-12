@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SNTC &#40;Say NO TO CORRUPTION&#41;</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #535252;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      text-align: center;
+      max-width: 600px;
+      width: 100%;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 30px;
+      color: #f3efef;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 15px;
+      font-size: 1.1rem;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+
+    button {
+      padding: 12px 30px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 10px;
+      background-color: #9ea09f;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #616161;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Search for an individual or an entity</h1>
+    <input type="text" id="searchInput" placeholder="Type your query here..." />
+    <br />
+    <button onclick="handleSearch()">Search</button>
+  </div>
+
+  <script>
+    function handleSearch() {
+      const input = document.getElementById('searchInput').value;
+      if (input.trim() !== "") {
+        alert(`You searched for: "${input}"`);
+      } else {
+        alert("Please enter a search query!");
+      }
+    }
+  </script>
+</body>
+</html>
