@@ -78,6 +78,7 @@ async def search_individual(request: IndividualSearchRequest):
         
             # Run the plan
             plan_run = portia.run_plan(plan)
+            print(f"{plan.model_dump_json(indent = 2)}")
             
             # Return the results
             return {"result": json.loads(plan_run.model_dump_json())}
