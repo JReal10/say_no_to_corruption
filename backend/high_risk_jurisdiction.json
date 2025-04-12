@@ -1,373 +1,73 @@
 {
   "metadata": {
     "list_name": "FATF High-Risk and Monitored Jurisdictions",
-    "source": "Financial Action Task Force (FATF)",
+    "source": "FATF",
     "website": "https://www.fatf-gafi.org",
     "last_updated": "February 2025"
   },
   "lists": {
     "high_risk_jurisdictions": {
-      "name": "High-Risk Jurisdictions subject to a Call for Action ('Black List')",
-      "description": "Jurisdictions with significant strategic deficiencies in their regimes to counter money laundering, terrorist financing, and financing of proliferation. The FATF calls on all members and urges all jurisdictions to apply enhanced due diligence, and in the most serious cases, countermeasures.",
+      "name": "Black List",
       "jurisdictions": [
         {
-          "country_name": "Democratic People's Republic of Korea (DPRK)",
+          "country_name": "Democratic People's Republic of Korea",
           "country_code": "KP",
-          "call_for_action": "Countermeasures",
-          "main_deficiencies": [
-            "Continued failure to address significant AML/CFT deficiencies",
-            "Serious threats related to proliferation of weapons of mass destruction",
-            "Illicit activities and financing"
-          ],
-          "countermeasures": [
-            "Terminate correspondent relationships with DPRK banks",
-            "Close any subsidiaries or branches of DPRK banks",
-            "Limit business relationships & financial transactions with DPRK persons"
+          "action": "Countermeasures",
+          "deficiencies": [
+            "AML/CFT failures",
+            "Proliferation threats",
+            "Illicit financing"
           ]
         },
         {
           "country_name": "Iran",
           "country_code": "IR",
-          "call_for_action": "Countermeasures",
-          "main_deficiencies": [
-            "Failure to enact the Palermo and Terrorist Financing Conventions",
-            "Failure to complete its action plan from 2016",
-            "Continued terrorist financing risk"
-          ],
-          "notes": "Iran reported in January, August and December 2024 with no material changes in the status of its action plan."
+          "action": "Countermeasures",
+          "deficiencies": [
+            "Unenacted conventions",
+            "Unfinished action plan",
+            "Terrorist financing risk"
+          ]
         },
         {
           "country_name": "Myanmar",
           "country_code": "MM",
-          "call_for_action": "Enhanced Due Diligence",
-          "main_deficiencies": [
-            "Continued lack of progress on action plan items",
-            "Majority of action items still not addressed after a year beyond deadline"
+          "action": "Enhanced Due Diligence",
+          "deficiencies": [
+            "Action plan delays"
           ],
-          "status": "If no further progress is made by June 2025, the FATF will consider countermeasures."
+          "status": "Potential countermeasures by June 2025"
         }
       ]
     },
     "increased_monitoring_jurisdictions": {
-      "name": "Jurisdictions under Increased Monitoring ('Grey List')",
-      "description": "Jurisdictions under increased monitoring are actively working with the FATF to address strategic deficiencies in their regimes to counter money laundering, terrorist financing, and proliferation financing.",
+      "name": "Grey List",
       "jurisdictions": [
-        {
-          "country_name": "Algeria",
-          "country_code": "DZ",
-          "commitment_date": "October 2024",
-          "key_deficiencies": [
-            "Improving risk-based supervision, especially for higher risk sectors",
-            "Developing framework for beneficial ownership information",
-            "Enhancing suspicious transaction reports regime",
-            "Establishing effective framework for targeted financial sanctions for terrorism financing",
-            "Implementing risk-based approach to oversight of NPOs"
-          ]
-        },
-        {
-          "country_name": "Angola",
-          "country_code": "AO",
-          "commitment_date": "October 2024",
-          "key_deficiencies": [
-            "Enhancing understanding of ML/TF risks",
-            "Improving risk-based supervision of non-financial banking entities and DNFBPs",
-            "Ensuring access to beneficial ownership information",
-            "Demonstrating increase in ML investigations and prosecutions",
-            "Demonstrating ability to identify, investigate and prosecute TF",
-            "Demonstrating effective implementation of targeted financial sanctions"
-          ]
-        },
-        {
-          "country_name": "Bulgaria",
-          "country_code": "BG",
-          "commitment_date": "October 2023",
-          "key_deficiencies": [
-            "Addressing technical compliance deficiencies",
-            "Improving investigations and prosecutions of different types of money laundering",
-            "Ensuring parallel financial investigations in terrorism investigations",
-            "Addressing gaps in the PF TFS frameworks",
-            "Demonstrating risk-based monitoring of NPOs"
-          ]
-        },
-        {
-          "country_name": "Burkina Faso",
-          "country_code": "BF",
-          "commitment_date": "February 2021",
-          "key_deficiencies": [
-            "Implementing an effective targeted financial sanctions regime related to TF and PF"
-          ],
-          "notes": "All deadlines have expired (December 2022) and work remains"
-        },
-        {
-          "country_name": "Cameroon",
-          "country_code": "CM",
-          "commitment_date": "June 2023",
-          "key_deficiencies": [
-            "Enhancing risk-based supervision",
-            "Maintaining access to beneficial ownership information",
-            "Enhancing secure information exchange",
-            "Demonstrating ability to conduct ML investigations",
-            "Implementing asset seizure and confiscation procedures",
-            "Demonstrating TF investigations and prosecutions",
-            "Implementing TF and PF targeted financial sanctions"
-          ]
-        },
-        {
-          "country_name": "Côte d'Ivoire",
-          "country_code": "CI",
-          "commitment_date": "October 2024",
-          "key_deficiencies": [
-            "Enhancing use of international cooperation in ML/TF cases",
-            "Improving risk-based supervision",
-            "Improving verification of beneficial ownership information",
-            "Enhancing use of financial intelligence",
-            "Demonstrating increase in ML and TF investigations and prosecutions",
-            "Strengthening targeted financial sanctions framework"
-          ]
-        },
-        {
-          "country_name": "Croatia",
-          "country_code": "HR",
-          "commitment_date": "June 2023",
-          "status": "Substantially completed action plan, pending on-site assessment",
-          "key_reforms": [
-            "Completing national risk assessment",
-            "Increasing FIU resources and improving analytical capabilities",
-            "Improving LEA detection, investigation and prosecution of different types of ML",
-            "Demonstrating increase in application of provisional measures for confiscation",
-            "Demonstrating ability to systematically detect and investigate TF",
-            "Establishing framework for UN TFS measures",
-            "Identifying and monitoring high-risk NPOs"
-          ]
-        },
-        {
-          "country_name": "Democratic Republic of the Congo",
-          "country_code": "CD",
-          "commitment_date": "October 2022",
-          "key_deficiencies": [
-            "Developing and implementing risk-based supervision plan",
-            "Building capacity of FIU for operational and strategic analysis",
-            "Strengthening investigation and prosecution capabilities",
-            "Demonstrating effective implementation of TF and PF-related TFS"
-          ]
-        },
-        {
-          "country_name": "Haiti",
-          "country_code": "HT",
-          "commitment_date": "June 2021",
-          "key_deficiencies": [
-            "Completing ML/TF risk assessment",
-            "Implementing risk-based supervision",
-            "Ensuring access to beneficial ownership information",
-            "Ensuring adequate FIU resources and processes",
-            "Demonstrating ML investigations and prosecutions",
-            "Increasing identification of proceeds of crimes",
-            "Addressing technical deficiencies in TFS regime",
-            "Conducting risk-based monitoring of NPOs"
-          ],
-          "notes": "All deadlines are expired and work remains"
-        },
-        {
-          "country_name": "Kenya",
-          "country_code": "KE",
-          "commitment_date": "February 2024",
-          "key_deficiencies": [
-            "Presenting NRA results consistently",
-            "Improving risk-based AML/CFT supervision",
-            "Enhancing understanding of preventive measures",
-            "Designating authority for trusts and beneficial ownership information",
-            "Improving use of financial intelligence",
-            "Increasing ML and TF investigations and prosecutions",
-            "Ensuring TFS compliance",
-            "Revising NPO regulation framework"
-          ]
-        },
-        {
-          "country_name": "Lao PDR",
-          "country_code": "LA",
-          "commitment_date": "February 2025",
-          "key_deficiencies": [
-            "Enhancing understanding of ML/TF risks",
-            "Improving risk-based supervision",
-            "Enhancing financial intelligence analysis",
-            "Ensuring law enforcement training on money laundering",
-            "Demonstrating increase in ML investigations and prosecutions",
-            "Developing national confiscation policy",
-            "Demonstrating seizure and confiscation of proceeds of crime",
-            "Monitoring compliance with TFS PF obligations",
-            "Addressing technical compliance deficiencies"
-          ]
-        },
-        {
-          "country_name": "Lebanon",
-          "country_code": "LB",
-          "commitment_date": "October 2024",
-          "key_deficiencies": [
-            "Conducting assessments of specific TF and ML risks",
-            "Enhancing mutual legal assistance mechanisms",
-            "Enhancing DNFBPs' risk understanding",
-            "Ensuring up-to-date beneficial ownership information",
-            "Enhancing use of financial intelligence",
-            "Demonstrating increase in ML investigations and prosecutions",
-            "Improving asset recovery approach",
-            "Pursuing TF investigations",
-            "Enhancing implementation of targeted financial sanctions",
-            "Implementing risk-based monitoring of high-risk NPOs"
-          ]
-        },
-        {
-          "country_name": "Mali",
-          "country_code": "ML",
-          "commitment_date": "October 2021",
-          "status": "Substantially completed action plan, pending on-site assessment",
-          "key_reforms": [
-            "Disseminating NRA results to stakeholders",
-            "Developing risk-based approach for supervision",
-            "Assessing ML/TF risks for legal persons",
-            "Increasing FIU and LEA capacity",
-            "Ensuring relevant authorities involved in ML investigation",
-            "Strengthening TF investigation capacities",
-            "Establishing framework for targeted financial sanctions",
-            "Implementing risk-based approach for NPO supervision"
-          ]
-        },
-        {
-          "country_name": "Monaco",
-          "country_code": "MC",
-          "commitment_date": "June 2024",
-          "key_deficiencies": [
-            "Strengthening understanding of ML and tax fraud risks",
-            "Demonstrating increase in asset seizure requests abroad",
-            "Enhancing sanctions for AML/CFT breaches",
-            "Completing FIU resourcing program",
-            "Enhancing judicial efficiency",
-            "Increasing seizure of suspected criminal property"
-          ]
-        },
-        {
-          "country_name": "Mozambique",
-          "country_code": "MZ",
-          "commitment_date": "October 2022",
-          "key_deficiencies": [
-            "Carrying out NPO risk assessment and developing outreach plan"
-          ]
-        },
-        {
-          "country_name": "Namibia",
-          "country_code": "NA",
-          "commitment_date": "February 2024",
-          "key_deficiencies": [
-            "Strengthening risk-based supervision",
-            "Enhancing preventive measures through inspections and outreach",
-            "Increasing filing of beneficial ownership information",
-            "Improving FIU and LEA cooperation",
-            "Enhancing ML investigation capabilities",
-            "Demonstrating effective ML/TF investigation capabilities"
-          ]
-        },
-        {
-          "country_name": "Nepal",
-          "country_code": "NP",
-          "commitment_date": "February 2025",
-          "key_deficiencies": [
-            "Improving understanding of key ML/TF risks",
-            "Improving risk-based supervision",
-            "Demonstrating identification of illegal MVTS providers",
-            "Increasing capacity for ML investigations",
-            "Demonstrating increase in ML investigations and prosecutions",
-            "Demonstrating measures to identify and confiscate proceeds of crime",
-            "Addressing technical deficiencies in targeted financial sanctions"
-          ]
-        },
-        {
-          "country_name": "Nigeria",
-          "country_code": "NG",
-          "commitment_date": "February 2023",
-          "key_deficiencies": [
-            "Enhancing implementation of preventive measures for high-risk sectors",
-            "Proactively detecting violations of currency declaration obligations"
-          ]
-        },
-        {
-          "country_name": "South Africa",
-          "country_code": "ZA",
-          "commitment_date": "February 2023",
-          "key_deficiencies": [
-            "Demonstrating sustained increase in investigations and prosecutions of serious money laundering and TF activities"
-          ]
-        },
-        {
-          "country_name": "South Sudan",
-          "country_code": "SS",
-          "commitment_date": "June 2021",
-          "key_deficiencies": [
-            "Fully implementing international conventions",
-            "Ensuring risk-based supervision for financial institutions",
-            "Developing framework for beneficial ownership information",
-            "Operationalizing independent FIU",
-            "Implementing targeted financial sanctions framework",
-            "Implementing risk-based monitoring of NPOs"
-          ],
-          "notes": "All deadlines now expired with limited progress"
-        },
-        {
-          "country_name": "Syria",
-          "country_code": "SY",
-          "commitment_date": "February 2010",
-          "status": "Completed technical action plan in June 2014, but on-site visit not possible due to security situation"
-        },
-        {
-          "country_name": "Tanzania",
-          "country_code": "TZ",
-          "commitment_date": "October 2022",
-          "status": "Substantially completed action plan, pending on-site assessment",
-          "key_reforms": [
-            "Improving risk-based supervision",
-            "Demonstrating capability to investigate and prosecute ML",
-            "Demonstrating ability to identify and confiscate proceeds of crime",
-            "Conducting TF Risk Assessment and implementing CFT strategy",
-            "Increasing awareness of TF and PF-related TFS",
-            "Conducting NPO TF risk assessment"
-          ]
-        },
-        {
-          "country_name": "Venezuela",
-          "country_code": "VE",
-          "commitment_date": "June 2024",
-          "key_deficiencies": [
-            "Strengthening understanding of ML/TF risks",
-            "Ensuring financial institutions and DNFBPs are subject to AML/CFT measures",
-            "Ensuring access to beneficial ownership information",
-            "Enhancing FIU resources and use of financial intelligence",
-            "Enhancing investigation and prosecution of ML and TF",
-            "Ensuring risk-based NPO monitoring",
-            "Implementing targeted financial sanctions"
-          ]
-        },
-        {
-          "country_name": "Vietnam",
-          "country_code": "VN",
-          "commitment_date": "June 2023",
-          "key_deficiencies": [
-            "Increasing risk understanding and domestic coordination",
-            "Enhancing international cooperation",
-            "Implementing risk-based supervision",
-            "Regulating virtual assets and service providers",
-            "Addressing technical compliance deficiencies",
-            "Conducting private sector outreach",
-            "Establishing beneficial ownership information regime",
-            "Ensuring FIU independence",
-            "Increasing ML investigations and prosecutions",
-            "Implementing monitoring for PF TFS compliance"
-          ],
-          "notes": "Limited progress made"
-        },
-        {
-          "country_name": "Yemen",
-          "country_code": "YE",
-          "commitment_date": "February 2010",
-          "status": "Completed technical action plan in June 2014, but on-site visit not possible due to security situation"
-        }
+        { "country_name": "Algeria", "country_code": "DZ" },
+        { "country_name": "Angola", "country_code": "AO" },
+        { "country_name": "Bulgaria", "country_code": "BG" },
+        { "country_name": "Burkina Faso", "country_code": "BF" },
+        { "country_name": "Cameroon", "country_code": "CM" },
+        { "country_name": "Côte d'Ivoire", "country_code": "CI" },
+        { "country_name": "Croatia", "country_code": "HR", "status": "Pending on-site" },
+        { "country_name": "Democratic Republic of the Congo", "country_code": "CD" },
+        { "country_name": "Haiti", "country_code": "HT" },
+        { "country_name": "Kenya", "country_code": "KE" },
+        { "country_name": "Lao PDR", "country_code": "LA" },
+        { "country_name": "Lebanon", "country_code": "LB" },
+        { "country_name": "Mali", "country_code": "ML", "status": "Pending on-site" },
+        { "country_name": "Monaco", "country_code": "MC" },
+        { "country_name": "Mozambique", "country_code": "MZ" },
+        { "country_name": "Namibia", "country_code": "NA" },
+        { "country_name": "Nepal", "country_code": "NP" },
+        { "country_name": "Nigeria", "country_code": "NG" },
+        { "country_name": "South Africa", "country_code": "ZA" },
+        { "country_name": "South Sudan", "country_code": "SS" },
+        { "country_name": "Syria", "country_code": "SY", "status": "Visit not possible" },
+        { "country_name": "Tanzania", "country_code": "TZ", "status": "Pending on-site" },
+        { "country_name": "Venezuela", "country_code": "VE" },
+        { "country_name": "Vietnam", "country_code": "VN" },
+        { "country_name": "Yemen", "country_code": "YE", "status": "Visit not possible" }
       ]
     }
   }

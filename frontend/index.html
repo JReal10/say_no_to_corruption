@@ -69,42 +69,89 @@
 
 <body>
     <div class="container">
-        <div class = "logo">
+        <div class="logo">
             <img width="350" height="350" src="./assets/SNTC.png">
         </div>
         <h1>Search for an individual or an entity</h1>
         <input type="text" id="searchInput" placeholder="Type your query here..." />
         <br />
-        <button id="searchButton" onclick="handleSearch()">Search Individual</button>
-        <button id="searchButton" onclick="handleSearch()">Search Entity</button>
+        <button id="searchButton1" onclick="handleSearch('individual')">Search Individual</button>
+        <button id="searchButton2" onclick="handleSearch('entity')">Search Entity</button>
 
     </div>
 
     <script>
-        function handleSearch() {
-            const input = document.getElementById('searchInput');
-            const button = document.getElementById('searchButton');
-            const query = input.value.trim();
+        const input = document.getElementById('searchInput');
+        const button1 = document.getElementById('searchButton1');
+        const button2 = document.getElementById('searchButton2');
+        var query = input.value.trim();
 
+        async function APICall(searchType) {
+
+            if (searchType === "individual") {
+                var res = await fetch(`http://localhost:8000/search/individual/${query}`, {
+                    method: "GET"
+                })
+
+                res.json().then((v) => {
+                    console.log(v)
+                    localStorage.setItem("result", JSON.stringify(v));
+                    localStorage.setItem("query", query);
+                    window.location.href = "results.html"
+                })
+
+
+
+            }
+
+            if (searchType === "entity") {
+                var res = await fetch(`http://localhost:8000/search/company/${query}`, {
+                    method: "GET"
+                })
+
+                res.json().then((v) => {
+                    console.log(v)
+                    localStorage.setItem("result", JSON.stringify(v));
+                    localStorage.setItem("query", query);
+                    window.location.href = "results.html"
+                })
+            }
+
+        }
+
+        function handleSearch(searchType) {
+            query = input.value.trim();
             if (query === "") {
                 alert("Please enter a search query!");
                 return;
             }
 
-            // Disable input and show loading state
-            input.disabled = true;
-            button.disabled = true;
-            button.textContent = "Searching...";
+            if (searchType === "individual") {
+                input.disabled = true;
+                button1.disabled = true;
+                button1.textContent = "Searching...";
 
-            // Simulate async search
-            setTimeout(() => {
-                alert(`You searched for: "${query}"`);
 
-                // Reset input and button
-                input.disabled = false;
-                button.disabled = false;
-                button.textContent = "Search";
-            }, 3000);
+                APICall(searchType).then(() => {
+                    // Reset input and button
+                    input.disabled = false;
+                    button1.disabled = false;
+                    // button.textContent = "Search";
+                })
+            }
+
+            if (searchType === "entity") {
+                input.disabled = true;
+                button2.disabled = true;
+                button2.textContent = "Searching...";
+
+
+                APICall(searchType).then(() => {
+                    // Reset input and button
+                    input.disabled = false;
+                    button2.disabled = false;
+                })
+            }
         }
     </script>
 </body>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SNTC &#40;Say NO TO CORRUPTION&#41;</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #535252;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      text-align: left;
+      max-width: 1100px;
+      width: 100%;
+      padding-top: 70px;
+      padding-bottom: 20px;
+
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 30px;
+      color: #f3efef;
+    }
+
+    h2 {
+      color: white;
+      font-family: Geneva;
+    }
+
+    h3 {
+      color: white;
+      font-family: Geneva;
+    }
+
+    p {
+      color: white;
+      font-family: Geneva;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 15px;
+      font-size: 1.1rem;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      margin-bottom: 15px;
+    }
+
+    button {
+      padding: 12px 30px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 10px;
+      background-color: #9ea09f;
+      color: white;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #616161;
+    }
+
+    th,
+    td {
+      padding-right: 60px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <p>
+    <h2 id="results_name"> Results for </h2>
+    </p>
+    <div>
+      <p id="summary">
+
+      </p>
+      <p id="full_summary"></p>
+
+      </p>
+    </div>
+
+
+    <button onclick="document.location ='index.html'"> Back to Search </button>
+
+    <script>
+      const resultsHeader = document.getElementById('results_name');
+      const summaryDiv = document.getElementById('summary');
+      const fullSummaryDiv = document.getElementById('full_summary');
+
+      var searchQuery = localStorage.getItem("query");
+      var results = JSON.parse(localStorage.getItem("result"));
+      console.log(results.outputs.final_output);
+
+      resultsHeader.innerHTML = `Results for ${searchQuery}`;
+      summaryDiv.innerHTML = results.outputs.final_output.summary;
+
+      // Clean and format the 'value' string
+      let value = results.outputs.final_output.value;
+
+      // Replace **text** with <strong>text</strong>
+      value = value.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+      value = value.replace(/\#\#(.*?)\#\#/g, "<strong>$1</strong>");
+      value = value.replace(/\#\#(.*?)\#/g, "<strong>$1</strong>");
+
+      // Add <br> before numbered items for spacing if needed
+      // value = value.replace(/(\d+\.\s)/g, "<br><br>$1");
+
+      // Ensure each sentence ends with a line break for better readability
+      value = value.replace(/([^.])(\n|$)/g, '$1<br>');
+
+      fullSummaryDiv.innerHTML = value;
+    </script>
+
+  </div>
+
+</body>
+
+</html>
