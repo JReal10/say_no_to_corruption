@@ -1,0 +1,65 @@
+{
+  "generatedOn": "12 April 2025",
+  "description": "UN Security Council Consolidated Sanctions List",
+  "composition": {
+    "sections": [
+      "A. Individuals",
+      "B. Entities and other groups"
+    ],
+    "delisting_info": "Information about de-listing may be found at various UN Security Council websites"
+  },
+  "individuals": [
+    {
+      "id": "TAi.005",
+      "name": "MUHAMMAD TAHER ANWARI",
+      "title": "Mullah",
+      "designation": "Former Minister of Finance under the Taliban regime",
+      "dob": "Approximately 1961",
+      "pob": "Band-e Temur, Maiwand District, Kandahar Province, Afghanistan",
+      "nationality": "Afghanistan",
+      "listedOn": "23 Feb. 2001",
+      "otherInformation": "Belongs to Andar tribe."
+    },
+    {
+      "id": "TAi.007",
+      "name": "ABDUL LATIF MANSUR",
+      "title": "Maulavi",
+      "designation": "Minister of Agriculture under the Taliban regime",
+      "dob": "Approximately 1968",
+      "pob": "Zurmat District, Paktia Province, Afghanistan",
+      "nationality": "Afghanistan",
+      "listedOn": "31 Jan. 2001",
+      "otherInformation": "Taliban Shadow Governor for Logar Province as of late 2012."
+    },
+    {
+      "id": "TAi.003",
+      "name": "ABDUL KABIR MOHAMMAD JAN",
+      "title": "Maulavi",
+      "designation": "Former Deputy of Economic Affairs, Council of Ministers",
+      "dob": "Approximately 1963",
+      "pob": "Pul-e-Khumri, Baghlan Province, Afghanistan",
+      "nationality": "Afghanistan",
+      "listedOn": "25 Jan. 2001",
+      "otherInformation": "Member of the Taliban Supreme Council as at 2009."
+    },
+    {
+      "id": "TAi.004",
+      "name": "MOHAMMED OMAR GHULAM NABI",
+      "title": "Mullah",
+      "designation": "Leader of the Faithful ('Amir ul-Mumineen'), Afghanistan",
+      "dob": "Approximately 1966",
+      "pob": "Naw Deh village, Deh Rawud District, Uruzgan Province, Afghanistan",
+      "nationality": "Afghanistan",
+      "listedOn": "12 Apr. 2000",
+      "otherInformation": "Reportedly deceased as of April 2013."
+    },
+    {
+      "id": "QDi.054",
+      "name": "MAJEED ABDUL CHAUDHRY",
+      "dob": "15 Apr. 1939",
+      "listedOn": "24 Dec. 2001",
+      "otherInformation": "Reportedly deceased."
+    }
+  ],
+  "notice": "Generated on refers to the date on which the user accessed the list and not the last date of substantive update to the list. Information on the substantive list updates are provided on the Council / Committee's website."
+}
