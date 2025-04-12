@@ -41,10 +41,6 @@ async def root():
     """Root endpoint that returns a welcome message."""
     return {"message": "Welcome to Portia Search API"}
 
-@app.post("/search/company", response_model=SearchResponse)
-async def search_company(request: CompanySearchRequest):
-    
-    return 0
 
 @app.post("/search/individual", response_model=SearchResponse)
 async def search_individual(request: IndividualSearchRequest):
@@ -101,15 +97,49 @@ async def get_individual_search(name: str):
     request = IndividualSearchRequest(name=name)
     return await search_individual(request)
 
-@app.get("/search/company/")
-async def get_company_search(
-    name: str = Query(..., description="Company name to search for"),
-    country: Optional[str] = Query("", description="Country of operation")
-):
-    """Simple GET endpoint for company searches (for testing purposes)"""
-    request = CompanySearchRequest(name=name, country=country)
+@app.get("/search/company/{name}")
+async def get_company_search(name: str):
+    request = CompanySearchRequest(name=name)
     return await search_company(request)
+    """Simple GET endpoint for company searches (for testing purposes)"""
+    
+
+@app.post("/search/company", response_model=SearchResponse)
+async def search_company(request: CompanySearchRequest):
+    try:
+        load_dotenv(override=True)
+
+        config = default_config()
+        portia = Portia(config=config, tools = DefaultToolRegistry(config=config))
+
+        with execution_context(end_user_id = "api_user", additional_data={"name": "individual_search" }):
+            plan = portia.plan(
+                f"Search official registries or business datasets for *{request.name}*. "
+                f"Identify country of registration, incorporation date, registration number, and active status. "
+                f"Search internal JSON files for *{request.name}* in: 'EU_sanctioned_companies.json' "
+                #f"Search global news archives and financial reports for negative coverage related to *{request.name}*. "
+                f"Determine countries where *{request.name}* operates, holds assets, or has entities. "
+                #f"I dentifyCross-check these countries against 'high_risk_jurisdiction.json'. "
+            
+           
+            )
+
+            input(f"{plan.model_dump_json(indent = 2)}") 
+        
+            plan_run = portia.run_plan(plan)
+        
+            result = json.loads(plan_run.model_dump_json())
+            return JSONResponse(content = result)
+        
+    except Exception as e:
+        print(str(e))
+        raise HTTPException(status_code=500, detail=f"Error performing individual search: {str(e)}")
+
+
+
+    
 
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="localhost", port=8000)
+
