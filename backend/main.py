@@ -5,6 +5,7 @@ from portia.cli import CLIExecutionHooks
 from portia.open_source_tools.search_tool import SearchTool
 #from registry import custom_tool_registry
 from fastapi import FastAPI, Query, HTTPException
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
 from typing import Optional,Dict, Any
@@ -81,10 +82,11 @@ async def search_individual(request: IndividualSearchRequest):
             print(f"{plan.model_dump_json(indent = 2)}")
             
             # Return the results
-            # return {"result": json.loads(plan_run.model_dump_json())}
-            return SearchResponse(json.loads(plan_run.model_dump_json()))
+            result = json.loads(plan_run.model_dump_json())
+            return JSONResponse(content = result)
             
     except Exception as e:
+        print(str(e))
         raise HTTPException(status_code=500, detail=f"Error performing individual search: {str(e)}")
 
 @app.get("/search/individual/{name}")
