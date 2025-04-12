@@ -67,16 +67,15 @@ async def search_individual(request: IndividualSearchRequest):
         with execution_context(end_user_id="api_user", additional_data={"name": "individual_search"}):
             # Create plan
             plan = portia.plan(
-                f"**Web Footprint Analysis:** Conduct broad web searches for *{request.name}*. Identify biographical details, current and former prominent positions (especially in government, judiciary, military, state-owned enterprises, or international organizations), significant business affiliations, and known close associates or family members who might also be PEPs. Utilize search operators to refine results towards official sources, biographical entries, and corporate registries where applicable. "
-                f"**Professional Network Scan (e.g., LinkedIn via Web Search):** Search professional networking platforms accessible via the web for *{request.name}*'s profile. Extract information about their career trajectory, current/past job titles, seniority levels, connections, and listed organizations. Pay attention to roles that align with PEP definitions. "
-                f"**Adverse Media Screening:** Search reputable global and local news archives and websites for *{request.name}*. Focus specifically on identifying negative news articles or reports related to: * Allegations or convictions of financial crime (fraud, bribery, corruption, money laundering, terrorist financing). * Involvement in significant controversies, scandals, or investigations. * Sanctions, regulatory warnings, or disqualifications. * Keywords: *{request.name}* AND (investigation OR fraud OR bribery OR corruption OR money laundering OR scandal OR controversy OR sanction OR lawsuit OR charges OR allegations OR negative news). "
-                f"**Sanctions List Check:** Query the internal 'UK_sanction_list.json' file to determine if *{request.name}* is explicitly listed. "
-                #f"**Sanctions List Check:** Query the internal 'EU_sanction_list.json' file to determine if *{request.name}* is explicitly listed. "
-                f"**Sanctions List Check:** Query the internal 'UN_sanction_list.json' file to determine if *{request.name}* is explicitly listed. "
-                f"**Sanctions List Check:** Query the internal 'US_sanction_list.json' file to determine if *{request.name}* is explicitly listed. "
-                f"**High-Risk Jurisdiction Exposure:** a.Based on information gathered in Phase 1, identify countries where *{request.name}* holds citizenship, residency, has significant business operations, or holds/held prominent positions. b.Cross-reference these countries against the 'high_risk_jurisdiction.json' list. Note any matches. c.For relevant countries identified, retrieve their corruption perception scores/rankings from 'corruption_index.json'."
+                f"""
+                1.Search web for *{request.name}* focusing on current/recent government, judicial, military, state-enterprise, or international organization roles.
+                f"Search news using specific queries: *{request.name}* AND (corruption OR sanction OR investigation) limited to major news outlets and last 5 years."
+                3.Check 'UN_sanction_list.json' for exact match of *{request.name}*.
+                4. Search if *{request.name}* has citizenship and primary countries of activities in any "high_risk_jurisdiction.json" country'
+                5.Briefly report PEP indicators, adverse media hits (BBC), anction status, key countries, and flag if high-risk/PEP.
+                """
             )
-            
+        
             # Run the plan
             plan_run = portia.run_plan(plan)
             
@@ -92,7 +91,7 @@ async def get_individual_search(name: str):
     request = IndividualSearchRequest(name=name)
     return await search_individual(request)
 
-@app.get("/search/company/{name}")
+@app.get("/search/company/")
 async def get_company_search(
     name: str = Query(..., description="Company name to search for"),
     country: Optional[str] = Query("", description="Country of operation")
@@ -104,8 +103,6 @@ async def get_company_search(
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="localhost", port=8000)
-    
-    
 
 # def Individual_Search(individual_name):
     
