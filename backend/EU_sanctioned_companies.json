@@ -1,0 +1,3111 @@
+{
+  "metadata": {
+    "list_name": "EU Sanctioned Companies List",
+    "version": "2025.04.12",
+    "last_updated": "2025-04-12T14:38:17.272364",
+    "source": "European Union External Action Service",
+    "total_entries": 100
+  },
+  "sanctions": [
+    {
+      "id": "EU-COMP-0001",
+      "entity_type": "entity",
+      "primary_name": "Jones-Dean Ltd",
+      "name_aliases": [
+        "Jones-Dean Limited",
+        "Jones-Dean "
+      ],
+      "registration_details": {
+        "country": "Mauritania",
+        "registration_number": "EU958THrw",
+        "registration_date": "2007-10-05"
+      },
+      "addresses": [
+        {
+          "street": "17199 Salazar Tunnel",
+          "city": "Jesusburgh",
+          "country": "European Union",
+          "postal_code": "47382"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2024-03-25",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2015/412"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0002",
+      "entity_type": "entity",
+      "primary_name": "Thomas PLC Ltd",
+      "name_aliases": [
+        "Thomas PLC Limited",
+        "Thomas PLC "
+      ],
+      "registration_details": {
+        "country": "Senegal",
+        "registration_number": "EU330RyGH",
+        "registration_date": "2019-06-12"
+      },
+      "addresses": [
+        {
+          "street": "68654 Jeremy Haven Apt. 989",
+          "city": "Lake Jeremy",
+          "country": "European Union",
+          "postal_code": "52310"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2022-03-16",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2020/702"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0003",
+      "entity_type": "entity",
+      "primary_name": "Santana-Moore Ltd",
+      "name_aliases": [
+        "Santana-Moore Limited",
+        "Santana-Moore "
+      ],
+      "registration_details": {
+        "country": "Cocos (Keeling) Islands",
+        "registration_number": "EU392GlcJ",
+        "registration_date": "2014-12-11"
+      },
+      "addresses": [
+        {
+          "street": "123 Anne Ports",
+          "city": "Lake Logan",
+          "country": "European Union",
+          "postal_code": "54263"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2024-12-08",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2019/811"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0004",
+      "entity_type": "entity",
+      "primary_name": "Gonzales, Smith and Butler Ltd",
+      "name_aliases": [
+        "Gonzales, Smith and Butler Limited",
+        "Gonzales, Smith and Butler "
+      ],
+      "registration_details": {
+        "country": "Morocco",
+        "registration_number": "EU505uTYn",
+        "registration_date": "2013-01-28"
+      },
+      "addresses": [
+        {
+          "street": "1114 Michael Mission",
+          "city": "Jacksonburgh",
+          "country": "European Union",
+          "postal_code": "22829"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2019-11-23",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2022/680"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0005",
+      "entity_type": "entity",
+      "primary_name": "Palmer, Schmidt and Rose Ltd",
+      "name_aliases": [
+        "Palmer, Schmidt and Rose Limited",
+        "Palmer, Schmidt and Rose "
+      ],
+      "registration_details": {
+        "country": "Anguilla",
+        "registration_number": "EU470YmId",
+        "registration_date": "2007-05-01"
+      },
+      "addresses": [
+        {
+          "street": "08111 Liu Motorway",
+          "city": "Camposbury",
+          "country": "European Union",
+          "postal_code": "35295"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2019-10-26",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2020/424"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0006",
+      "entity_type": "entity",
+      "primary_name": "Pratt Inc Ltd",
+      "name_aliases": [
+        "Pratt Inc Limited",
+        "Pratt Inc "
+      ],
+      "registration_details": {
+        "country": "Spain",
+        "registration_number": "EU348hnpq",
+        "registration_date": "2014-05-19"
+      },
+      "addresses": [
+        {
+          "street": "7321 Michael Island Suite 307",
+          "city": "Bryanshire",
+          "country": "European Union",
+          "postal_code": "93142"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-03-21",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2015/678"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0007",
+      "entity_type": "entity",
+      "primary_name": "Stephenson, Pierce and Bell Ltd",
+      "name_aliases": [
+        "Stephenson, Pierce and Bell Limited",
+        "Stephenson, Pierce and Bell "
+      ],
+      "registration_details": {
+        "country": "Saint Martin",
+        "registration_number": "EU065wuxg",
+        "registration_date": "2011-01-24"
+      },
+      "addresses": [
+        {
+          "street": "06701 John Track Apt. 614",
+          "city": "Jasonburgh",
+          "country": "European Union",
+          "postal_code": "67932"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2020-06-20",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2022/219"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0008",
+      "entity_type": "entity",
+      "primary_name": "Melton-Wolf Ltd",
+      "name_aliases": [
+        "Melton-Wolf Limited",
+        "Melton-Wolf "
+      ],
+      "registration_details": {
+        "country": "Montenegro",
+        "registration_number": "EU744xtmS",
+        "registration_date": "2016-06-06"
+      },
+      "addresses": [
+        {
+          "street": "48836 Katelyn Port",
+          "city": "Maryside",
+          "country": "European Union",
+          "postal_code": "69540"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2023-07-17",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2015/344"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0009",
+      "entity_type": "entity",
+      "primary_name": "Butler, Rose and Moore Ltd",
+      "name_aliases": [
+        "Butler, Rose and Moore Limited",
+        "Butler, Rose and Moore "
+      ],
+      "registration_details": {
+        "country": "Estonia",
+        "registration_number": "EU276qCrN",
+        "registration_date": "2006-06-13"
+      },
+      "addresses": [
+        {
+          "street": "069 Angela Road",
+          "city": "Audreyshire",
+          "country": "European Union",
+          "postal_code": "61319"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2019-11-09",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2016/927"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0010",
+      "entity_type": "entity",
+      "primary_name": "Mcdonald and Sons Ltd",
+      "name_aliases": [
+        "Mcdonald and Sons Limited",
+        "Mcdonald and Sons "
+      ],
+      "registration_details": {
+        "country": "Uruguay",
+        "registration_number": "EU032pauL",
+        "registration_date": "2013-12-01"
+      },
+      "addresses": [
+        {
+          "street": "7121 Banks Club Apt. 107",
+          "city": "Lake Ronaldshire",
+          "country": "European Union",
+          "postal_code": "50229"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2022-02-26",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2024/397"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0011",
+      "entity_type": "entity",
+      "primary_name": "Martinez, Hodges and Garcia Ltd",
+      "name_aliases": [
+        "Martinez, Hodges and Garcia Limited",
+        "Martinez, Hodges and Garcia "
+      ],
+      "registration_details": {
+        "country": "Niger",
+        "registration_number": "EU250CFkA",
+        "registration_date": "2020-01-12"
+      },
+      "addresses": [
+        {
+          "street": "5350 Caitlin River Apt. 059",
+          "city": "Jacobfort",
+          "country": "European Union",
+          "postal_code": "57875"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2023-04-12",
+        "listing_authority": "European Union",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2017/914"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0012",
+      "entity_type": "entity",
+      "primary_name": "Smith, Hughes and Williams Ltd",
+      "name_aliases": [
+        "Smith, Hughes and Williams Limited",
+        "Smith, Hughes and Williams "
+      ],
+      "registration_details": {
+        "country": "Hong Kong",
+        "registration_number": "EU764Yvxj",
+        "registration_date": "2020-06-30"
+      },
+      "addresses": [
+        {
+          "street": "30315 Vincent Alley",
+          "city": "Floresville",
+          "country": "European Union",
+          "postal_code": "51909"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2024-03-06",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2017/917"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0013",
+      "entity_type": "entity",
+      "primary_name": "Graham LLC Ltd",
+      "name_aliases": [
+        "Graham LLC Limited",
+        "Graham LLC "
+      ],
+      "registration_details": {
+        "country": "Saint Vincent and the Grenadines",
+        "registration_number": "EU306GsAs",
+        "registration_date": "2013-06-15"
+      },
+      "addresses": [
+        {
+          "street": "323 Evan Fall Apt. 465",
+          "city": "Hillview",
+          "country": "European Union",
+          "postal_code": "45525"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2021-04-21",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2017/683"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0014",
+      "entity_type": "entity",
+      "primary_name": "Rogers-Martin Ltd",
+      "name_aliases": [
+        "Rogers-Martin Limited",
+        "Rogers-Martin "
+      ],
+      "registration_details": {
+        "country": "Christmas Island",
+        "registration_number": "EU981xNlG",
+        "registration_date": "2020-03-16"
+      },
+      "addresses": [
+        {
+          "street": "0939 Johnson Light Suite 886",
+          "city": "Larrymouth",
+          "country": "European Union",
+          "postal_code": "11089"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2024-06-01",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2022/852"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0015",
+      "entity_type": "entity",
+      "primary_name": "Ochoa Ltd Ltd",
+      "name_aliases": [
+        "Ochoa Limited Limited",
+        "Ochoa  "
+      ],
+      "registration_details": {
+        "country": "Guinea",
+        "registration_number": "EU300cgxH",
+        "registration_date": "2022-06-23"
+      },
+      "addresses": [
+        {
+          "street": "96122 Walker Throughway",
+          "city": "Jasonview",
+          "country": "European Union",
+          "postal_code": "03230"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-03-26",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2020/249"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0016",
+      "entity_type": "entity",
+      "primary_name": "Maldonado, Duffy and Carrillo Ltd",
+      "name_aliases": [
+        "Maldonado, Duffy and Carrillo Limited",
+        "Maldonado, Duffy and Carrillo "
+      ],
+      "registration_details": {
+        "country": "Anguilla",
+        "registration_number": "EU845UQAQ",
+        "registration_date": "2010-04-28"
+      },
+      "addresses": [
+        {
+          "street": "156 Lopez Summit Suite 541",
+          "city": "South Jordanfurt",
+          "country": "European Union",
+          "postal_code": "62509"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2021-06-26",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2025/245"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0017",
+      "entity_type": "entity",
+      "primary_name": "Franklin Inc Ltd",
+      "name_aliases": [
+        "Franklin Inc Limited",
+        "Franklin Inc "
+      ],
+      "registration_details": {
+        "country": "Grenada",
+        "registration_number": "EU219jJBR",
+        "registration_date": "2010-08-15"
+      },
+      "addresses": [
+        {
+          "street": "3101 Walsh Squares Apt. 573",
+          "city": "West Craig",
+          "country": "European Union",
+          "postal_code": "66897"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2019-11-24",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2015/264"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0018",
+      "entity_type": "entity",
+      "primary_name": "Kline Group Ltd",
+      "name_aliases": [
+        "Kline Group Limited",
+        "Kline Group "
+      ],
+      "registration_details": {
+        "country": "Wallis and Futuna",
+        "registration_number": "EU697DiBM",
+        "registration_date": "2018-10-04"
+      },
+      "addresses": [
+        {
+          "street": "59002 West Square Suite 142",
+          "city": "Whitneychester",
+          "country": "European Union",
+          "postal_code": "59466"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2024-01-17",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2018/413"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0019",
+      "entity_type": "entity",
+      "primary_name": "Welch PLC Ltd",
+      "name_aliases": [
+        "Welch PLC Limited",
+        "Welch PLC "
+      ],
+      "registration_details": {
+        "country": "Turkmenistan",
+        "registration_number": "EU876xLol",
+        "registration_date": "2005-05-24"
+      },
+      "addresses": [
+        {
+          "street": "3550 Jeremiah Squares",
+          "city": "East April",
+          "country": "European Union",
+          "postal_code": "13331"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2023-03-21",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2015/415"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0020",
+      "entity_type": "entity",
+      "primary_name": "Lewis-Montgomery Ltd",
+      "name_aliases": [
+        "Lewis-Montgomery Limited",
+        "Lewis-Montgomery "
+      ],
+      "registration_details": {
+        "country": "Cocos (Keeling) Islands",
+        "registration_number": "EU782Jfzy",
+        "registration_date": "2016-09-26"
+      },
+      "addresses": [
+        {
+          "street": "017 Roth Isle Suite 339",
+          "city": "Lake Johntown",
+          "country": "European Union",
+          "postal_code": "62623"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2021-05-23",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2016/979"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0021",
+      "entity_type": "entity",
+      "primary_name": "Murphy, Brown and Robinson Ltd",
+      "name_aliases": [
+        "Murphy, Brown and Robinson Limited",
+        "Murphy, Brown and Robinson "
+      ],
+      "registration_details": {
+        "country": "Senegal",
+        "registration_number": "EU197eayW",
+        "registration_date": "2017-10-05"
+      },
+      "addresses": [
+        {
+          "street": "19321 Gibbs Village",
+          "city": "Pooleville",
+          "country": "European Union",
+          "postal_code": "16194"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-07-15",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2019/901"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0022",
+      "entity_type": "entity",
+      "primary_name": "King, Jordan and Chambers Ltd",
+      "name_aliases": [
+        "King, Jordan and Chambers Limited",
+        "King, Jordan and Chambers "
+      ],
+      "registration_details": {
+        "country": "Iran",
+        "registration_number": "EU574MELc",
+        "registration_date": "2017-05-13"
+      },
+      "addresses": [
+        {
+          "street": "305 Thomas Common",
+          "city": "Richardsberg",
+          "country": "European Union",
+          "postal_code": "70670"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2021-04-29",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2017/384"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0023",
+      "entity_type": "entity",
+      "primary_name": "Holt Group Ltd",
+      "name_aliases": [
+        "Holt Group Limited",
+        "Holt Group "
+      ],
+      "registration_details": {
+        "country": "El Salvador",
+        "registration_number": "EU535wDxY",
+        "registration_date": "2020-07-20"
+      },
+      "addresses": [
+        {
+          "street": "7331 Anderson Brooks",
+          "city": "Lake Sharontown",
+          "country": "European Union",
+          "postal_code": "52532"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-08-24",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2021/319"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0024",
+      "entity_type": "entity",
+      "primary_name": "Castillo-Hamilton Ltd",
+      "name_aliases": [
+        "Castillo-Hamilton Limited",
+        "Castillo-Hamilton "
+      ],
+      "registration_details": {
+        "country": "Antigua and Barbuda",
+        "registration_number": "EU061Gxnd",
+        "registration_date": "2010-05-28"
+      },
+      "addresses": [
+        {
+          "street": "6757 Smith Stream Suite 859",
+          "city": "West Mary",
+          "country": "European Union",
+          "postal_code": "76108"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2022-06-27",
+        "listing_authority": "European Union",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2020/554"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0025",
+      "entity_type": "entity",
+      "primary_name": "Zhang, Willis and Alvarez Ltd",
+      "name_aliases": [
+        "Zhang, Willis and Alvarez Limited",
+        "Zhang, Willis and Alvarez "
+      ],
+      "registration_details": {
+        "country": "El Salvador",
+        "registration_number": "EU772DbJr",
+        "registration_date": "2017-02-17"
+      },
+      "addresses": [
+        {
+          "street": "1609 Parker Keys",
+          "city": "Lake Zachary",
+          "country": "European Union",
+          "postal_code": "94834"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2023-12-31",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2021/174"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0026",
+      "entity_type": "entity",
+      "primary_name": "Kennedy-Powell Ltd",
+      "name_aliases": [
+        "Kennedy-Powell Limited",
+        "Kennedy-Powell "
+      ],
+      "registration_details": {
+        "country": "Myanmar",
+        "registration_number": "EU269HTsb",
+        "registration_date": "2018-06-24"
+      },
+      "addresses": [
+        {
+          "street": "32689 Mcpherson Burg Suite 575",
+          "city": "Lake Linda",
+          "country": "European Union",
+          "postal_code": "55907"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2020-02-11",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2023/982"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0027",
+      "entity_type": "entity",
+      "primary_name": "Powell, Riley and Rosario Ltd",
+      "name_aliases": [
+        "Powell, Riley and Rosario Limited",
+        "Powell, Riley and Rosario "
+      ],
+      "registration_details": {
+        "country": "Germany",
+        "registration_number": "EU641rmuk",
+        "registration_date": "2015-12-16"
+      },
+      "addresses": [
+        {
+          "street": "2082 Moore Wells",
+          "city": "Port Richard",
+          "country": "European Union",
+          "postal_code": "49081"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-05-30",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2016/411"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0028",
+      "entity_type": "entity",
+      "primary_name": "Rogers Group Ltd",
+      "name_aliases": [
+        "Rogers Group Limited",
+        "Rogers Group "
+      ],
+      "registration_details": {
+        "country": "Samoa",
+        "registration_number": "EU475Selq",
+        "registration_date": "2014-06-03"
+      },
+      "addresses": [
+        {
+          "street": "91838 Mercer Mountain Apt. 076",
+          "city": "North Maria",
+          "country": "European Union",
+          "postal_code": "33231"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2021-09-10",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2024/197"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0029",
+      "entity_type": "entity",
+      "primary_name": "Kelley-Fitzgerald Ltd",
+      "name_aliases": [
+        "Kelley-Fitzgerald Limited",
+        "Kelley-Fitzgerald "
+      ],
+      "registration_details": {
+        "country": "Armenia",
+        "registration_number": "EU104bwMo",
+        "registration_date": "2014-04-02"
+      },
+      "addresses": [
+        {
+          "street": "60777 Anthony Ridges Suite 454",
+          "city": "Simonfurt",
+          "country": "European Union",
+          "postal_code": "97497"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2021-05-01",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2015/852"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0030",
+      "entity_type": "entity",
+      "primary_name": "Diaz Group Ltd",
+      "name_aliases": [
+        "Diaz Group Limited",
+        "Diaz Group "
+      ],
+      "registration_details": {
+        "country": "Liechtenstein",
+        "registration_number": "EU818FCMV",
+        "registration_date": "2017-01-19"
+      },
+      "addresses": [
+        {
+          "street": "43185 Kristine Plain Suite 177",
+          "city": "South Zacharyfort",
+          "country": "European Union",
+          "postal_code": "46975"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2021-10-18",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2017/272"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0031",
+      "entity_type": "entity",
+      "primary_name": "Delgado-Santos Ltd",
+      "name_aliases": [
+        "Delgado-Santos Limited",
+        "Delgado-Santos "
+      ],
+      "registration_details": {
+        "country": "Northern Mariana Islands",
+        "registration_number": "EU658afkz",
+        "registration_date": "2009-08-22"
+      },
+      "addresses": [
+        {
+          "street": "8308 Simpson Mount",
+          "city": "New Michelefurt",
+          "country": "European Union",
+          "postal_code": "94662"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2023-10-22",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2017/806"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0032",
+      "entity_type": "entity",
+      "primary_name": "Lee, Washington and Mills Ltd",
+      "name_aliases": [
+        "Lee, Washington and Mills Limited",
+        "Lee, Washington and Mills "
+      ],
+      "registration_details": {
+        "country": "Iran",
+        "registration_number": "EU535eSMk",
+        "registration_date": "2009-05-05"
+      },
+      "addresses": [
+        {
+          "street": "75940 Phillips Stravenue Suite 926",
+          "city": "South Stacystad",
+          "country": "European Union",
+          "postal_code": "90068"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2020-01-28",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2016/986"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0033",
+      "entity_type": "entity",
+      "primary_name": "Moran LLC Ltd",
+      "name_aliases": [
+        "Moran LLC Limited",
+        "Moran LLC "
+      ],
+      "registration_details": {
+        "country": "Chile",
+        "registration_number": "EU132CRGU",
+        "registration_date": "2009-07-21"
+      },
+      "addresses": [
+        {
+          "street": "03952 Barron Junction",
+          "city": "South Christinaside",
+          "country": "European Union",
+          "postal_code": "12202"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2023-04-18",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2021/790"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0034",
+      "entity_type": "entity",
+      "primary_name": "Weaver, Mejia and Pruitt Ltd",
+      "name_aliases": [
+        "Weaver, Mejia and Pruitt Limited",
+        "Weaver, Mejia and Pruitt "
+      ],
+      "registration_details": {
+        "country": "Japan",
+        "registration_number": "EU762kndE",
+        "registration_date": "2010-06-03"
+      },
+      "addresses": [
+        {
+          "street": "82447 Garcia Brooks Suite 368",
+          "city": "North Justinville",
+          "country": "European Union",
+          "postal_code": "89049"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2022-03-19",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2024/837"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0035",
+      "entity_type": "entity",
+      "primary_name": "Santiago, Johnson and Ruiz Ltd",
+      "name_aliases": [
+        "Santiago, Johnson and Ruiz Limited",
+        "Santiago, Johnson and Ruiz "
+      ],
+      "registration_details": {
+        "country": "Fiji",
+        "registration_number": "EU854ioXz",
+        "registration_date": "2006-06-24"
+      },
+      "addresses": [
+        {
+          "street": "4867 Miranda Spurs",
+          "city": "Jessicafort",
+          "country": "European Union",
+          "postal_code": "37771"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-06-06",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2017/266"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0036",
+      "entity_type": "entity",
+      "primary_name": "Davis and Sons Ltd",
+      "name_aliases": [
+        "Davis and Sons Limited",
+        "Davis and Sons "
+      ],
+      "registration_details": {
+        "country": "Ecuador",
+        "registration_number": "EU032mfMY",
+        "registration_date": "2021-02-28"
+      },
+      "addresses": [
+        {
+          "street": "157 Thomas Fords Apt. 018",
+          "city": "Charlestown",
+          "country": "European Union",
+          "postal_code": "02335"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-03-05",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2024/973"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0037",
+      "entity_type": "entity",
+      "primary_name": "Wilkerson, Lee and Edwards Ltd",
+      "name_aliases": [
+        "Wilkerson, Lee and Edwards Limited",
+        "Wilkerson, Lee and Edwards "
+      ],
+      "registration_details": {
+        "country": "United States Virgin Islands",
+        "registration_number": "EU713sxpI",
+        "registration_date": "2020-03-20"
+      },
+      "addresses": [
+        {
+          "street": "267 Nichole Branch Suite 731",
+          "city": "East Jacobfurt",
+          "country": "European Union",
+          "postal_code": "59607"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-04-22",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2017/299"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0038",
+      "entity_type": "entity",
+      "primary_name": "Baker, Roberts and Mckee Ltd",
+      "name_aliases": [
+        "Baker, Roberts and Mckee Limited",
+        "Baker, Roberts and Mckee "
+      ],
+      "registration_details": {
+        "country": "Rwanda",
+        "registration_number": "EU897xlmU",
+        "registration_date": "2022-12-20"
+      },
+      "addresses": [
+        {
+          "street": "73044 Michael Locks Apt. 618",
+          "city": "Lake Michael",
+          "country": "European Union",
+          "postal_code": "77636"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2022-06-04",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2023/171"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0039",
+      "entity_type": "entity",
+      "primary_name": "Cohen Inc Ltd",
+      "name_aliases": [
+        "Cohen Inc Limited",
+        "Cohen Inc "
+      ],
+      "registration_details": {
+        "country": "China",
+        "registration_number": "EU917QQqG",
+        "registration_date": "2011-03-14"
+      },
+      "addresses": [
+        {
+          "street": "15680 Rogers Field",
+          "city": "Lake Joseph",
+          "country": "European Union",
+          "postal_code": "76729"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2020-09-01",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2017/769"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0040",
+      "entity_type": "entity",
+      "primary_name": "Ballard Group Ltd",
+      "name_aliases": [
+        "Ballard Group Limited",
+        "Ballard Group "
+      ],
+      "registration_details": {
+        "country": "Guadeloupe",
+        "registration_number": "EU209xwsy",
+        "registration_date": "2020-03-29"
+      },
+      "addresses": [
+        {
+          "street": "507 Hill Orchard",
+          "city": "Robertport",
+          "country": "European Union",
+          "postal_code": "67591"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2025-01-07",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2020/391"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0041",
+      "entity_type": "entity",
+      "primary_name": "Torres-Carson Ltd",
+      "name_aliases": [
+        "Torres-Carson Limited",
+        "Torres-Carson "
+      ],
+      "registration_details": {
+        "country": "French Polynesia",
+        "registration_number": "EU537tmQK",
+        "registration_date": "2019-11-12"
+      },
+      "addresses": [
+        {
+          "street": "596 Brandon Prairie Suite 515",
+          "city": "Dudleyton",
+          "country": "European Union",
+          "postal_code": "96799"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-12-27",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2015/493"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0042",
+      "entity_type": "entity",
+      "primary_name": "King LLC Ltd",
+      "name_aliases": [
+        "King LLC Limited",
+        "King LLC "
+      ],
+      "registration_details": {
+        "country": "Barbados",
+        "registration_number": "EU915znCw",
+        "registration_date": "2020-10-06"
+      },
+      "addresses": [
+        {
+          "street": "7051 Katherine Islands",
+          "city": "Scottbury",
+          "country": "European Union",
+          "postal_code": "34473"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2023-03-28",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2017/696"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0043",
+      "entity_type": "entity",
+      "primary_name": "Hill-Cohen Ltd",
+      "name_aliases": [
+        "Hill-Cohen Limited",
+        "Hill-Cohen "
+      ],
+      "registration_details": {
+        "country": "Guam",
+        "registration_number": "EU408yXLy",
+        "registration_date": "2014-03-19"
+      },
+      "addresses": [
+        {
+          "street": "22488 Harding Station",
+          "city": "Gregorytown",
+          "country": "European Union",
+          "postal_code": "88356"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2022-08-16",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2022/659"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0044",
+      "entity_type": "entity",
+      "primary_name": "Moore, Ramos and Murphy Ltd",
+      "name_aliases": [
+        "Moore, Ramos and Murphy Limited",
+        "Moore, Ramos and Murphy "
+      ],
+      "registration_details": {
+        "country": "Yemen",
+        "registration_number": "EU046LgYK",
+        "registration_date": "2014-12-05"
+      },
+      "addresses": [
+        {
+          "street": "86722 Thompson Trace",
+          "city": "Johnchester",
+          "country": "European Union",
+          "postal_code": "42511"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2022-06-20",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2018/798"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0045",
+      "entity_type": "entity",
+      "primary_name": "Dyer, Ross and Grant Ltd",
+      "name_aliases": [
+        "Dyer, Ross and Grant Limited",
+        "Dyer, Ross and Grant "
+      ],
+      "registration_details": {
+        "country": "Montserrat",
+        "registration_number": "EU228sbFW",
+        "registration_date": "2016-06-23"
+      },
+      "addresses": [
+        {
+          "street": "2814 Garcia Overpass",
+          "city": "Jonesfort",
+          "country": "European Union",
+          "postal_code": "50304"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-09-20",
+        "listing_authority": "European Union",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2019/904"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0046",
+      "entity_type": "entity",
+      "primary_name": "Brown Group Ltd",
+      "name_aliases": [
+        "Brown Group Limited",
+        "Brown Group "
+      ],
+      "registration_details": {
+        "country": "Mauritius",
+        "registration_number": "EU555iffg",
+        "registration_date": "2011-10-22"
+      },
+      "addresses": [
+        {
+          "street": "74524 Steven Court Apt. 794",
+          "city": "East Christine",
+          "country": "European Union",
+          "postal_code": "57295"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2022-10-30",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2017/105"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0047",
+      "entity_type": "entity",
+      "primary_name": "Frey, Gross and Walker Ltd",
+      "name_aliases": [
+        "Frey, Gross and Walker Limited",
+        "Frey, Gross and Walker "
+      ],
+      "registration_details": {
+        "country": "Turkey",
+        "registration_number": "EU027mYAW",
+        "registration_date": "2017-07-28"
+      },
+      "addresses": [
+        {
+          "street": "5494 Cynthia Greens",
+          "city": "North Karenhaven",
+          "country": "European Union",
+          "postal_code": "67844"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2024-09-16",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2025/224"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0048",
+      "entity_type": "entity",
+      "primary_name": "Wise Inc Ltd",
+      "name_aliases": [
+        "Wise Inc Limited",
+        "Wise Inc "
+      ],
+      "registration_details": {
+        "country": "Romania",
+        "registration_number": "EU023jRiZ",
+        "registration_date": "2016-10-30"
+      },
+      "addresses": [
+        {
+          "street": "979 Mcneil Square Apt. 840",
+          "city": "South Kerryburgh",
+          "country": "European Union",
+          "postal_code": "42600"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-12-17",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2017/548"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0049",
+      "entity_type": "entity",
+      "primary_name": "Perez-Pacheco Ltd",
+      "name_aliases": [
+        "Perez-Pacheco Limited",
+        "Perez-Pacheco "
+      ],
+      "registration_details": {
+        "country": "Somalia",
+        "registration_number": "EU617LaSt",
+        "registration_date": "2010-11-01"
+      },
+      "addresses": [
+        {
+          "street": "8645 Mark Prairie",
+          "city": "North Jesus",
+          "country": "European Union",
+          "postal_code": "77057"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2024-07-22",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2022/339"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0050",
+      "entity_type": "entity",
+      "primary_name": "Christian and Sons Ltd",
+      "name_aliases": [
+        "Christian and Sons Limited",
+        "Christian and Sons "
+      ],
+      "registration_details": {
+        "country": "Falkland Islands (Malvinas)",
+        "registration_number": "EU826okfS",
+        "registration_date": "2015-12-28"
+      },
+      "addresses": [
+        {
+          "street": "14142 Lawrence Tunnel",
+          "city": "New Thomasfort",
+          "country": "European Union",
+          "postal_code": "49303"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2021-09-01",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2019/122"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0051",
+      "entity_type": "entity",
+      "primary_name": "Snyder-Hunt Ltd",
+      "name_aliases": [
+        "Snyder-Hunt Limited",
+        "Snyder-Hunt "
+      ],
+      "registration_details": {
+        "country": "Mongolia",
+        "registration_number": "EU901thyE",
+        "registration_date": "2018-10-18"
+      },
+      "addresses": [
+        {
+          "street": "54623 Smith Flat",
+          "city": "Margaretfurt",
+          "country": "European Union",
+          "postal_code": "97296"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2023-12-26",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2019/626"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0052",
+      "entity_type": "entity",
+      "primary_name": "Davis, Mason and Armstrong Ltd",
+      "name_aliases": [
+        "Davis, Mason and Armstrong Limited",
+        "Davis, Mason and Armstrong "
+      ],
+      "registration_details": {
+        "country": "Bermuda",
+        "registration_number": "EU152XGWj",
+        "registration_date": "2016-04-01"
+      },
+      "addresses": [
+        {
+          "street": "47633 Flores Land",
+          "city": "Simonport",
+          "country": "European Union",
+          "postal_code": "67177"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-10-16",
+        "listing_authority": "EU Council",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2025/425"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0053",
+      "entity_type": "entity",
+      "primary_name": "Mccarthy Inc Ltd",
+      "name_aliases": [
+        "Mccarthy Inc Limited",
+        "Mccarthy Inc "
+      ],
+      "registration_details": {
+        "country": "Estonia",
+        "registration_number": "EU359bhAP",
+        "registration_date": "2017-10-02"
+      },
+      "addresses": [
+        {
+          "street": "897 Townsend Fort",
+          "city": "Ellisborough",
+          "country": "European Union",
+          "postal_code": "90754"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2021-08-30",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2017/477"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0054",
+      "entity_type": "entity",
+      "primary_name": "Thompson, Cowan and Lawson Ltd",
+      "name_aliases": [
+        "Thompson, Cowan and Lawson Limited",
+        "Thompson, Cowan and Lawson "
+      ],
+      "registration_details": {
+        "country": "Ecuador",
+        "registration_number": "EU344yoiV",
+        "registration_date": "2022-02-17"
+      },
+      "addresses": [
+        {
+          "street": "8977 David Walks Apt. 348",
+          "city": "West Michael",
+          "country": "European Union",
+          "postal_code": "91030"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2024-11-06",
+        "listing_authority": "European Union",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2024/550"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0055",
+      "entity_type": "entity",
+      "primary_name": "Fox Group Ltd",
+      "name_aliases": [
+        "Fox Group Limited",
+        "Fox Group "
+      ],
+      "registration_details": {
+        "country": "Panama",
+        "registration_number": "EU018eDPR",
+        "registration_date": "2012-08-17"
+      },
+      "addresses": [
+        {
+          "street": "24299 Monica Viaduct Apt. 020",
+          "city": "Port Tyler",
+          "country": "European Union",
+          "postal_code": "42213"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2023-01-09",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2025/588"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0056",
+      "entity_type": "entity",
+      "primary_name": "Clarke-Shaw Ltd",
+      "name_aliases": [
+        "Clarke-Shaw Limited",
+        "Clarke-Shaw "
+      ],
+      "registration_details": {
+        "country": "Kazakhstan",
+        "registration_number": "EU165LWfJ",
+        "registration_date": "2015-02-19"
+      },
+      "addresses": [
+        {
+          "street": "0930 Martin Wall Suite 818",
+          "city": "Sanchezview",
+          "country": "European Union",
+          "postal_code": "93157"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2022-11-18",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2022/289"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0057",
+      "entity_type": "entity",
+      "primary_name": "Campbell, Jacobs and Smith Ltd",
+      "name_aliases": [
+        "Campbell, Jacobs and Smith Limited",
+        "Campbell, Jacobs and Smith "
+      ],
+      "registration_details": {
+        "country": "Christmas Island",
+        "registration_number": "EU833DPen",
+        "registration_date": "2013-08-07"
+      },
+      "addresses": [
+        {
+          "street": "8252 Caldwell Fields Suite 309",
+          "city": "Vaughanview",
+          "country": "European Union",
+          "postal_code": "36983"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2021-03-08",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2019/343"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0058",
+      "entity_type": "entity",
+      "primary_name": "Smith-Hines Ltd",
+      "name_aliases": [
+        "Smith-Hines Limited",
+        "Smith-Hines "
+      ],
+      "registration_details": {
+        "country": "Jordan",
+        "registration_number": "EU919xlCj",
+        "registration_date": "2015-07-14"
+      },
+      "addresses": [
+        {
+          "street": "888 Sherri Courts Apt. 884",
+          "city": "North David",
+          "country": "European Union",
+          "postal_code": "94870"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2024-02-20",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2024/831"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0059",
+      "entity_type": "entity",
+      "primary_name": "Gutierrez, Vega and Patel Ltd",
+      "name_aliases": [
+        "Gutierrez, Vega and Patel Limited",
+        "Gutierrez, Vega and Patel "
+      ],
+      "registration_details": {
+        "country": "Nicaragua",
+        "registration_number": "EU258iobw",
+        "registration_date": "2020-05-22"
+      },
+      "addresses": [
+        {
+          "street": "506 Blake Crossing Apt. 392",
+          "city": "Lake David",
+          "country": "European Union",
+          "postal_code": "21376"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2023-09-21",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2025/969"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0060",
+      "entity_type": "entity",
+      "primary_name": "Griffith-Rios Ltd",
+      "name_aliases": [
+        "Griffith-Rios Limited",
+        "Griffith-Rios "
+      ],
+      "registration_details": {
+        "country": "Northern Mariana Islands",
+        "registration_number": "EU462tVCo",
+        "registration_date": "2017-08-04"
+      },
+      "addresses": [
+        {
+          "street": "494 Marshall Drive",
+          "city": "Lake Robertfort",
+          "country": "European Union",
+          "postal_code": "19908"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-09-10",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2015/433"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0061",
+      "entity_type": "entity",
+      "primary_name": "Lee, Phillips and Nelson Ltd",
+      "name_aliases": [
+        "Lee, Phillips and Nelson Limited",
+        "Lee, Phillips and Nelson "
+      ],
+      "registration_details": {
+        "country": "Falkland Islands (Malvinas)",
+        "registration_number": "EU931dGqy",
+        "registration_date": "2018-03-10"
+      },
+      "addresses": [
+        {
+          "street": "13465 Crystal Curve",
+          "city": "South Allisonbury",
+          "country": "European Union",
+          "postal_code": "58597"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-09-09",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2017/467"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0062",
+      "entity_type": "entity",
+      "primary_name": "Taylor LLC Ltd",
+      "name_aliases": [
+        "Taylor LLC Limited",
+        "Taylor LLC "
+      ],
+      "registration_details": {
+        "country": "Greenland",
+        "registration_number": "EU467RKUL",
+        "registration_date": "2010-02-27"
+      },
+      "addresses": [
+        {
+          "street": "283 Marie Mountain Suite 612",
+          "city": "Smithview",
+          "country": "European Union",
+          "postal_code": "65594"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2021-12-19",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2018/584"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0063",
+      "entity_type": "entity",
+      "primary_name": "Gutierrez, Bell and Waller Ltd",
+      "name_aliases": [
+        "Gutierrez, Bell and Waller Limited",
+        "Gutierrez, Bell and Waller "
+      ],
+      "registration_details": {
+        "country": "Saint Pierre and Miquelon",
+        "registration_number": "EU823VlTT",
+        "registration_date": "2013-07-24"
+      },
+      "addresses": [
+        {
+          "street": "5667 Nathan Divide",
+          "city": "New James",
+          "country": "European Union",
+          "postal_code": "43556"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-09-02",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2017/463"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0064",
+      "entity_type": "entity",
+      "primary_name": "Vargas Group Ltd",
+      "name_aliases": [
+        "Vargas Group Limited",
+        "Vargas Group "
+      ],
+      "registration_details": {
+        "country": "Denmark",
+        "registration_number": "EU569tDUU",
+        "registration_date": "2016-10-08"
+      },
+      "addresses": [
+        {
+          "street": "383 Arellano Valley Suite 930",
+          "city": "South Michaelport",
+          "country": "European Union",
+          "postal_code": "59743"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2021-01-06",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2018/538"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0065",
+      "entity_type": "entity",
+      "primary_name": "Bond Ltd Ltd",
+      "name_aliases": [
+        "Bond Limited Limited",
+        "Bond  "
+      ],
+      "registration_details": {
+        "country": "Isle of Man",
+        "registration_number": "EU178pGdz",
+        "registration_date": "2021-09-08"
+      },
+      "addresses": [
+        {
+          "street": "23238 Anthony Tunnel Suite 909",
+          "city": "Lake Wendyview",
+          "country": "European Union",
+          "postal_code": "81287"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-01-07",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2016/581"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0066",
+      "entity_type": "entity",
+      "primary_name": "Espinoza Inc Ltd",
+      "name_aliases": [
+        "Espinoza Inc Limited",
+        "Espinoza Inc "
+      ],
+      "registration_details": {
+        "country": "Bermuda",
+        "registration_number": "EU209qEaG",
+        "registration_date": "2010-07-19"
+      },
+      "addresses": [
+        {
+          "street": "19018 Garcia Bridge Apt. 383",
+          "city": "East Scottland",
+          "country": "European Union",
+          "postal_code": "19877"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2024-04-28",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2025/922"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0067",
+      "entity_type": "entity",
+      "primary_name": "Young PLC Ltd",
+      "name_aliases": [
+        "Young PLC Limited",
+        "Young PLC "
+      ],
+      "registration_details": {
+        "country": "Israel",
+        "registration_number": "EU270qDdM",
+        "registration_date": "2006-07-12"
+      },
+      "addresses": [
+        {
+          "street": "7898 Victoria View Suite 095",
+          "city": "Phillipsbury",
+          "country": "European Union",
+          "postal_code": "97008"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2023-04-18",
+        "listing_authority": "EU Council",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2022/346"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0068",
+      "entity_type": "entity",
+      "primary_name": "Thomas-Morris Ltd",
+      "name_aliases": [
+        "Thomas-Morris Limited",
+        "Thomas-Morris "
+      ],
+      "registration_details": {
+        "country": "Chile",
+        "registration_number": "EU340GLfP",
+        "registration_date": "2021-06-17"
+      },
+      "addresses": [
+        {
+          "street": "2382 Hill Mountains Suite 889",
+          "city": "Connerton",
+          "country": "European Union",
+          "postal_code": "59245"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2024-05-01",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2024/971"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0069",
+      "entity_type": "entity",
+      "primary_name": "Macias-Hicks Ltd",
+      "name_aliases": [
+        "Macias-Hicks Limited",
+        "Macias-Hicks "
+      ],
+      "registration_details": {
+        "country": "Canada",
+        "registration_number": "EU153NZVW",
+        "registration_date": "2014-10-24"
+      },
+      "addresses": [
+        {
+          "street": "1363 Alexander Gardens",
+          "city": "South Darrenhaven",
+          "country": "European Union",
+          "postal_code": "11685"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2020-07-09",
+        "listing_authority": "EU Council",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2016/793"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0070",
+      "entity_type": "entity",
+      "primary_name": "Odonnell, Anderson and Cooley Ltd",
+      "name_aliases": [
+        "Odonnell, Anderson and Cooley Limited",
+        "Odonnell, Anderson and Cooley "
+      ],
+      "registration_details": {
+        "country": "South Africa",
+        "registration_number": "EU710ollD",
+        "registration_date": "2020-04-24"
+      },
+      "addresses": [
+        {
+          "street": "700 Hayes Green",
+          "city": "Ortizberg",
+          "country": "European Union",
+          "postal_code": "41462"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-01-28",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2017/312"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0071",
+      "entity_type": "entity",
+      "primary_name": "Nelson PLC Ltd",
+      "name_aliases": [
+        "Nelson PLC Limited",
+        "Nelson PLC "
+      ],
+      "registration_details": {
+        "country": "Brunei Darussalam",
+        "registration_number": "EU882LBSM",
+        "registration_date": "2016-05-19"
+      },
+      "addresses": [
+        {
+          "street": "724 Richards Ferry Apt. 613",
+          "city": "North Dianeville",
+          "country": "European Union",
+          "postal_code": "35090"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2021-02-22",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2015/640"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0072",
+      "entity_type": "entity",
+      "primary_name": "Morgan-Long Ltd",
+      "name_aliases": [
+        "Morgan-Long Limited",
+        "Morgan-Long "
+      ],
+      "registration_details": {
+        "country": "Burundi",
+        "registration_number": "EU177lOYk",
+        "registration_date": "2012-07-16"
+      },
+      "addresses": [
+        {
+          "street": "427 Richard Expressway",
+          "city": "New Kevinchester",
+          "country": "European Union",
+          "postal_code": "20959"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-04-02",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2017/544"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0073",
+      "entity_type": "entity",
+      "primary_name": "Edwards, Fox and Johnson Ltd",
+      "name_aliases": [
+        "Edwards, Fox and Johnson Limited",
+        "Edwards, Fox and Johnson "
+      ],
+      "registration_details": {
+        "country": "Liberia",
+        "registration_number": "EU695jbDl",
+        "registration_date": "2013-06-13"
+      },
+      "addresses": [
+        {
+          "street": "61257 William Circles Suite 320",
+          "city": "Robertfort",
+          "country": "European Union",
+          "postal_code": "57612"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-01-07",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2024/511"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0074",
+      "entity_type": "entity",
+      "primary_name": "Lane Ltd Ltd",
+      "name_aliases": [
+        "Lane Limited Limited",
+        "Lane  "
+      ],
+      "registration_details": {
+        "country": "Sri Lanka",
+        "registration_number": "EU064boYR",
+        "registration_date": "2014-10-06"
+      },
+      "addresses": [
+        {
+          "street": "137 Russell Orchard Suite 265",
+          "city": "Lauraville",
+          "country": "European Union",
+          "postal_code": "54453"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2022-12-06",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2020/790"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0075",
+      "entity_type": "entity",
+      "primary_name": "Holmes-Dickerson Ltd",
+      "name_aliases": [
+        "Holmes-Dickerson Limited",
+        "Holmes-Dickerson "
+      ],
+      "registration_details": {
+        "country": "Somalia",
+        "registration_number": "EU383tUwS",
+        "registration_date": "2017-07-08"
+      },
+      "addresses": [
+        {
+          "street": "3064 Simpson Islands",
+          "city": "East Ronaldton",
+          "country": "European Union",
+          "postal_code": "76901"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2022-02-14",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2019/661"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0076",
+      "entity_type": "entity",
+      "primary_name": "Hall, Sanford and Schneider Ltd",
+      "name_aliases": [
+        "Hall, Sanford and Schneider Limited",
+        "Hall, Sanford and Schneider "
+      ],
+      "registration_details": {
+        "country": "Palau",
+        "registration_number": "EU908SaJy",
+        "registration_date": "2013-04-13"
+      },
+      "addresses": [
+        {
+          "street": "9946 Pineda Lodge Suite 691",
+          "city": "New Deborah",
+          "country": "European Union",
+          "postal_code": "44846"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2020-10-03",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2015/548"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0077",
+      "entity_type": "entity",
+      "primary_name": "Barry Inc Ltd",
+      "name_aliases": [
+        "Barry Inc Limited",
+        "Barry Inc "
+      ],
+      "registration_details": {
+        "country": "Brunei Darussalam",
+        "registration_number": "EU534JOFw",
+        "registration_date": "2008-03-28"
+      },
+      "addresses": [
+        {
+          "street": "1557 Grace Alley Apt. 304",
+          "city": "Port Jenniferview",
+          "country": "European Union",
+          "postal_code": "72571"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-03-17",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2024/292"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0078",
+      "entity_type": "entity",
+      "primary_name": "Santos PLC Ltd",
+      "name_aliases": [
+        "Santos PLC Limited",
+        "Santos PLC "
+      ],
+      "registration_details": {
+        "country": "Macao",
+        "registration_number": "EU265fsBG",
+        "registration_date": "2005-09-19"
+      },
+      "addresses": [
+        {
+          "street": "4305 White Vista",
+          "city": "Ericstad",
+          "country": "European Union",
+          "postal_code": "09294"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2021-05-02",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2015/705"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0079",
+      "entity_type": "entity",
+      "primary_name": "Carter Ltd Ltd",
+      "name_aliases": [
+        "Carter Limited Limited",
+        "Carter  "
+      ],
+      "registration_details": {
+        "country": "Lithuania",
+        "registration_number": "EU356bOeq",
+        "registration_date": "2011-02-19"
+      },
+      "addresses": [
+        {
+          "street": "05177 Dennis Fall",
+          "city": "South Kelly",
+          "country": "European Union",
+          "postal_code": "83897"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2020-02-12",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2017/621"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0080",
+      "entity_type": "entity",
+      "primary_name": "Rodriguez, Nunez and Norris Ltd",
+      "name_aliases": [
+        "Rodriguez, Nunez and Norris Limited",
+        "Rodriguez, Nunez and Norris "
+      ],
+      "registration_details": {
+        "country": "Guinea-Bissau",
+        "registration_number": "EU560BdnN",
+        "registration_date": "2012-05-06"
+      },
+      "addresses": [
+        {
+          "street": "37201 Michele Light Apt. 295",
+          "city": "North Jane",
+          "country": "European Union",
+          "postal_code": "84863"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2025-02-02",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2021/733"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0081",
+      "entity_type": "entity",
+      "primary_name": "Fisher Ltd Ltd",
+      "name_aliases": [
+        "Fisher Limited Limited",
+        "Fisher  "
+      ],
+      "registration_details": {
+        "country": "Liberia",
+        "registration_number": "EU320atFp",
+        "registration_date": "2013-06-01"
+      },
+      "addresses": [
+        {
+          "street": "786 May Cove",
+          "city": "West Kyletown",
+          "country": "European Union",
+          "postal_code": "69128"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2025-04-10",
+        "listing_authority": "European Union",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2024/230"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0082",
+      "entity_type": "entity",
+      "primary_name": "Garrison and Sons Ltd",
+      "name_aliases": [
+        "Garrison and Sons Limited",
+        "Garrison and Sons "
+      ],
+      "registration_details": {
+        "country": "Belgium",
+        "registration_number": "EU437mlYH",
+        "registration_date": "2005-08-28"
+      },
+      "addresses": [
+        {
+          "street": "87988 Michael Trafficway Suite 565",
+          "city": "Port Gracebury",
+          "country": "European Union",
+          "postal_code": "49571"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2021-07-10",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2015/858"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0083",
+      "entity_type": "entity",
+      "primary_name": "Haas, Cabrera and Smith Ltd",
+      "name_aliases": [
+        "Haas, Cabrera and Smith Limited",
+        "Haas, Cabrera and Smith "
+      ],
+      "registration_details": {
+        "country": "Mexico",
+        "registration_number": "EU888lhDy",
+        "registration_date": "2019-02-04"
+      },
+      "addresses": [
+        {
+          "street": "3176 Beck Meadows",
+          "city": "Davidside",
+          "country": "European Union",
+          "postal_code": "24598"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2023-02-08",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2022/620"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0084",
+      "entity_type": "entity",
+      "primary_name": "Gomez, Mcmillan and Evans Ltd",
+      "name_aliases": [
+        "Gomez, Mcmillan and Evans Limited",
+        "Gomez, Mcmillan and Evans "
+      ],
+      "registration_details": {
+        "country": "Lithuania",
+        "registration_number": "EU793AGAY",
+        "registration_date": "2007-12-01"
+      },
+      "addresses": [
+        {
+          "street": "0622 Hill Divide",
+          "city": "South Daniel",
+          "country": "European Union",
+          "postal_code": "54460"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2024-06-24",
+        "listing_authority": "EU Council",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2024/398"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0085",
+      "entity_type": "entity",
+      "primary_name": "Jacobs Group Ltd",
+      "name_aliases": [
+        "Jacobs Group Limited",
+        "Jacobs Group "
+      ],
+      "registration_details": {
+        "country": "Brazil",
+        "registration_number": "EU236uqau",
+        "registration_date": "2007-04-12"
+      },
+      "addresses": [
+        {
+          "street": "564 Smith Landing Suite 270",
+          "city": "Maxwelltown",
+          "country": "European Union",
+          "postal_code": "84457"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2021-09-29",
+        "listing_authority": "European Union",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2020/442"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0086",
+      "entity_type": "entity",
+      "primary_name": "Wiggins, Williams and Miller Ltd",
+      "name_aliases": [
+        "Wiggins, Williams and Miller Limited",
+        "Wiggins, Williams and Miller "
+      ],
+      "registration_details": {
+        "country": "Somalia",
+        "registration_number": "EU457bYMU",
+        "registration_date": "2022-02-13"
+      },
+      "addresses": [
+        {
+          "street": "2645 Howell Wells Apt. 437",
+          "city": "Harrisborough",
+          "country": "European Union",
+          "postal_code": "35087"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2023-08-24",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Involvement in human rights violations",
+        "references": [
+          "EU Regulation 2020/983"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0087",
+      "entity_type": "entity",
+      "primary_name": "Liu Inc Ltd",
+      "name_aliases": [
+        "Liu Inc Limited",
+        "Liu Inc "
+      ],
+      "registration_details": {
+        "country": "Angola",
+        "registration_number": "EU377ymrp",
+        "registration_date": "2011-08-13"
+      },
+      "addresses": [
+        {
+          "street": "872 Colton Loop Suite 195",
+          "city": "West Charlesview",
+          "country": "European Union",
+          "postal_code": "35858"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-08-22",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2022/202"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0088",
+      "entity_type": "entity",
+      "primary_name": "Byrd Inc Ltd",
+      "name_aliases": [
+        "Byrd Inc Limited",
+        "Byrd Inc "
+      ],
+      "registration_details": {
+        "country": "Nepal",
+        "registration_number": "EU788MQvi",
+        "registration_date": "2020-10-10"
+      },
+      "addresses": [
+        {
+          "street": "56561 Julie Mills Suite 081",
+          "city": "North Maryville",
+          "country": "European Union",
+          "postal_code": "63448"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2020-01-30",
+        "listing_authority": "EU Council",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2020/793"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0089",
+      "entity_type": "entity",
+      "primary_name": "Baker LLC Ltd",
+      "name_aliases": [
+        "Baker LLC Limited",
+        "Baker LLC "
+      ],
+      "registration_details": {
+        "country": "Djibouti",
+        "registration_number": "EU472TgnY",
+        "registration_date": "2018-07-10"
+      },
+      "addresses": [
+        {
+          "street": "091 Jeffrey Mountain Suite 355",
+          "city": "Amyton",
+          "country": "European Union",
+          "postal_code": "50048"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2025-01-24",
+        "listing_authority": "EU Council",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2023/455"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0090",
+      "entity_type": "entity",
+      "primary_name": "Evans PLC Ltd",
+      "name_aliases": [
+        "Evans PLC Limited",
+        "Evans PLC "
+      ],
+      "registration_details": {
+        "country": "Azerbaijan",
+        "registration_number": "EU792aEOl",
+        "registration_date": "2006-02-21"
+      },
+      "addresses": [
+        {
+          "street": "436 John Parkway Apt. 199",
+          "city": "Lake Michaelton",
+          "country": "European Union",
+          "postal_code": "22243"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2023-12-31",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2020/797"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0091",
+      "entity_type": "entity",
+      "primary_name": "Nicholson and Sons Ltd",
+      "name_aliases": [
+        "Nicholson and Sons Limited",
+        "Nicholson and Sons "
+      ],
+      "registration_details": {
+        "country": "Cuba",
+        "registration_number": "EU452alvE",
+        "registration_date": "2006-05-26"
+      },
+      "addresses": [
+        {
+          "street": "7595 Martinez Radial",
+          "city": "Jackmouth",
+          "country": "European Union",
+          "postal_code": "96257"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2024-01-06",
+        "listing_authority": "EU Council",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2022/793"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0092",
+      "entity_type": "entity",
+      "primary_name": "Welch Group Ltd",
+      "name_aliases": [
+        "Welch Group Limited",
+        "Welch Group "
+      ],
+      "registration_details": {
+        "country": "Dominica",
+        "registration_number": "EU912XupW",
+        "registration_date": "2020-12-05"
+      },
+      "addresses": [
+        {
+          "street": "50640 Oconnor Mountains",
+          "city": "Chambersfurt",
+          "country": "European Union",
+          "postal_code": "55434"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2020-11-23",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2022/597"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0093",
+      "entity_type": "entity",
+      "primary_name": "Clark-Davis Ltd",
+      "name_aliases": [
+        "Clark-Davis Limited",
+        "Clark-Davis "
+      ],
+      "registration_details": {
+        "country": "Russian Federation",
+        "registration_number": "EU210CpJx",
+        "registration_date": "2009-02-16"
+      },
+      "addresses": [
+        {
+          "street": "16980 Janice Expressway Apt. 769",
+          "city": "Castilloton",
+          "country": "European Union",
+          "postal_code": "33050"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2022-08-24",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2020/454"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0094",
+      "entity_type": "entity",
+      "primary_name": "Miller LLC Ltd",
+      "name_aliases": [
+        "Miller LLC Limited",
+        "Miller LLC "
+      ],
+      "registration_details": {
+        "country": "Egypt",
+        "registration_number": "EU059XmUy",
+        "registration_date": "2008-01-16"
+      },
+      "addresses": [
+        {
+          "street": "908 Austin Square Apt. 896",
+          "city": "Jordanview",
+          "country": "European Union",
+          "postal_code": "26071"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2025-01-13",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2019/912"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0095",
+      "entity_type": "entity",
+      "primary_name": "Scott, Powell and Owen Ltd",
+      "name_aliases": [
+        "Scott, Powell and Owen Limited",
+        "Scott, Powell and Owen "
+      ],
+      "registration_details": {
+        "country": "Jersey",
+        "registration_number": "EU858gGwm",
+        "registration_date": "2022-03-06"
+      },
+      "addresses": [
+        {
+          "street": "215 Howard Locks",
+          "city": "Elizabethshire",
+          "country": "European Union",
+          "postal_code": "75589"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2024-10-11",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2023/577"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0096",
+      "entity_type": "entity",
+      "primary_name": "Buckley PLC Ltd",
+      "name_aliases": [
+        "Buckley PLC Limited",
+        "Buckley PLC "
+      ],
+      "registration_details": {
+        "country": "American Samoa",
+        "registration_number": "EU486WlxS",
+        "registration_date": "2023-01-02"
+      },
+      "addresses": [
+        {
+          "street": "18108 Wiley Crossing Apt. 915",
+          "city": "West Jonathan",
+          "country": "European Union",
+          "postal_code": "93317"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Human Rights Sanctions",
+        "listing_date": "2024-07-22",
+        "listing_authority": "European Union",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2021/494"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0097",
+      "entity_type": "entity",
+      "primary_name": "Lee LLC Ltd",
+      "name_aliases": [
+        "Lee LLC Limited",
+        "Lee LLC "
+      ],
+      "registration_details": {
+        "country": "Mozambique",
+        "registration_number": "EU589rhtB",
+        "registration_date": "2022-01-02"
+      },
+      "addresses": [
+        {
+          "street": "591 Michael Freeway Apt. 072",
+          "city": "New Haley",
+          "country": "European Union",
+          "postal_code": "64117"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2024-11-12",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Engaging in cyber operations against EU member states",
+        "references": [
+          "EU Regulation 2023/275"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0098",
+      "entity_type": "entity",
+      "primary_name": "Washington-Alvarado Ltd",
+      "name_aliases": [
+        "Washington-Alvarado Limited",
+        "Washington-Alvarado "
+      ],
+      "registration_details": {
+        "country": "Niue",
+        "registration_number": "EU797pddS",
+        "registration_date": "2013-12-17"
+      },
+      "addresses": [
+        {
+          "street": "964 Friedman Cove Suite 943",
+          "city": "Nicholaschester",
+          "country": "European Union",
+          "postal_code": "19485"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Cyber Sanctions",
+        "listing_date": "2019-11-08",
+        "listing_authority": "EU External Action Service",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2018/511"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0099",
+      "entity_type": "entity",
+      "primary_name": "Jones, Brown and Rodriguez Ltd",
+      "name_aliases": [
+        "Jones, Brown and Rodriguez Limited",
+        "Jones, Brown and Rodriguez "
+      ],
+      "registration_details": {
+        "country": "New Zealand",
+        "registration_number": "EU762Fllb",
+        "registration_date": "2018-11-04"
+      },
+      "addresses": [
+        {
+          "street": "14422 Patricia Trail",
+          "city": "Lake Juliemouth",
+          "country": "European Union",
+          "postal_code": "23183"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Russia Sanctions",
+        "listing_date": "2024-09-20",
+        "listing_authority": "EU Council",
+        "grounds": "Facilitating transactions with sanctioned entities",
+        "references": [
+          "EU Regulation 2022/544"
+        ]
+      }
+    },
+    {
+      "id": "EU-COMP-0100",
+      "entity_type": "entity",
+      "primary_name": "Lowe, Jennings and Grant Ltd",
+      "name_aliases": [
+        "Lowe, Jennings and Grant Limited",
+        "Lowe, Jennings and Grant "
+      ],
+      "registration_details": {
+        "country": "Madagascar",
+        "registration_number": "EU832CNrH",
+        "registration_date": "2021-04-03"
+      },
+      "addresses": [
+        {
+          "street": "8694 Powell Freeway Suite 532",
+          "city": "Port Susanport",
+          "country": "European Union",
+          "postal_code": "47320"
+        }
+      ],
+      "sanction_details": {
+        "program": "EU Iran Sanctions",
+        "listing_date": "2021-09-15",
+        "listing_authority": "European Union",
+        "grounds": "Supplying restricted goods to embargoed regions",
+        "references": [
+          "EU Regulation 2023/196"
+        ]
+      }
+    }
+  ]
+}
