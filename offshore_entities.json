@@ -1,0 +1,1210 @@
+{
+  "metadata": {
+    "source": "Simulated Offshore Leaks",
+    "version": "2025.04.12",
+    "note": "Dummy data for testing offshore entity detection logic",
+    "total_entities": 100
+  },
+  "entities": [
+    {
+      "name": "Galvan, Bailey and Carter Ltd",
+      "jurisdiction": "Singapore",
+      "incorporation_date": "2019-06-15",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Edward Kent",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Stone-Singleton Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2022-12-18",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Lisa Stewart",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Hunter-Allison Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2017-07-15",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Kathy Stewart",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Ward LLC Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2018-02-05",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Leslie Schneider",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Norris, Monroe and Hunter Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2007-07-25",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Henry Fleming",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Brown-Barber Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2018-07-13",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Renee Keller",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Hoover, Silva and Santiago Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2009-11-15",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Dale Williams",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Henderson-Brooks Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2013-02-24",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Ashley Wright",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Morgan PLC Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2009-08-17",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "John Hicks",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Robbins, Phillips and Rangel Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2023-11-16",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Gina Randolph",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Morris and Sons Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2019-08-14",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Dawn Walker",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Dean, Scott and Wagner Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2005-12-16",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Stephanie Burgess",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Wilson Group Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2017-05-19",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Denise Benson",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Gallegos-Crosby Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2023-09-06",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Lori Gross",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Wolf Inc Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2010-05-31",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Ashley Martinez",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Cordova Group Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2014-10-31",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Alice Contreras",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Perez, Shields and Malone Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2007-04-10",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Marco Poole",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Smith-Carlson Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2017-04-06",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Kathleen Smith",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Williams PLC Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2023-03-20",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Sean Sanford",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Edwards, Hernandez and Parker Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2024-01-09",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "William Carr",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Sawyer Ltd Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2020-04-10",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Jessica Wells",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Patel, Smith and Smith Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2007-11-26",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Sherri Mosley",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Jimenez PLC Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2021-12-16",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Robert Smith",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Smith, Taylor and Lee Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2018-11-23",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Christopher Elliott",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Day, Adams and Coleman Ltd",
+      "jurisdiction": "Isle of Man",
+      "incorporation_date": "2012-01-19",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Rhonda Rivera",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Hays-Jones Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2019-03-09",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Laurie Campbell",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Gilmore-Thompson Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2016-10-25",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Jeremy Gonzalez",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Floyd and Sons Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2021-11-30",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Omar Thompson",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Acevedo, Vazquez and Anderson Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2011-12-11",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Nicholas Wright",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Oconnor Inc Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2013-06-02",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Christopher Daniel",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Hanson, Murphy and Allen Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2012-07-14",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Eric Collins",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Lewis PLC Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2013-03-22",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Carrie Jones",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Callahan-Johnson Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2013-04-20",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Cole Vasquez",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Brown-Barron Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2008-05-28",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Carla White",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Manning, Williams and Sutton Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2006-12-28",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Curtis Clay",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Hansen LLC Ltd",
+      "jurisdiction": "Malta",
+      "incorporation_date": "2008-06-18",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "John Carrillo",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Griffith Inc Ltd",
+      "jurisdiction": "Singapore",
+      "incorporation_date": "2016-10-11",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Amy Bernard",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Newton, Reyes and Dixon Ltd",
+      "jurisdiction": "Isle of Man",
+      "incorporation_date": "2017-08-31",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Kimberly Brown",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Whitney and Sons Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2010-07-12",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Miss Tina Greene",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Brandt-Robinson Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2016-05-25",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Allen Flores",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Murray LLC Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2005-12-15",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Tyler Jones",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Moore, Davidson and Valdez Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2021-10-30",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Rachel Strong",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Martin-Brandt Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2022-02-04",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Martin Tanner",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Barker, Jackson and Johnson Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2005-10-05",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Richard Mercer",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Padilla-Mathews Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2017-08-09",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "John Hernandez",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Lucero-Hogan Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2011-10-08",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Connie Wright",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Mccann-Brown Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2012-05-05",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "William Payne",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Nguyen Group Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2012-08-28",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Matthew Richards",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Anthony, Hill and Johnson Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2011-01-09",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Stacie Campbell",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Taylor PLC Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2009-01-02",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Lance Burns",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Richardson, Nash and Todd Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2021-08-20",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Dana Mayer",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Sanders, Black and Johnson Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2012-01-19",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Keith Lewis",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Cox Ltd Ltd",
+      "jurisdiction": "Malta",
+      "incorporation_date": "2011-10-31",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Dennis Hunter",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Conner, Sanders and Travis Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2010-11-11",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Joe Bishop",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Rodriguez, Williams and Lewis Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2024-02-29",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Alicia Evans",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Parker-Gilbert Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2014-03-19",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Darren Ellis",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Carr-Shelton Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2018-02-17",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Christina Green",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Ortiz Ltd Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2008-04-27",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Kristina Hickman",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Morales-Lara Ltd",
+      "jurisdiction": "Malta",
+      "incorporation_date": "2008-07-22",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Nathan Kelly DDS",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Davis-Lawson Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2018-01-10",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Alice Lewis",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Nguyen Ltd Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2014-09-21",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Sean Delgado",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Mays Inc Ltd",
+      "jurisdiction": "Isle of Man",
+      "incorporation_date": "2013-04-06",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Ashley Sanchez",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Green, Robinson and Booth Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2007-02-28",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Dr. Sonia Nguyen",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Knox, Lowe and Baker Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2018-08-31",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Bianca Carr",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Anderson PLC Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2020-03-08",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Jessica Barber",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Fernandez, Johnson and Schmidt Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2010-08-12",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Amanda Taylor",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Lawson, Adams and Vaughan Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2024-02-07",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Erin Lawrence",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Sullivan Ltd Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2021-06-27",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Abigail Murphy",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Wood-Haynes Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2013-08-30",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Lynn Miller",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Wood, Bowman and Mahoney Ltd",
+      "jurisdiction": "Malta",
+      "incorporation_date": "2013-12-31",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "John Reilly",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Vasquez-Griffith Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2013-01-11",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Francisco Butler",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Medina-Johnson Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2020-06-13",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Audrey Johnson",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Hanson Inc Ltd",
+      "jurisdiction": "Singapore",
+      "incorporation_date": "2011-08-09",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Mark Edwards",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Thompson, Barton and Leonard Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2016-08-19",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Brad Drake",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Preston Inc Ltd",
+      "jurisdiction": "Cayman Islands",
+      "incorporation_date": "2016-02-01",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Briana Adkins",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Galloway and Sons Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2017-08-08",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Jason Brewer",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Anderson PLC Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2014-07-02",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Michelle Palmer",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Phelps-Morse Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2015-04-05",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Melissa Conley",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Herman, Bennett and Anthony Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2019-08-12",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Courtney Jones",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Jones-Hill Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2006-10-22",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Kelly Davis",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Soto and Sons Ltd",
+      "jurisdiction": "Luxembourg",
+      "incorporation_date": "2017-06-30",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Patrick Hudson",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Adams, Brown and Vang Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2007-12-04",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Heather Sanchez",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Stephens Group Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2011-06-26",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Michael Allen",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Schmidt-Warren Ltd",
+      "jurisdiction": "Malta",
+      "incorporation_date": "2021-01-01",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Michael Small",
+          "role": "Legal Representative"
+        }
+      ]
+    },
+    {
+      "name": "Fisher LLC Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2009-01-23",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Nathan Sanchez",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Martinez-Mccormick Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2020-01-21",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Benjamin Houston",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Norman, Hatfield and Perez Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2017-06-24",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Michael Wade",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Griffin PLC Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2006-05-31",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Janet Hubbard",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Ryan, Murray and Stokes Ltd",
+      "jurisdiction": "Seychelles",
+      "incorporation_date": "2022-02-14",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Sarah Miller",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Miller, James and Kelly Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2022-05-11",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "William Evans",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Rogers-Rodriguez Ltd",
+      "jurisdiction": "Isle of Man",
+      "incorporation_date": "2007-09-09",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Sarah Williams",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Tran PLC Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2023-12-18",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Susan Singh",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Sloan, Davis and Rodgers Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2018-09-10",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Dr. Steven Davis Jr.",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Raymond, Best and Johnson Ltd",
+      "jurisdiction": "Belize",
+      "incorporation_date": "2017-04-11",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Maria Thomas",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Williams LLC Ltd",
+      "jurisdiction": "Malta",
+      "incorporation_date": "2016-11-21",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Thomas Hobbs",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Dean Ltd Ltd",
+      "jurisdiction": "Panama",
+      "incorporation_date": "2023-05-12",
+      "status": "Active",
+      "related_persons": [
+        {
+          "name": "Wayne Brown",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Taylor Ltd Ltd",
+      "jurisdiction": "British Virgin Islands",
+      "incorporation_date": "2017-09-15",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Jeanne Shaffer",
+          "role": "Bearer Shareholder"
+        }
+      ]
+    },
+    {
+      "name": "Snyder, Jones and Horton Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2017-10-01",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Tracy Sullivan",
+          "role": "Beneficial Owner"
+        }
+      ]
+    },
+    {
+      "name": "Johnson-Roman Ltd",
+      "jurisdiction": "Singapore",
+      "incorporation_date": "2018-08-20",
+      "status": "Dissolved",
+      "related_persons": [
+        {
+          "name": "Brian Fisher",
+          "role": "Nominee Director"
+        }
+      ]
+    },
+    {
+      "name": "Joseph Inc Ltd",
+      "jurisdiction": "Dubai",
+      "incorporation_date": "2007-12-03",
+      "status": "Inactive",
+      "related_persons": [
+        {
+          "name": "Lonnie Day",
+          "role": "Legal Representative"
+        }
+      ]
+    }
+  ]
+}

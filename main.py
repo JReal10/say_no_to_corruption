@@ -18,7 +18,29 @@ async def root():
     return {"message": "Hello World"}
 
 
-def company_search():
+def company_search(company_name):
+    load_dotenv(override=True)
+
+    config = default_config()
+    portia = Portia(config=config, tools = DefaultToolRegistry(config=config))
+
+    with execution_context(end_user_id = "test_company", additional_data={"name": company_name }):
+        plan = portia.plan(
+            f"Search official registries or business datasets for *{company_name}*. "
+            f"Identify country of registration, incorporation date, registration number, and active status. "
+            f"Search internal JSON files for *{company_name}* in: 'EU_sanctioned_companies.json' "
+            #f"Search global news archives and financial reports for negative coverage related to *{company_name}*. "
+            f"Determine countries where *{company_name}* operates, holds assets, or has entities. "
+            #f"I dentifyCross-check these countries against 'high_risk_jurisdiction.json'. "
+            
+           
+        )
+
+        input(f"{plan.model_dump_json(indent = 2)}") 
+        
+        plan_run = portia.run_plan(plan)
+        
+        return(f"{plan_run.model_dump_json(indent = 2)}")
     """
     Main function to run the Portia search tool.
     """
@@ -30,31 +52,10 @@ def company_search():
     #     answer = input("Please enter an Business you would like to check:\n")
 
     # Load environment variables
-    load_dotenv(override=True)
-    
-    name = "Shell plc"
-    country = "United Kingdom"
-    
-    config = default_config()
-    portia = Portia(config=config, tools = DefaultToolRegistry(config=config))
-    country = ""
-    
-    with execution_context(end_user_id = "test", additional_data={"name": "test_name"}):
-    
-        plan = portia.plan(f'Search company *{name}* registry that it operates in'
-            f'store the {country}'
-            f'Search *{name}* sustainability/CSR reports'
-            f'Search if *{name}* is in the json file "UK_sanction_list.json"'
-            f'Search if *{name}* operates in any "high_risk_jurisdiction.json" country'
-            f'From "corruption_index.json" List index score of all the country {name} operates in')
-        
-        input(f"{plan.model_dump_json(indent = 2)}") 
-        
-        plan_run = portia.run_plan(plan)
-        print(f"{plan_run.model_dump_json(indent = 2)}")  
+   
 
 def main():
-    Individual_Search("GHULAM NABI Mohammed Omar")
+    company_search("Hunter-Allison Ltd")
 
 def Individual_Search(individual_name):
     
@@ -82,4 +83,4 @@ def Individual_Search(individual_name):
         return(f"{plan_run.model_dump_json(indent = 2)}")
 
 if __name__ == "__main__":
-    main()
+    main() 

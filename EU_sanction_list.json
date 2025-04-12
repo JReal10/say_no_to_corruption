@@ -1,0 +1,3211 @@
+{
+    "metadata": {
+      "list_name": "EU Sanctions List",
+      "version": "2025.04.12",
+      "last_updated": "2025-04-12T13:15:52.176847",
+      "source": "European Union External Action Service",
+      "total_entries": 100
+    },
+    "sanctions": [
+      {
+        "id": "EU001",
+        "entity_type": "individual",
+        "primary_name": "Lance Noble",
+        "name_aliases": [
+          "Rebecca Rogers",
+          "Keith Bruce"
+        ],
+        "date_of_birth": "1990-12-19",
+        "place_of_birth": "Gilberthaven, Turks and Caicos Islands",
+        "nationality": "Singapore",
+        "passport_numbers": [
+          "il40226847"
+        ],
+        "addresses": [
+          {
+            "street": "2111 Michael Branch Suite 627",
+            "city": "Sandrastad",
+            "country": "Haiti",
+            "postal_code": "34908"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2024-06-02",
+          "listing_authority": "European Union",
+          "grounds": "Sell down ago democratic trade without within resource station remember.",
+          "references": [
+            "EU Regulation 2016/650"
+          ]
+        }
+      },
+      {
+        "id": "EU002",
+        "entity_type": "individual",
+        "primary_name": "Jody Morris",
+        "name_aliases": [
+          "Mallory Sandoval",
+          "Jeffrey Hickman"
+        ],
+        "date_of_birth": "1989-05-22",
+        "place_of_birth": "Gutierreztown, Albania",
+        "nationality": "Uzbekistan",
+        "passport_numbers": [
+          "wD00996456"
+        ],
+        "addresses": [
+          {
+            "street": "502 Arnold Mountain Apt. 157",
+            "city": "West Danielleport",
+            "country": "Equatorial Guinea",
+            "postal_code": "67291"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2024-09-23",
+          "listing_authority": "European Union",
+          "grounds": "Want woman seven point song discover involve enjoy risk.",
+          "references": [
+            "EU Regulation 2017/992"
+          ]
+        }
+      },
+      {
+        "id": "EU003",
+        "entity_type": "individual",
+        "primary_name": "Bridget Lyons",
+        "name_aliases": [
+          "Charles Watson",
+          "Danielle Smith"
+        ],
+        "date_of_birth": "1965-09-16",
+        "place_of_birth": "Morenotown, Armenia",
+        "nationality": "Saint Martin",
+        "passport_numbers": [
+          "li18002617"
+        ],
+        "addresses": [
+          {
+            "street": "43762 Amy Crossroad Suite 000",
+            "city": "Beardmouth",
+            "country": "French Polynesia",
+            "postal_code": "93848"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-08-20",
+          "listing_authority": "European Union",
+          "grounds": "Above wait significant inside employee inside run PM purpose pass industry mean.",
+          "references": [
+            "EU Regulation 2024/708"
+          ]
+        }
+      },
+      {
+        "id": "EU004",
+        "entity_type": "individual",
+        "primary_name": "Tyler Huynh",
+        "name_aliases": [
+          "Alexa Ramirez",
+          "Alicia Simpson"
+        ],
+        "date_of_birth": "1988-05-07",
+        "place_of_birth": "Lisafort, Liberia",
+        "nationality": "Saint Vincent and the Grenadines",
+        "passport_numbers": [
+          "iB19303925"
+        ],
+        "addresses": [
+          {
+            "street": "37664 Jordan Ridges",
+            "city": "South Kevinside",
+            "country": "Dominica",
+            "postal_code": "81838"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2024-01-25",
+          "listing_authority": "European Union",
+          "grounds": "Lawyer indeed seven well these hot under.",
+          "references": [
+            "EU Regulation 2024/408"
+          ]
+        }
+      },
+      {
+        "id": "EU005",
+        "entity_type": "individual",
+        "primary_name": "Chad Roberts",
+        "name_aliases": [
+          "William Williams",
+          "Jeffrey Summers"
+        ],
+        "date_of_birth": "1974-05-27",
+        "place_of_birth": "Port Alexandrastad, French Guiana",
+        "nationality": "Lebanon",
+        "passport_numbers": [
+          "sK31957719"
+        ],
+        "addresses": [
+          {
+            "street": "702 Castro Skyway",
+            "city": "North Derekchester",
+            "country": "Lao People's Democratic Republic",
+            "postal_code": "65704"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2024-02-12",
+          "listing_authority": "European Union",
+          "grounds": "Participant begin shoulder Congress nature daughter.",
+          "references": [
+            "EU Regulation 2025/809"
+          ]
+        }
+      },
+      {
+        "id": "EU006",
+        "entity_type": "individual",
+        "primary_name": "Amy Martinez",
+        "name_aliases": [
+          "Rick Stone",
+          "Bill Cortez"
+        ],
+        "date_of_birth": "1976-11-24",
+        "place_of_birth": "Christopherfort, Falkland Islands (Malvinas)",
+        "nationality": "Palestinian Territory",
+        "passport_numbers": [
+          "hi81284506"
+        ],
+        "addresses": [
+          {
+            "street": "76226 Reeves Mills",
+            "city": "Port Miguelshire",
+            "country": "Wallis and Futuna",
+            "postal_code": "15429"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2020-10-11",
+          "listing_authority": "European Union",
+          "grounds": "Name include lay international similar decision seat article inside Mrs candidate.",
+          "references": [
+            "EU Regulation 2017/787"
+          ]
+        }
+      },
+      {
+        "id": "EU007",
+        "entity_type": "individual",
+        "primary_name": "Chad Leonard",
+        "name_aliases": [
+          "Joseph Olson",
+          "Mark Sparks"
+        ],
+        "date_of_birth": "1964-09-09",
+        "place_of_birth": "Whiteton, Grenada",
+        "nationality": "Monaco",
+        "passport_numbers": [
+          "hl51175493"
+        ],
+        "addresses": [
+          {
+            "street": "54675 Jason Fields Apt. 159",
+            "city": "East Ronald",
+            "country": "Jordan",
+            "postal_code": "53535"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-05-29",
+          "listing_authority": "European Union",
+          "grounds": "Myself describe PM plant discuss need realize total father ability.",
+          "references": [
+            "EU Regulation 2024/415"
+          ]
+        }
+      },
+      {
+        "id": "EU008",
+        "entity_type": "individual",
+        "primary_name": "Patrick Gomez",
+        "name_aliases": [
+          "Christopher Colon",
+          "Leslie Donovan"
+        ],
+        "date_of_birth": "1960-12-18",
+        "place_of_birth": "Palmerburgh, Monaco",
+        "nationality": "Guinea-Bissau",
+        "passport_numbers": [
+          "jc72298584"
+        ],
+        "addresses": [
+          {
+            "street": "81819 Lisa Summit",
+            "city": "Lake Joshuaport",
+            "country": "Mozambique",
+            "postal_code": "36038"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2024-08-26",
+          "listing_authority": "European Union",
+          "grounds": "Now sing compare off just election center else staff myself others fill.",
+          "references": [
+            "EU Regulation 2018/257"
+          ]
+        }
+      },
+      {
+        "id": "EU009",
+        "entity_type": "individual",
+        "primary_name": "Katelyn Fitzpatrick",
+        "name_aliases": [
+          "Terry Ortega",
+          "Duane Morris"
+        ],
+        "date_of_birth": "1993-11-12",
+        "place_of_birth": "East Susan, Ukraine",
+        "nationality": "Mozambique",
+        "passport_numbers": [
+          "kz23493457"
+        ],
+        "addresses": [
+          {
+            "street": "691 Perez Prairie Apt. 014",
+            "city": "North Wandaport",
+            "country": "Congo",
+            "postal_code": "85474"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2021-05-11",
+          "listing_authority": "European Union",
+          "grounds": "Commercial near outside trade describe authority.",
+          "references": [
+            "EU Regulation 2015/395"
+          ]
+        }
+      },
+      {
+        "id": "EU010",
+        "entity_type": "individual",
+        "primary_name": "Craig Hudson",
+        "name_aliases": [
+          "Tracey Robinson",
+          "Jonathan Fernandez"
+        ],
+        "date_of_birth": "1958-09-26",
+        "place_of_birth": "Lake Jonathan, Guernsey",
+        "nationality": "Antigua and Barbuda",
+        "passport_numbers": [
+          "hk95575975"
+        ],
+        "addresses": [
+          {
+            "street": "81465 Schneider Creek",
+            "city": "Jessemouth",
+            "country": "Mozambique",
+            "postal_code": "30501"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2025-02-13",
+          "listing_authority": "European Union",
+          "grounds": "Large across street method tend late meeting.",
+          "references": [
+            "EU Regulation 2023/390"
+          ]
+        }
+      },
+      {
+        "id": "EU011",
+        "entity_type": "individual",
+        "primary_name": "Derek Warren",
+        "name_aliases": [
+          "Rachel Avery",
+          "Scott Johnson"
+        ],
+        "date_of_birth": "1960-12-27",
+        "place_of_birth": "Lopezhaven, Macedonia",
+        "nationality": "Niue",
+        "passport_numbers": [
+          "ao56305693"
+        ],
+        "addresses": [
+          {
+            "street": "128 Vang Mission",
+            "city": "Dakotachester",
+            "country": "Mongolia",
+            "postal_code": "04462"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2021-06-20",
+          "listing_authority": "European Union",
+          "grounds": "Building yes society base director several power middle plant be name what.",
+          "references": [
+            "EU Regulation 2024/528"
+          ]
+        }
+      },
+      {
+        "id": "EU012",
+        "entity_type": "individual",
+        "primary_name": "Eric Daugherty",
+        "name_aliases": [
+          "John Byrd",
+          "Nichole Barnes"
+        ],
+        "date_of_birth": "1994-11-06",
+        "place_of_birth": "New Brettfurt, Zimbabwe",
+        "nationality": "Czech Republic",
+        "passport_numbers": [
+          "jf23114380"
+        ],
+        "addresses": [
+          {
+            "street": "50673 Duffy Viaduct Suite 479",
+            "city": "Lake Thomas",
+            "country": "Bolivia",
+            "postal_code": "65920"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2023-12-17",
+          "listing_authority": "European Union",
+          "grounds": "Imagine identify important minute thing control collection bed couple unit attack.",
+          "references": [
+            "EU Regulation 2015/478"
+          ]
+        }
+      },
+      {
+        "id": "EU013",
+        "entity_type": "individual",
+        "primary_name": "David Parker",
+        "name_aliases": [
+          "Samuel Rodgers",
+          "Michael Yoder"
+        ],
+        "date_of_birth": "1970-06-15",
+        "place_of_birth": "Gabrieltown, Guinea-Bissau",
+        "nationality": "Bolivia",
+        "passport_numbers": [
+          "Oa60388969"
+        ],
+        "addresses": [
+          {
+            "street": "4731 Ronnie Centers",
+            "city": "Phillipsview",
+            "country": "Mexico",
+            "postal_code": "50897"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2024-09-30",
+          "listing_authority": "European Union",
+          "grounds": "Produce bit buy professional hope play participant each something strategy.",
+          "references": [
+            "EU Regulation 2024/290"
+          ]
+        }
+      },
+      {
+        "id": "EU014",
+        "entity_type": "individual",
+        "primary_name": "Jerome Jordan",
+        "name_aliases": [
+          "James Rodriguez",
+          "Danielle Morris"
+        ],
+        "date_of_birth": "1960-06-30",
+        "place_of_birth": "Brandonchester, Monaco",
+        "nationality": "Lesotho",
+        "passport_numbers": [
+          "Ni64135347"
+        ],
+        "addresses": [
+          {
+            "street": "68367 Cheyenne Trail",
+            "city": "Port Andreaberg",
+            "country": "Oman",
+            "postal_code": "87661"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2020-11-14",
+          "listing_authority": "European Union",
+          "grounds": "Me reason effect early factor recent low senior wish star learn else pretty.",
+          "references": [
+            "EU Regulation 2019/414"
+          ]
+        }
+      },
+      {
+        "id": "EU015",
+        "entity_type": "individual",
+        "primary_name": "Ryan Wilson",
+        "name_aliases": [
+          "Michael Ward",
+          "Samantha Castro"
+        ],
+        "date_of_birth": "1994-09-03",
+        "place_of_birth": "Port Amanda, Cameroon",
+        "nationality": "Tanzania",
+        "passport_numbers": [
+          "mw05785396"
+        ],
+        "addresses": [
+          {
+            "street": "47817 Matthew Vista Apt. 887",
+            "city": "Port Timothy",
+            "country": "Cameroon",
+            "postal_code": "54429"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2025-01-13",
+          "listing_authority": "European Union",
+          "grounds": "Five difference imagine after quite attorney get.",
+          "references": [
+            "EU Regulation 2016/298"
+          ]
+        }
+      },
+      {
+        "id": "EU016",
+        "entity_type": "individual",
+        "primary_name": "Samantha Thomas",
+        "name_aliases": [
+          "Michael May",
+          "Jennifer Li"
+        ],
+        "date_of_birth": "1974-08-13",
+        "place_of_birth": "Richardfurt, Costa Rica",
+        "nationality": "Anguilla",
+        "passport_numbers": [
+          "Ox48004364"
+        ],
+        "addresses": [
+          {
+            "street": "895 Brown Ramp",
+            "city": "Cheyennemouth",
+            "country": "Greenland",
+            "postal_code": "78854"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-04-17",
+          "listing_authority": "European Union",
+          "grounds": "Move anything affect from appear available worker final trip.",
+          "references": [
+            "EU Regulation 2023/217"
+          ]
+        }
+      },
+      {
+        "id": "EU017",
+        "entity_type": "individual",
+        "primary_name": "Joanna Ford",
+        "name_aliases": [
+          "Sheila Owens",
+          "Timothy Randolph"
+        ],
+        "date_of_birth": "1965-05-16",
+        "place_of_birth": "Michaelport, United States of America",
+        "nationality": "Cambodia",
+        "passport_numbers": [
+          "Ph11854329"
+        ],
+        "addresses": [
+          {
+            "street": "25965 Russell Court",
+            "city": "South Stephanie",
+            "country": "Ukraine",
+            "postal_code": "54767"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2020-06-24",
+          "listing_authority": "European Union",
+          "grounds": "Maintain president war than thus present.",
+          "references": [
+            "EU Regulation 2018/191"
+          ]
+        }
+      },
+      {
+        "id": "EU018",
+        "entity_type": "individual",
+        "primary_name": "Michael Key",
+        "name_aliases": [
+          "Christine Watson",
+          "Cynthia Johnson"
+        ],
+        "date_of_birth": "1974-07-03",
+        "place_of_birth": "Chapmanhaven, Greenland",
+        "nationality": "Burundi",
+        "passport_numbers": [
+          "lj93346541"
+        ],
+        "addresses": [
+          {
+            "street": "606 Nicholas Mountains",
+            "city": "Stanleyport",
+            "country": "Equatorial Guinea",
+            "postal_code": "08022"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2022-12-31",
+          "listing_authority": "European Union",
+          "grounds": "Sea after skill wrong he cultural station concern.",
+          "references": [
+            "EU Regulation 2020/641"
+          ]
+        }
+      },
+      {
+        "id": "EU019",
+        "entity_type": "individual",
+        "primary_name": "Breanna Hill",
+        "name_aliases": [
+          "Sabrina Turner",
+          "Douglas Lopez"
+        ],
+        "date_of_birth": "1973-11-03",
+        "place_of_birth": "Lake Wandamouth, South Africa",
+        "nationality": "United Kingdom",
+        "passport_numbers": [
+          "kE64970759"
+        ],
+        "addresses": [
+          {
+            "street": "930 Howard Crest Suite 404",
+            "city": "Douglasbury",
+            "country": "Bermuda",
+            "postal_code": "20414"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2021-06-26",
+          "listing_authority": "European Union",
+          "grounds": "Never police policy loss difference effect participant oil.",
+          "references": [
+            "EU Regulation 2024/974"
+          ]
+        }
+      },
+      {
+        "id": "EU020",
+        "entity_type": "individual",
+        "primary_name": "Michael Campbell",
+        "name_aliases": [
+          "Peter Baker",
+          "Nicholas Watson"
+        ],
+        "date_of_birth": "1977-02-20",
+        "place_of_birth": "Bowmanbury, Micronesia",
+        "nationality": "Norfolk Island",
+        "passport_numbers": [
+          "dC02519824"
+        ],
+        "addresses": [
+          {
+            "street": "318 Ellis Club",
+            "city": "Josephhaven",
+            "country": "Thailand",
+            "postal_code": "06048"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-06-18",
+          "listing_authority": "European Union",
+          "grounds": "Number sell later certainly become attack director pay.",
+          "references": [
+            "EU Regulation 2020/185"
+          ]
+        }
+      },
+      {
+        "id": "EU021",
+        "entity_type": "individual",
+        "primary_name": "Joseph Cordova",
+        "name_aliases": [
+          "Kayla Thompson",
+          "Marie Griffin"
+        ],
+        "date_of_birth": "1962-02-13",
+        "place_of_birth": "South Michael, Djibouti",
+        "nationality": "Kiribati",
+        "passport_numbers": [
+          "lS59333953"
+        ],
+        "addresses": [
+          {
+            "street": "239 Kelly Unions",
+            "city": "Smithfurt",
+            "country": "Zimbabwe",
+            "postal_code": "13581"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2023-03-25",
+          "listing_authority": "European Union",
+          "grounds": "Everything south form information office experience much do game.",
+          "references": [
+            "EU Regulation 2025/420"
+          ]
+        }
+      },
+      {
+        "id": "EU022",
+        "entity_type": "individual",
+        "primary_name": "Nicole Fitzgerald",
+        "name_aliases": [
+          "Regina Alexander",
+          "Christina Burns"
+        ],
+        "date_of_birth": "1970-09-15",
+        "place_of_birth": "South Pamelatown, Austria",
+        "nationality": "Colombia",
+        "passport_numbers": [
+          "uu23510270"
+        ],
+        "addresses": [
+          {
+            "street": "8883 Wallace Green Suite 685",
+            "city": "Anthonyberg",
+            "country": "Djibouti",
+            "postal_code": "19700"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-08-08",
+          "listing_authority": "European Union",
+          "grounds": "Serious school budget couple week need marriage street east billion wind.",
+          "references": [
+            "EU Regulation 2018/372"
+          ]
+        }
+      },
+      {
+        "id": "EU023",
+        "entity_type": "individual",
+        "primary_name": "Tabitha Hernandez",
+        "name_aliases": [
+          "Debra Allen",
+          "Russell Long"
+        ],
+        "date_of_birth": "1976-01-13",
+        "place_of_birth": "North Rickburgh, Greenland",
+        "nationality": "Germany",
+        "passport_numbers": [
+          "ev91677757"
+        ],
+        "addresses": [
+          {
+            "street": "5303 Eric Square",
+            "city": "Vegatown",
+            "country": "Philippines",
+            "postal_code": "34776"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2019-11-12",
+          "listing_authority": "European Union",
+          "grounds": "Name finally professional speak one unit anyone young may base enter street.",
+          "references": [
+            "EU Regulation 2018/347"
+          ]
+        }
+      },
+      {
+        "id": "EU024",
+        "entity_type": "individual",
+        "primary_name": "Spencer Mclaughlin",
+        "name_aliases": [
+          "Allison Graves",
+          "Timothy Martinez"
+        ],
+        "date_of_birth": "1983-06-22",
+        "place_of_birth": "Samanthaport, Argentina",
+        "nationality": "Martinique",
+        "passport_numbers": [
+          "TE66858456"
+        ],
+        "addresses": [
+          {
+            "street": "163 Matthew Crossroad Suite 084",
+            "city": "Lisamouth",
+            "country": "Singapore",
+            "postal_code": "80489"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2020-01-07",
+          "listing_authority": "European Union",
+          "grounds": "Player treatment without beat letter gas.",
+          "references": [
+            "EU Regulation 2020/193"
+          ]
+        }
+      },
+      {
+        "id": "EU025",
+        "entity_type": "individual",
+        "primary_name": "Drew Molina",
+        "name_aliases": [
+          "Steven Holland",
+          "Shari Quinn"
+        ],
+        "date_of_birth": "1982-10-05",
+        "place_of_birth": "Jessicafort, Tanzania",
+        "nationality": "South Africa",
+        "passport_numbers": [
+          "rw87043198"
+        ],
+        "addresses": [
+          {
+            "street": "8886 Tate Port",
+            "city": "New Carrieville",
+            "country": "Yemen",
+            "postal_code": "74578"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2022-01-31",
+          "listing_authority": "European Union",
+          "grounds": "Prepare remain possible year alone although dark race star drive today policy.",
+          "references": [
+            "EU Regulation 2018/721"
+          ]
+        }
+      },
+      {
+        "id": "EU026",
+        "entity_type": "individual",
+        "primary_name": "Michael York",
+        "name_aliases": [
+          "Kenneth Wong",
+          "Michael Hoover"
+        ],
+        "date_of_birth": "1971-11-06",
+        "place_of_birth": "New Michelleport, United Kingdom",
+        "nationality": "Syrian Arab Republic",
+        "passport_numbers": [
+          "mU62307678"
+        ],
+        "addresses": [
+          {
+            "street": "2935 Tara Keys",
+            "city": "Kevinburgh",
+            "country": "Marshall Islands",
+            "postal_code": "97059"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2020-02-25",
+          "listing_authority": "European Union",
+          "grounds": "Professional buy record night fear look believe.",
+          "references": [
+            "EU Regulation 2015/593"
+          ]
+        }
+      },
+      {
+        "id": "EU027",
+        "entity_type": "individual",
+        "primary_name": "Michelle Pham",
+        "name_aliases": [
+          "Rachel Williams",
+          "Jose Kramer"
+        ],
+        "date_of_birth": "1971-10-05",
+        "place_of_birth": "Christopherberg, Austria",
+        "nationality": "Djibouti",
+        "passport_numbers": [
+          "qP49796094"
+        ],
+        "addresses": [
+          {
+            "street": "15770 Cunningham Burg",
+            "city": "Lake Steven",
+            "country": "Western Sahara",
+            "postal_code": "18401"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2020-09-27",
+          "listing_authority": "European Union",
+          "grounds": "Training should lose official girl nothing remember hundred.",
+          "references": [
+            "EU Regulation 2017/242"
+          ]
+        }
+      },
+      {
+        "id": "EU028",
+        "entity_type": "individual",
+        "primary_name": "Christina Ruiz",
+        "name_aliases": [
+          "Paul Gentry",
+          "Adam Robinson"
+        ],
+        "date_of_birth": "1976-12-19",
+        "place_of_birth": "Johnburgh, Puerto Rico",
+        "nationality": "Bangladesh",
+        "passport_numbers": [
+          "xK25880520"
+        ],
+        "addresses": [
+          {
+            "street": "26328 Kelly Forge Apt. 893",
+            "city": "Lake Apriltown",
+            "country": "Guyana",
+            "postal_code": "56988"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2022-09-07",
+          "listing_authority": "European Union",
+          "grounds": "Nature think gun toward officer western perhaps determine born sort stage.",
+          "references": [
+            "EU Regulation 2025/760"
+          ]
+        }
+      },
+      {
+        "id": "EU029",
+        "entity_type": "individual",
+        "primary_name": "Jimmy Hill",
+        "name_aliases": [
+          "Erica Blackwell",
+          "Jennifer Wilson"
+        ],
+        "date_of_birth": "1975-09-07",
+        "place_of_birth": "Port Aliciaville, Fiji",
+        "nationality": "Canada",
+        "passport_numbers": [
+          "aS32490019"
+        ],
+        "addresses": [
+          {
+            "street": "993 Spencer Course",
+            "city": "Port Amanda",
+            "country": "Tuvalu",
+            "postal_code": "39012"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2022-03-14",
+          "listing_authority": "European Union",
+          "grounds": "Allow year writer use ask gas carry whole in article ahead.",
+          "references": [
+            "EU Regulation 2024/890"
+          ]
+        }
+      },
+      {
+        "id": "EU030",
+        "entity_type": "individual",
+        "primary_name": "Cindy Wells",
+        "name_aliases": [
+          "Maria Butler",
+          "Dawn Smith"
+        ],
+        "date_of_birth": "1968-09-06",
+        "place_of_birth": "Amandaville, Hungary",
+        "nationality": "Costa Rica",
+        "passport_numbers": [
+          "TW11848638"
+        ],
+        "addresses": [
+          {
+            "street": "603 Shepard Corners",
+            "city": "Gonzalezland",
+            "country": "Ghana",
+            "postal_code": "11466"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-12-22",
+          "listing_authority": "European Union",
+          "grounds": "Later until kitchen bit show organization single trade out laugh industry.",
+          "references": [
+            "EU Regulation 2023/265"
+          ]
+        }
+      },
+      {
+        "id": "EU031",
+        "entity_type": "individual",
+        "primary_name": "Lori Preston",
+        "name_aliases": [
+          "Brandi Lopez",
+          "Heather Pena"
+        ],
+        "date_of_birth": "1991-03-20",
+        "place_of_birth": "Thomasville, Pakistan",
+        "nationality": "Argentina",
+        "passport_numbers": [
+          "pT57684152"
+        ],
+        "addresses": [
+          {
+            "street": "70120 Stephens Meadow",
+            "city": "Lake Patrick",
+            "country": "Suriname",
+            "postal_code": "93735"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2024-08-15",
+          "listing_authority": "European Union",
+          "grounds": "Involve paper officer field so we marriage democratic fine push today exist.",
+          "references": [
+            "EU Regulation 2023/943"
+          ]
+        }
+      },
+      {
+        "id": "EU032",
+        "entity_type": "individual",
+        "primary_name": "Chelsea Phelps",
+        "name_aliases": [
+          "Amanda Jackson",
+          "Kimberly Richards"
+        ],
+        "date_of_birth": "1991-11-18",
+        "place_of_birth": "East Thomas, Chile",
+        "nationality": "Lao People's Democratic Republic",
+        "passport_numbers": [
+          "VL48960903"
+        ],
+        "addresses": [
+          {
+            "street": "633 Jack Grove",
+            "city": "North Donnaberg",
+            "country": "Thailand",
+            "postal_code": "56651"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2020-05-27",
+          "listing_authority": "European Union",
+          "grounds": "Never economic throughout ground dog effort.",
+          "references": [
+            "EU Regulation 2024/987"
+          ]
+        }
+      },
+      {
+        "id": "EU033",
+        "entity_type": "individual",
+        "primary_name": "Austin Buckley",
+        "name_aliases": [
+          "Diana Green",
+          "Jessica Jones"
+        ],
+        "date_of_birth": "1968-04-18",
+        "place_of_birth": "Lake Jessica, Congo",
+        "nationality": "Saint Martin",
+        "passport_numbers": [
+          "Bt11511188"
+        ],
+        "addresses": [
+          {
+            "street": "916 Solomon Land Suite 430",
+            "city": "Cynthiaborough",
+            "country": "Antigua and Barbuda",
+            "postal_code": "44744"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2022-01-12",
+          "listing_authority": "European Union",
+          "grounds": "Stay well whose group beyond loss church share.",
+          "references": [
+            "EU Regulation 2019/927"
+          ]
+        }
+      },
+      {
+        "id": "EU034",
+        "entity_type": "individual",
+        "primary_name": "Justin Ashley",
+        "name_aliases": [
+          "Hailey Lee",
+          "Linda Williams"
+        ],
+        "date_of_birth": "1962-12-25",
+        "place_of_birth": "Blairland, Togo",
+        "nationality": "Norfolk Island",
+        "passport_numbers": [
+          "TW00216340"
+        ],
+        "addresses": [
+          {
+            "street": "09451 Velasquez Forge Apt. 354",
+            "city": "Douglasport",
+            "country": "Micronesia",
+            "postal_code": "47809"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2023-02-23",
+          "listing_authority": "European Union",
+          "grounds": "Character anything audience whom consider order cause half bar consumer out.",
+          "references": [
+            "EU Regulation 2018/114"
+          ]
+        }
+      },
+      {
+        "id": "EU035",
+        "entity_type": "individual",
+        "primary_name": "Megan Pearson",
+        "name_aliases": [
+          "Beverly Chambers",
+          "Rachel Pearson"
+        ],
+        "date_of_birth": "1993-05-10",
+        "place_of_birth": "Lake Caitlinborough, Bosnia and Herzegovina",
+        "nationality": "Suriname",
+        "passport_numbers": [
+          "hD97583397"
+        ],
+        "addresses": [
+          {
+            "street": "751 Gill Camp",
+            "city": "Kimtown",
+            "country": "Northern Mariana Islands",
+            "postal_code": "69123"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2020-12-21",
+          "listing_authority": "European Union",
+          "grounds": "Store feel response difference decade something win edge.",
+          "references": [
+            "EU Regulation 2020/842"
+          ]
+        }
+      },
+      {
+        "id": "EU036",
+        "entity_type": "individual",
+        "primary_name": "Kristina Aguirre",
+        "name_aliases": [
+          "Patricia Johnson",
+          "Jason Gilbert"
+        ],
+        "date_of_birth": "1988-09-06",
+        "place_of_birth": "East Georgestad, Antarctica (the territory South of 60 deg S)",
+        "nationality": "Georgia",
+        "passport_numbers": [
+          "DE71421311"
+        ],
+        "addresses": [
+          {
+            "street": "91540 Kidd Mission Suite 755",
+            "city": "Kramerland",
+            "country": "United States Virgin Islands",
+            "postal_code": "29662"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2022-03-31",
+          "listing_authority": "European Union",
+          "grounds": "Current process usually commercial about show expect.",
+          "references": [
+            "EU Regulation 2022/326"
+          ]
+        }
+      },
+      {
+        "id": "EU037",
+        "entity_type": "individual",
+        "primary_name": "Brandi Glass",
+        "name_aliases": [
+          "Jesse Davis",
+          "George Benton"
+        ],
+        "date_of_birth": "1965-05-05",
+        "place_of_birth": "Marioborough, Thailand",
+        "nationality": "Australia",
+        "passport_numbers": [
+          "og32235982"
+        ],
+        "addresses": [
+          {
+            "street": "836 Andrea Circles Suite 990",
+            "city": "Turnermouth",
+            "country": "Latvia",
+            "postal_code": "23606"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2020-05-01",
+          "listing_authority": "European Union",
+          "grounds": "Fast over Mr today listen yes identify car.",
+          "references": [
+            "EU Regulation 2021/469"
+          ]
+        }
+      },
+      {
+        "id": "EU038",
+        "entity_type": "individual",
+        "primary_name": "Jesse Mcbride",
+        "name_aliases": [
+          "Emily Wells",
+          "Susan Brown"
+        ],
+        "date_of_birth": "1980-08-23",
+        "place_of_birth": "Bennettfurt, Guinea",
+        "nationality": "Tajikistan",
+        "passport_numbers": [
+          "Vo31470143"
+        ],
+        "addresses": [
+          {
+            "street": "0192 Cline Terrace Suite 877",
+            "city": "Newmanfort",
+            "country": "Malaysia",
+            "postal_code": "64109"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2019-11-26",
+          "listing_authority": "European Union",
+          "grounds": "Science kitchen popular around street ball shoulder person develop.",
+          "references": [
+            "EU Regulation 2024/231"
+          ]
+        }
+      },
+      {
+        "id": "EU039",
+        "entity_type": "individual",
+        "primary_name": "Kristie Gonzalez",
+        "name_aliases": [
+          "Brian Davis",
+          "Victor Stewart"
+        ],
+        "date_of_birth": "1971-08-03",
+        "place_of_birth": "South Stevenstad, Palestinian Territory",
+        "nationality": "Malaysia",
+        "passport_numbers": [
+          "YO41245752"
+        ],
+        "addresses": [
+          {
+            "street": "12388 Shelton Hollow Apt. 245",
+            "city": "Scottshire",
+            "country": "India",
+            "postal_code": "89083"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2020-05-10",
+          "listing_authority": "European Union",
+          "grounds": "Floor morning send phone short wind structure small everybody begin fill father paper.",
+          "references": [
+            "EU Regulation 2015/924"
+          ]
+        }
+      },
+      {
+        "id": "EU040",
+        "entity_type": "individual",
+        "primary_name": "John Gray",
+        "name_aliases": [
+          "Amanda Greer",
+          "Dean Lee"
+        ],
+        "date_of_birth": "1970-05-27",
+        "place_of_birth": "North Caroline, China",
+        "nationality": "Hungary",
+        "passport_numbers": [
+          "Xi50641578"
+        ],
+        "addresses": [
+          {
+            "street": "0328 Kenneth Grove",
+            "city": "Campbellberg",
+            "country": "Czech Republic",
+            "postal_code": "85196"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2025-02-10",
+          "listing_authority": "European Union",
+          "grounds": "Current news government but science third soon suffer indeed.",
+          "references": [
+            "EU Regulation 2023/364"
+          ]
+        }
+      },
+      {
+        "id": "EU041",
+        "entity_type": "individual",
+        "primary_name": "Victoria Fernandez",
+        "name_aliases": [
+          "Renee Marsh",
+          "Samantha Acosta"
+        ],
+        "date_of_birth": "1978-12-12",
+        "place_of_birth": "East Elizabeth, Dominica",
+        "nationality": "Estonia",
+        "passport_numbers": [
+          "yd82824924"
+        ],
+        "addresses": [
+          {
+            "street": "87578 Graham Junction Apt. 036",
+            "city": "Brianside",
+            "country": "Norway",
+            "postal_code": "73787"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2024-03-17",
+          "listing_authority": "European Union",
+          "grounds": "Glass think opportunity share start watch position forward several drug which.",
+          "references": [
+            "EU Regulation 2024/692"
+          ]
+        }
+      },
+      {
+        "id": "EU042",
+        "entity_type": "individual",
+        "primary_name": "Jennifer Martinez",
+        "name_aliases": [
+          "Jesus Gallegos",
+          "Whitney Smith"
+        ],
+        "date_of_birth": "1990-06-06",
+        "place_of_birth": "Lewishaven, Guam",
+        "nationality": "Jersey",
+        "passport_numbers": [
+          "qG76740416"
+        ],
+        "addresses": [
+          {
+            "street": "26867 Contreras Ports",
+            "city": "Markport",
+            "country": "Slovenia",
+            "postal_code": "29559"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2022-01-23",
+          "listing_authority": "European Union",
+          "grounds": "Nice trouble land eat realize example everybody computer ok good the you southern.",
+          "references": [
+            "EU Regulation 2021/851"
+          ]
+        }
+      },
+      {
+        "id": "EU043",
+        "entity_type": "individual",
+        "primary_name": "Connie Rodriguez",
+        "name_aliases": [
+          "Donald Irwin",
+          "Lauren Stein"
+        ],
+        "date_of_birth": "1968-08-17",
+        "place_of_birth": "Parrishberg, Pakistan",
+        "nationality": "Luxembourg",
+        "passport_numbers": [
+          "Sf84450489"
+        ],
+        "addresses": [
+          {
+            "street": "1831 Richard Drive",
+            "city": "Lake Jessica",
+            "country": "Mexico",
+            "postal_code": "27518"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2023-12-21",
+          "listing_authority": "European Union",
+          "grounds": "Identify require I eight as trouble class garden tax.",
+          "references": [
+            "EU Regulation 2025/788"
+          ]
+        }
+      },
+      {
+        "id": "EU044",
+        "entity_type": "individual",
+        "primary_name": "Jose Wood",
+        "name_aliases": [
+          "Sarah Stephens",
+          "Zachary Myers"
+        ],
+        "date_of_birth": "1972-05-08",
+        "place_of_birth": "West Stephenhaven, Saint Kitts and Nevis",
+        "nationality": "Tanzania",
+        "passport_numbers": [
+          "Yr04645934"
+        ],
+        "addresses": [
+          {
+            "street": "357 Fields Brook Apt. 249",
+            "city": "West Bryanview",
+            "country": "Syrian Arab Republic",
+            "postal_code": "66729"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2020-06-26",
+          "listing_authority": "European Union",
+          "grounds": "Particularly method with side official peace social base loss too right hotel run.",
+          "references": [
+            "EU Regulation 2025/179"
+          ]
+        }
+      },
+      {
+        "id": "EU045",
+        "entity_type": "individual",
+        "primary_name": "Theresa Klein",
+        "name_aliases": [
+          "Amy Ford",
+          "Victoria Aguilar"
+        ],
+        "date_of_birth": "1966-04-30",
+        "place_of_birth": "Jessicamouth, Korea",
+        "nationality": "Kazakhstan",
+        "passport_numbers": [
+          "xg19817159"
+        ],
+        "addresses": [
+          {
+            "street": "476 Cathy Summit",
+            "city": "Williamstown",
+            "country": "Venezuela",
+            "postal_code": "48464"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2022-01-08",
+          "listing_authority": "European Union",
+          "grounds": "Dog sense management picture technology economy particularly.",
+          "references": [
+            "EU Regulation 2017/736"
+          ]
+        }
+      },
+      {
+        "id": "EU046",
+        "entity_type": "individual",
+        "primary_name": "Crystal Rivera",
+        "name_aliases": [
+          "Craig Ramirez",
+          "Patrick Mills"
+        ],
+        "date_of_birth": "1986-03-11",
+        "place_of_birth": "Lake Seanmouth, Guatemala",
+        "nationality": "Christmas Island",
+        "passport_numbers": [
+          "oc66068723"
+        ],
+        "addresses": [
+          {
+            "street": "63865 Washington Run",
+            "city": "Lake Jessica",
+            "country": "Yemen",
+            "postal_code": "95625"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2021-02-18",
+          "listing_authority": "European Union",
+          "grounds": "Morning test pressure mission organization poor similar toward evidence before cell.",
+          "references": [
+            "EU Regulation 2024/879"
+          ]
+        }
+      },
+      {
+        "id": "EU047",
+        "entity_type": "individual",
+        "primary_name": "Jessica Williams",
+        "name_aliases": [
+          "Heather Davis",
+          "Kathleen Melendez"
+        ],
+        "date_of_birth": "1967-02-03",
+        "place_of_birth": "Amandaton, Puerto Rico",
+        "nationality": "Bahrain",
+        "passport_numbers": [
+          "HR19846936"
+        ],
+        "addresses": [
+          {
+            "street": "159 Davis Mews Suite 816",
+            "city": "Angelaburgh",
+            "country": "Bosnia and Herzegovina",
+            "postal_code": "85420"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2020-05-01",
+          "listing_authority": "European Union",
+          "grounds": "Leave perform point week social ok.",
+          "references": [
+            "EU Regulation 2021/384"
+          ]
+        }
+      },
+      {
+        "id": "EU048",
+        "entity_type": "individual",
+        "primary_name": "Shelley Campbell",
+        "name_aliases": [
+          "Matthew Mckenzie",
+          "John Perez"
+        ],
+        "date_of_birth": "1965-04-15",
+        "place_of_birth": "Amberstad, Bosnia and Herzegovina",
+        "nationality": "Bouvet Island (Bouvetoya)",
+        "passport_numbers": [
+          "TA97113635"
+        ],
+        "addresses": [
+          {
+            "street": "4446 Morris Run Apt. 389",
+            "city": "Henryside",
+            "country": "Barbados",
+            "postal_code": "76929"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2024-12-29",
+          "listing_authority": "European Union",
+          "grounds": "Price maintain stop much increase tend can parent mission daughter.",
+          "references": [
+            "EU Regulation 2016/630"
+          ]
+        }
+      },
+      {
+        "id": "EU049",
+        "entity_type": "individual",
+        "primary_name": "Donald Rogers",
+        "name_aliases": [
+          "Stephanie Romero",
+          "Rebecca Smith"
+        ],
+        "date_of_birth": "1964-08-07",
+        "place_of_birth": "West Charles, Bermuda",
+        "nationality": "Congo",
+        "passport_numbers": [
+          "hh34103053"
+        ],
+        "addresses": [
+          {
+            "street": "08275 Gilbert Port",
+            "city": "South Mirandaville",
+            "country": "Lebanon",
+            "postal_code": "64809"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-06-07",
+          "listing_authority": "European Union",
+          "grounds": "While by word require call figure position wife system could.",
+          "references": [
+            "EU Regulation 2016/139"
+          ]
+        }
+      },
+      {
+        "id": "EU050",
+        "entity_type": "individual",
+        "primary_name": "Mr. Trevor Rodriguez",
+        "name_aliases": [
+          "Mr. Christopher Mckinney",
+          "Timothy Jenkins"
+        ],
+        "date_of_birth": "1995-02-02",
+        "place_of_birth": "Hoganside, Colombia",
+        "nationality": "Gibraltar",
+        "passport_numbers": [
+          "Iy28073384"
+        ],
+        "addresses": [
+          {
+            "street": "4617 Jackson Overpass",
+            "city": "Pinedastad",
+            "country": "Belarus",
+            "postal_code": "07841"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2023-03-16",
+          "listing_authority": "European Union",
+          "grounds": "Example test record always guess Mrs physical town.",
+          "references": [
+            "EU Regulation 2025/110"
+          ]
+        }
+      },
+      {
+        "id": "EU051",
+        "entity_type": "individual",
+        "primary_name": "Diana Lewis",
+        "name_aliases": [
+          "Micheal Stewart",
+          "Monica Wolfe"
+        ],
+        "date_of_birth": "1986-10-01",
+        "place_of_birth": "Walkerborough, Guadeloupe",
+        "nationality": "Zimbabwe",
+        "passport_numbers": [
+          "nM30272153"
+        ],
+        "addresses": [
+          {
+            "street": "943 Wilkerson Track",
+            "city": "Shaneport",
+            "country": "Korea",
+            "postal_code": "27601"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2021-01-08",
+          "listing_authority": "European Union",
+          "grounds": "Subject picture charge draw station practice from.",
+          "references": [
+            "EU Regulation 2024/648"
+          ]
+        }
+      },
+      {
+        "id": "EU052",
+        "entity_type": "individual",
+        "primary_name": "Sara Smith",
+        "name_aliases": [
+          "Erik Herrera",
+          "Maria Sanchez"
+        ],
+        "date_of_birth": "1961-09-15",
+        "place_of_birth": "New Donnaview, Guernsey",
+        "nationality": "Venezuela",
+        "passport_numbers": [
+          "PC75210581"
+        ],
+        "addresses": [
+          {
+            "street": "574 Thomas Pine",
+            "city": "Shannonfurt",
+            "country": "Sri Lanka",
+            "postal_code": "05900"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2025-04-09",
+          "listing_authority": "European Union",
+          "grounds": "Catch big next opportunity few admit staff call perform over.",
+          "references": [
+            "EU Regulation 2017/444"
+          ]
+        }
+      },
+      {
+        "id": "EU053",
+        "entity_type": "individual",
+        "primary_name": "Erin Torres",
+        "name_aliases": [
+          "Laurie Fleming",
+          "Richard Smith"
+        ],
+        "date_of_birth": "1976-05-09",
+        "place_of_birth": "East Frances, Congo",
+        "nationality": "San Marino",
+        "passport_numbers": [
+          "co04165264"
+        ],
+        "addresses": [
+          {
+            "street": "3415 Dalton Streets Suite 067",
+            "city": "New Michaelland",
+            "country": "Slovakia (Slovak Republic)",
+            "postal_code": "82188"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2023-07-01",
+          "listing_authority": "European Union",
+          "grounds": "Impact quickly future measure stock degree risk food way what here job prepare recognize.",
+          "references": [
+            "EU Regulation 2021/111"
+          ]
+        }
+      },
+      {
+        "id": "EU054",
+        "entity_type": "individual",
+        "primary_name": "Robert Mosley MD",
+        "name_aliases": [
+          "Larry Tucker",
+          "Rachel Johnson"
+        ],
+        "date_of_birth": "1964-09-01",
+        "place_of_birth": "Seanmouth, Cook Islands",
+        "nationality": "Kenya",
+        "passport_numbers": [
+          "WP05080079"
+        ],
+        "addresses": [
+          {
+            "street": "18253 James Stravenue Suite 505",
+            "city": "New Adrianland",
+            "country": "Cuba",
+            "postal_code": "77564"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2021-10-30",
+          "listing_authority": "European Union",
+          "grounds": "Day grow thus sing choice their.",
+          "references": [
+            "EU Regulation 2024/133"
+          ]
+        }
+      },
+      {
+        "id": "EU055",
+        "entity_type": "individual",
+        "primary_name": "John Harris",
+        "name_aliases": [
+          "Ian Fletcher",
+          "Connor Hernandez"
+        ],
+        "date_of_birth": "1970-07-25",
+        "place_of_birth": "Lake Patricia, Niue",
+        "nationality": "Greenland",
+        "passport_numbers": [
+          "wi72484100"
+        ],
+        "addresses": [
+          {
+            "street": "9696 Rachel Route",
+            "city": "West Tristanton",
+            "country": "Saint Lucia",
+            "postal_code": "78116"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-01-06",
+          "listing_authority": "European Union",
+          "grounds": "Nor then letter sport describe theory agree son.",
+          "references": [
+            "EU Regulation 2021/165"
+          ]
+        }
+      },
+      {
+        "id": "EU056",
+        "entity_type": "individual",
+        "primary_name": "Lisa Richmond",
+        "name_aliases": [
+          "Tammy Hernandez",
+          "Nicole Martin"
+        ],
+        "date_of_birth": "1957-04-07",
+        "place_of_birth": "Jacquelineville, Andorra",
+        "nationality": "Liberia",
+        "passport_numbers": [
+          "AH14377117"
+        ],
+        "addresses": [
+          {
+            "street": "52502 Johnson Spring Suite 103",
+            "city": "Amberville",
+            "country": "Seychelles",
+            "postal_code": "49479"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2021-09-13",
+          "listing_authority": "European Union",
+          "grounds": "Cold although land word begin east experience at be.",
+          "references": [
+            "EU Regulation 2015/681"
+          ]
+        }
+      },
+      {
+        "id": "EU057",
+        "entity_type": "individual",
+        "primary_name": "Tamara Myers",
+        "name_aliases": [
+          "Donald Fernandez",
+          "Sara Clark"
+        ],
+        "date_of_birth": "1979-01-01",
+        "place_of_birth": "Smithview, Palau",
+        "nationality": "China",
+        "passport_numbers": [
+          "Hc29671446"
+        ],
+        "addresses": [
+          {
+            "street": "8831 Stewart Junction",
+            "city": "North Nicole",
+            "country": "Marshall Islands",
+            "postal_code": "36926"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2021-08-21",
+          "listing_authority": "European Union",
+          "grounds": "Like avoid example industry when couple avoid arrive rather scientist give value budget.",
+          "references": [
+            "EU Regulation 2019/558"
+          ]
+        }
+      },
+      {
+        "id": "EU058",
+        "entity_type": "individual",
+        "primary_name": "James Johnson",
+        "name_aliases": [
+          "James Elliott",
+          "Amy Mason"
+        ],
+        "date_of_birth": "1989-09-04",
+        "place_of_birth": "East Andrew, Brunei Darussalam",
+        "nationality": "San Marino",
+        "passport_numbers": [
+          "LS75921022"
+        ],
+        "addresses": [
+          {
+            "street": "283 Reid Heights",
+            "city": "Terryland",
+            "country": "Cyprus",
+            "postal_code": "33216"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2022-05-21",
+          "listing_authority": "European Union",
+          "grounds": "Activity physical process color common station address air finish.",
+          "references": [
+            "EU Regulation 2024/116"
+          ]
+        }
+      },
+      {
+        "id": "EU059",
+        "entity_type": "individual",
+        "primary_name": "Elaine Graham",
+        "name_aliases": [
+          "Megan Garcia",
+          "Courtney Moody"
+        ],
+        "date_of_birth": "1966-06-11",
+        "place_of_birth": "Port Markhaven, Nepal",
+        "nationality": "Malta",
+        "passport_numbers": [
+          "Lu53249782"
+        ],
+        "addresses": [
+          {
+            "street": "3533 Taylor Passage",
+            "city": "East Christopherton",
+            "country": "Samoa",
+            "postal_code": "57994"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2022-09-19",
+          "listing_authority": "European Union",
+          "grounds": "Check evidence walk let develop out able scene direction computer wait yourself mouth.",
+          "references": [
+            "EU Regulation 2019/800"
+          ]
+        }
+      },
+      {
+        "id": "EU060",
+        "entity_type": "individual",
+        "primary_name": "Pamela Grant",
+        "name_aliases": [
+          "Daniel Reyes",
+          "Eric Franco"
+        ],
+        "date_of_birth": "1965-08-19",
+        "place_of_birth": "Austinside, Malta",
+        "nationality": "China",
+        "passport_numbers": [
+          "Kg82163854"
+        ],
+        "addresses": [
+          {
+            "street": "67790 Jennifer Mission Apt. 482",
+            "city": "Lake Melissa",
+            "country": "Gibraltar",
+            "postal_code": "74502"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2021-03-04",
+          "listing_authority": "European Union",
+          "grounds": "Suggest clearly none until use skin form run concern take campaign.",
+          "references": [
+            "EU Regulation 2023/588"
+          ]
+        }
+      },
+      {
+        "id": "EU061",
+        "entity_type": "individual",
+        "primary_name": "Mr. Chad Bruce",
+        "name_aliases": [
+          "Alexander Murphy",
+          "Christopher Watson"
+        ],
+        "date_of_birth": "1989-04-06",
+        "place_of_birth": "Joshuahaven, Guam",
+        "nationality": "Montserrat",
+        "passport_numbers": [
+          "NF77765409"
+        ],
+        "addresses": [
+          {
+            "street": "14394 Sexton Common Suite 127",
+            "city": "Richardsonbury",
+            "country": "Gabon",
+            "postal_code": "26262"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2020-02-07",
+          "listing_authority": "European Union",
+          "grounds": "Away buy seven sit war second admit recently low everything fear.",
+          "references": [
+            "EU Regulation 2017/250"
+          ]
+        }
+      },
+      {
+        "id": "EU062",
+        "entity_type": "individual",
+        "primary_name": "Donna Harrington",
+        "name_aliases": [
+          "Cody Aguilar",
+          "Michelle Nguyen"
+        ],
+        "date_of_birth": "1954-11-15",
+        "place_of_birth": "Michaelhaven, Togo",
+        "nationality": "El Salvador",
+        "passport_numbers": [
+          "kq11733239"
+        ],
+        "addresses": [
+          {
+            "street": "1879 Michael Meadow",
+            "city": "East Scottbury",
+            "country": "Svalbard & Jan Mayen Islands",
+            "postal_code": "63538"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2020-02-04",
+          "listing_authority": "European Union",
+          "grounds": "Only listen brother heart this outside family me.",
+          "references": [
+            "EU Regulation 2018/978"
+          ]
+        }
+      },
+      {
+        "id": "EU063",
+        "entity_type": "individual",
+        "primary_name": "Virginia Davis",
+        "name_aliases": [
+          "Noah Olson",
+          "Sharon Neal"
+        ],
+        "date_of_birth": "1993-08-19",
+        "place_of_birth": "East Troy, Angola",
+        "nationality": "Vanuatu",
+        "passport_numbers": [
+          "gU91962138"
+        ],
+        "addresses": [
+          {
+            "street": "97954 Powell Inlet",
+            "city": "East Melissa",
+            "country": "Pakistan",
+            "postal_code": "54951"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-09-28",
+          "listing_authority": "European Union",
+          "grounds": "Official lawyer rest move turn present concern sit themselves that stay.",
+          "references": [
+            "EU Regulation 2024/700"
+          ]
+        }
+      },
+      {
+        "id": "EU064",
+        "entity_type": "individual",
+        "primary_name": "Jennifer Barr",
+        "name_aliases": [
+          "Kenneth Hughes",
+          "Linda Edwards"
+        ],
+        "date_of_birth": "1966-05-11",
+        "place_of_birth": "West Sheliafurt, Grenada",
+        "nationality": "British Virgin Islands",
+        "passport_numbers": [
+          "cS29042619"
+        ],
+        "addresses": [
+          {
+            "street": "965 Lee Courts",
+            "city": "Port James",
+            "country": "Congo",
+            "postal_code": "80786"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2021-09-05",
+          "listing_authority": "European Union",
+          "grounds": "Site every course process high hair consumer education factor easy.",
+          "references": [
+            "EU Regulation 2024/289"
+          ]
+        }
+      },
+      {
+        "id": "EU065",
+        "entity_type": "individual",
+        "primary_name": "Jessica Lee",
+        "name_aliases": [
+          "Sandra Watkins",
+          "Heather Mcintyre"
+        ],
+        "date_of_birth": "1990-10-21",
+        "place_of_birth": "Lake Nathaniel, United Kingdom",
+        "nationality": "Taiwan",
+        "passport_numbers": [
+          "Ne24843650"
+        ],
+        "addresses": [
+          {
+            "street": "94789 Charles Knolls Suite 755",
+            "city": "Silvaborough",
+            "country": "Antarctica (the territory South of 60 deg S)",
+            "postal_code": "29930"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2020-10-22",
+          "listing_authority": "European Union",
+          "grounds": "Big game step tell day sport rock sport hospital end sound center.",
+          "references": [
+            "EU Regulation 2024/654"
+          ]
+        }
+      },
+      {
+        "id": "EU066",
+        "entity_type": "individual",
+        "primary_name": "Roy Baird",
+        "name_aliases": [
+          "Pedro Bond",
+          "Jesus Butler"
+        ],
+        "date_of_birth": "1970-10-10",
+        "place_of_birth": "West Alisonshire, Liechtenstein",
+        "nationality": "Anguilla",
+        "passport_numbers": [
+          "jH06467756"
+        ],
+        "addresses": [
+          {
+            "street": "91653 Kendra Valley Suite 937",
+            "city": "South Thomasburgh",
+            "country": "Morocco",
+            "postal_code": "51598"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2023-07-26",
+          "listing_authority": "European Union",
+          "grounds": "Foot once Mr under party understand high peace design morning at.",
+          "references": [
+            "EU Regulation 2020/814"
+          ]
+        }
+      },
+      {
+        "id": "EU067",
+        "entity_type": "individual",
+        "primary_name": "Faith Hays",
+        "name_aliases": [
+          "Clayton Smith",
+          "Richard Williams"
+        ],
+        "date_of_birth": "1982-06-03",
+        "place_of_birth": "Jonesmouth, Chad",
+        "nationality": "Reunion",
+        "passport_numbers": [
+          "kk13565293"
+        ],
+        "addresses": [
+          {
+            "street": "1157 Hayes Tunnel",
+            "city": "Lake Jenniferfurt",
+            "country": "Nigeria",
+            "postal_code": "40315"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2023-07-31",
+          "listing_authority": "European Union",
+          "grounds": "Fast from middle step above team bank rest mouth trade field face where.",
+          "references": [
+            "EU Regulation 2017/713"
+          ]
+        }
+      },
+      {
+        "id": "EU068",
+        "entity_type": "individual",
+        "primary_name": "Tracy Franco",
+        "name_aliases": [
+          "Sheila Perkins",
+          "David Bush"
+        ],
+        "date_of_birth": "1965-06-30",
+        "place_of_birth": "Ericbury, Antigua and Barbuda",
+        "nationality": "Guadeloupe",
+        "passport_numbers": [
+          "WC41525960"
+        ],
+        "addresses": [
+          {
+            "street": "60497 Higgins Parkway Suite 018",
+            "city": "Lake Martinland",
+            "country": "Guam",
+            "postal_code": "90978"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2020-10-21",
+          "listing_authority": "European Union",
+          "grounds": "Those raise business appear often during after there growth Congress work force.",
+          "references": [
+            "EU Regulation 2019/170"
+          ]
+        }
+      },
+      {
+        "id": "EU069",
+        "entity_type": "individual",
+        "primary_name": "Justin Shields MD",
+        "name_aliases": [
+          "Allison Yates",
+          "Troy Edwards"
+        ],
+        "date_of_birth": "1979-12-02",
+        "place_of_birth": "Coleport, Antarctica (the territory South of 60 deg S)",
+        "nationality": "New Zealand",
+        "passport_numbers": [
+          "uC63687206"
+        ],
+        "addresses": [
+          {
+            "street": "96468 Patterson Stravenue Suite 665",
+            "city": "North Michaelland",
+            "country": "Puerto Rico",
+            "postal_code": "54907"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-09-11",
+          "listing_authority": "European Union",
+          "grounds": "Main better hot play discover specific treatment leave statement Mr page will.",
+          "references": [
+            "EU Regulation 2019/988"
+          ]
+        }
+      },
+      {
+        "id": "EU070",
+        "entity_type": "individual",
+        "primary_name": "Ian Erickson",
+        "name_aliases": [
+          "Andrew Taylor",
+          "Jason Allen"
+        ],
+        "date_of_birth": "1981-04-14",
+        "place_of_birth": "Port Bradleyhaven, Romania",
+        "nationality": "Gibraltar",
+        "passport_numbers": [
+          "DQ75730082"
+        ],
+        "addresses": [
+          {
+            "street": "2935 Martin Bypass",
+            "city": "Port Michaelmouth",
+            "country": "Croatia",
+            "postal_code": "29008"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2022-07-22",
+          "listing_authority": "European Union",
+          "grounds": "Seat skin sea common hour experience.",
+          "references": [
+            "EU Regulation 2015/655"
+          ]
+        }
+      },
+      {
+        "id": "EU071",
+        "entity_type": "individual",
+        "primary_name": "Dawn Martinez",
+        "name_aliases": [
+          "Barbara Mcpherson",
+          "Joseph Keller"
+        ],
+        "date_of_birth": "1989-06-27",
+        "place_of_birth": "Christinaville, Oman",
+        "nationality": "Pakistan",
+        "passport_numbers": [
+          "Tb87871867"
+        ],
+        "addresses": [
+          {
+            "street": "13082 Hill Highway Suite 273",
+            "city": "East Maria",
+            "country": "United States Virgin Islands",
+            "postal_code": "18091"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2023-08-16",
+          "listing_authority": "European Union",
+          "grounds": "They least eat follow something call bank.",
+          "references": [
+            "EU Regulation 2020/380"
+          ]
+        }
+      },
+      {
+        "id": "EU072",
+        "entity_type": "individual",
+        "primary_name": "Allison Garcia",
+        "name_aliases": [
+          "Leslie Walker",
+          "Brittany Hayden"
+        ],
+        "date_of_birth": "1978-09-29",
+        "place_of_birth": "Angelachester, Peru",
+        "nationality": "Bulgaria",
+        "passport_numbers": [
+          "tP15492912"
+        ],
+        "addresses": [
+          {
+            "street": "19041 Carr Glens",
+            "city": "Bensontown",
+            "country": "Saint Lucia",
+            "postal_code": "20268"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2025-03-30",
+          "listing_authority": "European Union",
+          "grounds": "How floor physical politics author difference receive order page yourself several season.",
+          "references": [
+            "EU Regulation 2025/734"
+          ]
+        }
+      },
+      {
+        "id": "EU073",
+        "entity_type": "individual",
+        "primary_name": "Kerri Brown",
+        "name_aliases": [
+          "Manuel Porter",
+          "Christopher Martin"
+        ],
+        "date_of_birth": "1966-07-26",
+        "place_of_birth": "Dixonton, Greenland",
+        "nationality": "Jordan",
+        "passport_numbers": [
+          "HS54803597"
+        ],
+        "addresses": [
+          {
+            "street": "407 Jeffrey Causeway",
+            "city": "Tiffanymouth",
+            "country": "Cayman Islands",
+            "postal_code": "32055"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2020-03-24",
+          "listing_authority": "European Union",
+          "grounds": "Picture loss create stop accept back moment.",
+          "references": [
+            "EU Regulation 2021/477"
+          ]
+        }
+      },
+      {
+        "id": "EU074",
+        "entity_type": "individual",
+        "primary_name": "Raymond Miller",
+        "name_aliases": [
+          "Rhonda Campbell",
+          "Robert Mitchell"
+        ],
+        "date_of_birth": "1978-11-03",
+        "place_of_birth": "Port Williamtown, Angola",
+        "nationality": "Madagascar",
+        "passport_numbers": [
+          "AV55064122"
+        ],
+        "addresses": [
+          {
+            "street": "9733 Barrett Islands",
+            "city": "West Jamie",
+            "country": "Libyan Arab Jamahiriya",
+            "postal_code": "81166"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2024-06-30",
+          "listing_authority": "European Union",
+          "grounds": "Arrive daughter boy onto young send become enjoy study piece manage.",
+          "references": [
+            "EU Regulation 2015/159"
+          ]
+        }
+      },
+      {
+        "id": "EU075",
+        "entity_type": "individual",
+        "primary_name": "Willie Ellis",
+        "name_aliases": [
+          "Amanda Porter",
+          "Melissa Simmons"
+        ],
+        "date_of_birth": "1983-09-19",
+        "place_of_birth": "Ryanburgh, Egypt",
+        "nationality": "Liberia",
+        "passport_numbers": [
+          "HK86793897"
+        ],
+        "addresses": [
+          {
+            "street": "21546 Blackburn Village Apt. 894",
+            "city": "North Terrence",
+            "country": "Bahamas",
+            "postal_code": "11039"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2020-04-24",
+          "listing_authority": "European Union",
+          "grounds": "Wind range guess month approach chance bed base might physical street of.",
+          "references": [
+            "EU Regulation 2018/196"
+          ]
+        }
+      },
+      {
+        "id": "EU076",
+        "entity_type": "individual",
+        "primary_name": "Darlene Moore",
+        "name_aliases": [
+          "Victoria Miranda",
+          "Cristina Moore"
+        ],
+        "date_of_birth": "1971-09-21",
+        "place_of_birth": "North Douglasview, Faroe Islands",
+        "nationality": "Saudi Arabia",
+        "passport_numbers": [
+          "XI76442238"
+        ],
+        "addresses": [
+          {
+            "street": "035 Oneill Port Suite 499",
+            "city": "Lisachester",
+            "country": "Belarus",
+            "postal_code": "48448"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-09-07",
+          "listing_authority": "European Union",
+          "grounds": "Practice protect early mean know take serious attorney.",
+          "references": [
+            "EU Regulation 2017/345"
+          ]
+        }
+      },
+      {
+        "id": "EU077",
+        "entity_type": "individual",
+        "primary_name": "Jason Wise",
+        "name_aliases": [
+          "Mr. Victor Garcia PhD",
+          "Eric Anderson"
+        ],
+        "date_of_birth": "1983-02-17",
+        "place_of_birth": "Annmouth, Iceland",
+        "nationality": "Argentina",
+        "passport_numbers": [
+          "gA43954830"
+        ],
+        "addresses": [
+          {
+            "street": "489 Gardner Station",
+            "city": "Port Brendan",
+            "country": "Italy",
+            "postal_code": "33884"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-02-13",
+          "listing_authority": "European Union",
+          "grounds": "Stuff dinner stay best environment cup down the.",
+          "references": [
+            "EU Regulation 2015/988"
+          ]
+        }
+      },
+      {
+        "id": "EU078",
+        "entity_type": "individual",
+        "primary_name": "Allison Holmes",
+        "name_aliases": [
+          "Melissa Robinson",
+          "Charles Larsen"
+        ],
+        "date_of_birth": "1982-11-06",
+        "place_of_birth": "South Stephen, Jordan",
+        "nationality": "Djibouti",
+        "passport_numbers": [
+          "Ar12222375"
+        ],
+        "addresses": [
+          {
+            "street": "4633 Kyle Overpass",
+            "city": "Brockland",
+            "country": "Bulgaria",
+            "postal_code": "96147"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-11-29",
+          "listing_authority": "European Union",
+          "grounds": "Hope movie mission travel sound describe agree shoulder.",
+          "references": [
+            "EU Regulation 2023/567"
+          ]
+        }
+      },
+      {
+        "id": "EU079",
+        "entity_type": "individual",
+        "primary_name": "Teresa Clayton",
+        "name_aliases": [
+          "Kenneth Tucker",
+          "Nicholas Nguyen"
+        ],
+        "date_of_birth": "1993-09-24",
+        "place_of_birth": "Lake Michaelstad, South Georgia and the South Sandwich Islands",
+        "nationality": "Liberia",
+        "passport_numbers": [
+          "io43055310"
+        ],
+        "addresses": [
+          {
+            "street": "967 Jeffrey Plains",
+            "city": "Port Ericfort",
+            "country": "Holy See (Vatican City State)",
+            "postal_code": "38153"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2020-06-28",
+          "listing_authority": "European Union",
+          "grounds": "Shake high range future actually get hard.",
+          "references": [
+            "EU Regulation 2015/366"
+          ]
+        }
+      },
+      {
+        "id": "EU080",
+        "entity_type": "individual",
+        "primary_name": "Stephanie Bowman",
+        "name_aliases": [
+          "Kevin Gardner",
+          "Ashley Ford"
+        ],
+        "date_of_birth": "1988-05-28",
+        "place_of_birth": "North Kathrynmouth, Fiji",
+        "nationality": "Israel",
+        "passport_numbers": [
+          "yr81465912"
+        ],
+        "addresses": [
+          {
+            "street": "4270 Leonard Squares",
+            "city": "New Mitchell",
+            "country": "Lebanon",
+            "postal_code": "92622"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2021-09-02",
+          "listing_authority": "European Union",
+          "grounds": "Pick water itself safe son through machine identify safe girl rule.",
+          "references": [
+            "EU Regulation 2023/304"
+          ]
+        }
+      },
+      {
+        "id": "EU081",
+        "entity_type": "individual",
+        "primary_name": "Dawn Oconnell",
+        "name_aliases": [
+          "Rachel Dominguez",
+          "Rebecca Rangel"
+        ],
+        "date_of_birth": "1973-01-09",
+        "place_of_birth": "Lake Joshuaton, Turkmenistan",
+        "nationality": "New Zealand",
+        "passport_numbers": [
+          "Cm04826812"
+        ],
+        "addresses": [
+          {
+            "street": "047 Holly Drive Suite 924",
+            "city": "West Keithhaven",
+            "country": "Macedonia",
+            "postal_code": "28990"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2024-04-21",
+          "listing_authority": "European Union",
+          "grounds": "Agreement plan these source product watch say under act soon age.",
+          "references": [
+            "EU Regulation 2015/323"
+          ]
+        }
+      },
+      {
+        "id": "EU082",
+        "entity_type": "individual",
+        "primary_name": "Jessica Boyd",
+        "name_aliases": [
+          "Daniel Vasquez",
+          "Jessica Lee"
+        ],
+        "date_of_birth": "1956-02-26",
+        "place_of_birth": "Conleyfurt, Slovakia (Slovak Republic)",
+        "nationality": "Iceland",
+        "passport_numbers": [
+          "Zs82765114"
+        ],
+        "addresses": [
+          {
+            "street": "66745 Mosley Way Suite 109",
+            "city": "Juliaborough",
+            "country": "Liechtenstein",
+            "postal_code": "60508"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2024-07-16",
+          "listing_authority": "European Union",
+          "grounds": "Newspaper end light itself so until style.",
+          "references": [
+            "EU Regulation 2025/911"
+          ]
+        }
+      },
+      {
+        "id": "EU083",
+        "entity_type": "individual",
+        "primary_name": "Carlos Griffin",
+        "name_aliases": [
+          "Rodney Williams",
+          "Cynthia Booth"
+        ],
+        "date_of_birth": "1974-09-21",
+        "place_of_birth": "East Jennifermouth, Botswana",
+        "nationality": "Togo",
+        "passport_numbers": [
+          "xK46444179"
+        ],
+        "addresses": [
+          {
+            "street": "063 Debra Ford",
+            "city": "North Belinda",
+            "country": "Tuvalu",
+            "postal_code": "95698"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2023-03-11",
+          "listing_authority": "European Union",
+          "grounds": "Hit dog knowledge food throw least.",
+          "references": [
+            "EU Regulation 2024/411"
+          ]
+        }
+      },
+      {
+        "id": "EU084",
+        "entity_type": "individual",
+        "primary_name": "Richard Richardson",
+        "name_aliases": [
+          "William Scott",
+          "Spencer Mcguire"
+        ],
+        "date_of_birth": "1969-07-06",
+        "place_of_birth": "New Renee, Switzerland",
+        "nationality": "Turks and Caicos Islands",
+        "passport_numbers": [
+          "iq36617359"
+        ],
+        "addresses": [
+          {
+            "street": "576 Thomas Springs Apt. 136",
+            "city": "North Robert",
+            "country": "Maldives",
+            "postal_code": "53950"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2021-11-15",
+          "listing_authority": "European Union",
+          "grounds": "Here black prepare practice government level song though station over.",
+          "references": [
+            "EU Regulation 2015/855"
+          ]
+        }
+      },
+      {
+        "id": "EU085",
+        "entity_type": "individual",
+        "primary_name": "Philip Jackson",
+        "name_aliases": [
+          "Stephanie Oneill DVM",
+          "William Smith"
+        ],
+        "date_of_birth": "1969-10-24",
+        "place_of_birth": "Kelseyhaven, Taiwan",
+        "nationality": "Bulgaria",
+        "passport_numbers": [
+          "CA28294772"
+        ],
+        "addresses": [
+          {
+            "street": "42584 Sara Trail Apt. 171",
+            "city": "South Mitchellmouth",
+            "country": "Georgia",
+            "postal_code": "40871"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2020-08-27",
+          "listing_authority": "European Union",
+          "grounds": "Work him show tree today understand war Mrs worker Republican member plan more.",
+          "references": [
+            "EU Regulation 2021/819"
+          ]
+        }
+      },
+      {
+        "id": "EU086",
+        "entity_type": "individual",
+        "primary_name": "John Cohen",
+        "name_aliases": [
+          "Sandra Brown",
+          "Tina Whitaker"
+        ],
+        "date_of_birth": "1963-07-02",
+        "place_of_birth": "Brianberg, Mauritius",
+        "nationality": "Pitcairn Islands",
+        "passport_numbers": [
+          "cy56702803"
+        ],
+        "addresses": [
+          {
+            "street": "7511 Romero Summit Apt. 386",
+            "city": "Loristad",
+            "country": "Madagascar",
+            "postal_code": "93097"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2023-06-10",
+          "listing_authority": "European Union",
+          "grounds": "Pretty pass management six garden rest wear itself letter political hour moment production.",
+          "references": [
+            "EU Regulation 2021/138"
+          ]
+        }
+      },
+      {
+        "id": "EU087",
+        "entity_type": "individual",
+        "primary_name": "Charlotte Benjamin",
+        "name_aliases": [
+          "Jennifer Jones",
+          "Hunter Ayers"
+        ],
+        "date_of_birth": "1973-11-25",
+        "place_of_birth": "Forbesborough, Fiji",
+        "nationality": "French Southern Territories",
+        "passport_numbers": [
+          "jz77823389"
+        ],
+        "addresses": [
+          {
+            "street": "98968 Curtis Square",
+            "city": "Barnesfurt",
+            "country": "Kuwait",
+            "postal_code": "17682"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2021-12-01",
+          "listing_authority": "European Union",
+          "grounds": "Reach issue enjoy development speak bill seven nothing visit health growth throw dog.",
+          "references": [
+            "EU Regulation 2024/518"
+          ]
+        }
+      },
+      {
+        "id": "EU088",
+        "entity_type": "individual",
+        "primary_name": "Stephanie Rivas",
+        "name_aliases": [
+          "Gary Carter",
+          "Jose Gray"
+        ],
+        "date_of_birth": "1978-01-13",
+        "place_of_birth": "East Lindsay, Greenland",
+        "nationality": "Sudan",
+        "passport_numbers": [
+          "sZ94055320"
+        ],
+        "addresses": [
+          {
+            "street": "77989 Sandoval Green Apt. 132",
+            "city": "Port Charlesmouth",
+            "country": "El Salvador",
+            "postal_code": "60747"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2024-02-02",
+          "listing_authority": "European Union",
+          "grounds": "Grow produce world book weight note.",
+          "references": [
+            "EU Regulation 2021/723"
+          ]
+        }
+      },
+      {
+        "id": "EU089",
+        "entity_type": "individual",
+        "primary_name": "Jonathan Kelly",
+        "name_aliases": [
+          "Stacy Harmon",
+          "Andrew Wilson"
+        ],
+        "date_of_birth": "1980-11-15",
+        "place_of_birth": "Davistown, Saint Pierre and Miquelon",
+        "nationality": "Northern Mariana Islands",
+        "passport_numbers": [
+          "wM19849915"
+        ],
+        "addresses": [
+          {
+            "street": "5372 Sanchez Squares",
+            "city": "South Anthony",
+            "country": "Guinea",
+            "postal_code": "52864"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-05-09",
+          "listing_authority": "European Union",
+          "grounds": "Level grow direction figure other these care alone teach magazine write avoid.",
+          "references": [
+            "EU Regulation 2021/114"
+          ]
+        }
+      },
+      {
+        "id": "EU090",
+        "entity_type": "individual",
+        "primary_name": "Marc Berry",
+        "name_aliases": [
+          "Vanessa Bailey",
+          "Jennifer Smith"
+        ],
+        "date_of_birth": "1969-10-08",
+        "place_of_birth": "Rachelville, Holy See (Vatican City State)",
+        "nationality": "Micronesia",
+        "passport_numbers": [
+          "Vn95837373"
+        ],
+        "addresses": [
+          {
+            "street": "92482 Berry Plains Apt. 890",
+            "city": "Johnmouth",
+            "country": "Slovenia",
+            "postal_code": "05618"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2024-12-11",
+          "listing_authority": "European Union",
+          "grounds": "Main sport at majority east religious character yet share themselves husband try.",
+          "references": [
+            "EU Regulation 2025/690"
+          ]
+        }
+      },
+      {
+        "id": "EU091",
+        "entity_type": "individual",
+        "primary_name": "Lisa George",
+        "name_aliases": [
+          "Todd Daniel",
+          "Steven Arellano"
+        ],
+        "date_of_birth": "1992-04-23",
+        "place_of_birth": "Lake Timothyland, Tajikistan",
+        "nationality": "Belgium",
+        "passport_numbers": [
+          "DO41221259"
+        ],
+        "addresses": [
+          {
+            "street": "03554 Bailey Ports Suite 998",
+            "city": "Davidside",
+            "country": "Isle of Man",
+            "postal_code": "35686"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2023-05-06",
+          "listing_authority": "European Union",
+          "grounds": "Computer lead be foot campaign someone public effect usually certainly why.",
+          "references": [
+            "EU Regulation 2018/697"
+          ]
+        }
+      },
+      {
+        "id": "EU092",
+        "entity_type": "individual",
+        "primary_name": "Donna Stokes",
+        "name_aliases": [
+          "Brandy Juarez",
+          "Sarah Perez"
+        ],
+        "date_of_birth": "1994-01-27",
+        "place_of_birth": "East Lynnmouth, Moldova",
+        "nationality": "Bermuda",
+        "passport_numbers": [
+          "nw03660665"
+        ],
+        "addresses": [
+          {
+            "street": "95513 Boyer Trafficway Suite 596",
+            "city": "East Sharon",
+            "country": "Rwanda",
+            "postal_code": "95321"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2022-06-08",
+          "listing_authority": "European Union",
+          "grounds": "Talk much book end power blue be serious.",
+          "references": [
+            "EU Regulation 2020/356"
+          ]
+        }
+      },
+      {
+        "id": "EU093",
+        "entity_type": "individual",
+        "primary_name": "Tyler Diaz",
+        "name_aliases": [
+          "Gregory Smith",
+          "Diane Welch"
+        ],
+        "date_of_birth": "1985-06-05",
+        "place_of_birth": "Lozanoshire, Russian Federation",
+        "nationality": "Nepal",
+        "passport_numbers": [
+          "Iv09823503"
+        ],
+        "addresses": [
+          {
+            "street": "450 Brandon Turnpike Apt. 534",
+            "city": "South Kathleenfort",
+            "country": "Pakistan",
+            "postal_code": "99923"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2021-04-10",
+          "listing_authority": "European Union",
+          "grounds": "Ever door control would head rate guess door pass foreign hope.",
+          "references": [
+            "EU Regulation 2022/177"
+          ]
+        }
+      },
+      {
+        "id": "EU094",
+        "entity_type": "individual",
+        "primary_name": "John Boyd",
+        "name_aliases": [
+          "Jason Moss",
+          "Jessica Booth"
+        ],
+        "date_of_birth": "1978-09-12",
+        "place_of_birth": "Gonzalezshire, Bhutan",
+        "nationality": "Guinea-Bissau",
+        "passport_numbers": [
+          "Bu92937625"
+        ],
+        "addresses": [
+          {
+            "street": "768 Jonathan Lock Suite 198",
+            "city": "Nancystad",
+            "country": "Cyprus",
+            "postal_code": "66387"
+          }
+        ],
+        "sanction_details": {
+          "program": "Terrorism Sanctions",
+          "listing_date": "2024-08-02",
+          "listing_authority": "European Union",
+          "grounds": "Dinner pretty house business piece in.",
+          "references": [
+            "EU Regulation 2015/933"
+          ]
+        }
+      },
+      {
+        "id": "EU095",
+        "entity_type": "individual",
+        "primary_name": "Brad Lewis",
+        "name_aliases": [
+          "Monique Poole",
+          "Andrew Webster"
+        ],
+        "date_of_birth": "1958-10-12",
+        "place_of_birth": "Port Steven, British Virgin Islands",
+        "nationality": "Papua New Guinea",
+        "passport_numbers": [
+          "vV13227440"
+        ],
+        "addresses": [
+          {
+            "street": "504 Lloyd Trail Suite 542",
+            "city": "Perryport",
+            "country": "San Marino",
+            "postal_code": "67385"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2023-06-13",
+          "listing_authority": "European Union",
+          "grounds": "Discussion talk worry model price generation mean truth indeed always true guy sell.",
+          "references": [
+            "EU Regulation 2018/190"
+          ]
+        }
+      },
+      {
+        "id": "EU096",
+        "entity_type": "individual",
+        "primary_name": "Anthony Hurley",
+        "name_aliases": [
+          "Jason Hernandez",
+          "Bailey Moses"
+        ],
+        "date_of_birth": "1971-11-03",
+        "place_of_birth": "Aguilartown, Poland",
+        "nationality": "Brunei Darussalam",
+        "passport_numbers": [
+          "IM14811419"
+        ],
+        "addresses": [
+          {
+            "street": "95770 Clifford Union Apt. 227",
+            "city": "Port Roy",
+            "country": "Brazil",
+            "postal_code": "41755"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2021-02-15",
+          "listing_authority": "European Union",
+          "grounds": "Toward might cultural speech relationship amount miss people then six concern threat.",
+          "references": [
+            "EU Regulation 2025/358"
+          ]
+        }
+      },
+      {
+        "id": "EU097",
+        "entity_type": "individual",
+        "primary_name": "John Robinson",
+        "name_aliases": [
+          "Harold Johnson",
+          "Casey Davis"
+        ],
+        "date_of_birth": "1992-11-10",
+        "place_of_birth": "Dariustown, Gibraltar",
+        "nationality": "Niue",
+        "passport_numbers": [
+          "zC54484620"
+        ],
+        "addresses": [
+          {
+            "street": "036 Colton Park Apt. 031",
+            "city": "North Elijahfort",
+            "country": "Guam",
+            "postal_code": "51100"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2023-01-26",
+          "listing_authority": "European Union",
+          "grounds": "Defense would peace close beautiful difficult company fish commercial member citizen artist well itself.",
+          "references": [
+            "EU Regulation 2022/167"
+          ]
+        }
+      },
+      {
+        "id": "EU098",
+        "entity_type": "individual",
+        "primary_name": "Matthew Rogers",
+        "name_aliases": [
+          "Whitney Bryan",
+          "Johnathan Clark"
+        ],
+        "date_of_birth": "1985-06-18",
+        "place_of_birth": "West Karenland, Norway",
+        "nationality": "Papua New Guinea",
+        "passport_numbers": [
+          "cu92375878"
+        ],
+        "addresses": [
+          {
+            "street": "21725 Barr Crest",
+            "city": "Lake Timothyhaven",
+            "country": "Jersey",
+            "postal_code": "36041"
+          }
+        ],
+        "sanction_details": {
+          "program": "Organized Crime Sanctions",
+          "listing_date": "2020-04-29",
+          "listing_authority": "European Union",
+          "grounds": "Relate owner on no have respond everybody rate.",
+          "references": [
+            "EU Regulation 2024/555"
+          ]
+        }
+      },
+      {
+        "id": "EU099",
+        "entity_type": "individual",
+        "primary_name": "Ryan Barnes",
+        "name_aliases": [
+          "Christopher Brown",
+          "Lauren Sims"
+        ],
+        "date_of_birth": "1987-04-23",
+        "place_of_birth": "Karenport, Eritrea",
+        "nationality": "Netherlands Antilles",
+        "passport_numbers": [
+          "DJ43947488"
+        ],
+        "addresses": [
+          {
+            "street": "48720 Terrell Pass",
+            "city": "North Waynemouth",
+            "country": "Cocos (Keeling) Islands",
+            "postal_code": "83307"
+          }
+        ],
+        "sanction_details": {
+          "program": "Human Rights Sanctions",
+          "listing_date": "2023-02-09",
+          "listing_authority": "European Union",
+          "grounds": "Feel care film wall which benefit have around size table.",
+          "references": [
+            "EU Regulation 2017/850"
+          ]
+        }
+      },
+      {
+        "id": "EU100",
+        "entity_type": "individual",
+        "primary_name": "Lori Lopez",
+        "name_aliases": [
+          "Tanner Strong",
+          "Joy Williams"
+        ],
+        "date_of_birth": "1991-05-28",
+        "place_of_birth": "New Ashleyhaven, Bolivia",
+        "nationality": "United States Minor Outlying Islands",
+        "passport_numbers": [
+          "LQ49437791"
+        ],
+        "addresses": [
+          {
+            "street": "319 Eric Roads Suite 848",
+            "city": "East Roy",
+            "country": "Martinique",
+            "postal_code": "24869"
+          }
+        ],
+        "sanction_details": {
+          "program": "Cyber Sanctions",
+          "listing_date": "2021-06-11",
+          "listing_authority": "European Union",
+          "grounds": "Mr some key major particular good expert continue quickly.",
+          "references": [
+            "EU Regulation 2019/577"
+          ]
+        }
+      }
+    ]
+  }
