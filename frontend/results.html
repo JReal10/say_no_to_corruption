@@ -14,7 +14,7 @@
       margin: 0;
       padding: 0;
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #535252;
+      background-color: #e8e8e8;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -33,21 +33,21 @@
     h1 {
       font-size: 3rem;
       margin-bottom: 30px;
-      color: #f3efef;
+      color: #444343;
     }
 
     h2 {
-      color: white;
+      color: #444343;
       font-family: Geneva;
     }
 
     h3 {
-      color: white;
+      color: #444343;
       font-family: Geneva;
     }
 
     p {
-      color: white;
+      color: #444343;
       font-family: Geneva;
     }
 
@@ -65,19 +65,52 @@
       font-size: 1rem;
       border: none;
       border-radius: 10px;
-      background-color: #9ea09f;
+      background-color: #eb0b0b;
       color: white;
       cursor: pointer;
       transition: background-color 0.3s;
     }
 
     button:hover {
-      background-color: #616161;
+      background-color: #8f0a0a;
     }
 
     th,
     td {
       padding-right: 60px;
+    }
+
+    .collapsible {
+      max-height: 0;
+      overflow-y: auto;
+      transition: max-height 0.4s ease-out;
+      background-color: #e8e8e8;
+      border-radius: 8px;
+      margin-top: 10px;
+      padding: 0 10px;
+    }
+
+    /* When visible */
+    .collapsible.visible {
+      max-height: 500px;
+      /* Adjust height as needed */
+      padding: 15px 10px;
+    }
+
+    /* Hide element visually but keep space */
+    .hidden {
+      display: none;
+    }
+
+    /* Optional styling for the toggle button */
+    #toggleOutputsBtn {
+      margin-bottom: 10px;
+      padding: 8px 16px;
+      background-color: #eb0b0b;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
     }
   </style>
 </head>
@@ -96,7 +129,11 @@
 
       </p>
     </div>
+    <button id="toggleOutputsBtn">Show Step Outputs</button>
 
+    <div id="stepOutputsContainerWrapper" class="collapsible hidden">
+      <div id="stepOutputsContainer"></div>
+    </div>
 
     <button onclick="document.location ='index.html'"> Back to Search </button>
 
@@ -107,7 +144,7 @@
 
       var searchQuery = localStorage.getItem("query");
       var results = JSON.parse(localStorage.getItem("result"));
-      console.log(results.outputs.final_output);
+      // console.log(results.outputs.final_output);
 
       resultsHeader.innerHTML = `Results for ${searchQuery}`;
       summaryDiv.innerHTML = results.outputs.final_output.summary;
@@ -127,6 +164,59 @@
       value = value.replace(/([^.])(\n|$)/g, '$1<br>');
 
       fullSummaryDiv.innerHTML = value;
+
+      renderStepOutputs(results)
+
+      function capitalizeAndSpace(str) {
+        // Remove leading $ if it's there, then space and capitalize the text properly
+        const formattedStr = str.startsWith('$') ? str.slice(1) : str;
+        return formattedStr.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      }
+
+      function renderValue(value) {
+        if (Array.isArray(value)) {
+          return value.map(item => `<li>${renderValue(item)}</li>`).join('');
+        } else if (typeof value === 'object' && value !== null) {
+          return Object.entries(value)
+            .map(([key, val]) => `<li><strong>${capitalizeAndSpace(key)}:</strong> ${renderValue(val)}</li>`)
+            .join('');
+        } else {
+          return value;
+        }
+      }
+
+
+      function renderStepOutputs(data) {
+        const container = document.getElementById('stepOutputsContainer');
+        container.innerHTML = '';
+
+        const stepOutputs = data.outputs.step_outputs || {};
+
+        Object.entries(stepOutputs).forEach(([key, value]) => {
+          const section = document.createElement('section');
+          section.classList.add('step-output-section');
+
+          const heading = document.createElement('h2');
+          heading.textContent = capitalizeAndSpace(key);
+
+          const outputContainer = document.createElement('ul');
+          outputContainer.innerHTML = renderValue(value); // Render values instead of JSON
+
+          section.appendChild(heading);
+          section.appendChild(outputContainer);
+          container.appendChild(section);
+        });
+      }
+      // Toggle logic
+      document.getElementById('toggleOutputsBtn').addEventListener('click', () => {
+        const wrapper = document.getElementById('stepOutputsContainerWrapper');
+        const btn = document.getElementById('toggleOutputsBtn');
+        const isVisible = wrapper.classList.toggle('visible');
+        wrapper.classList.remove('hidden'); // Make sure it renders if previously hidden
+
+        btn.textContent = isVisible ? 'Hide Step Outputs' : 'Show Step Outputs';
+      });
+
     </script>
 
   </div>
