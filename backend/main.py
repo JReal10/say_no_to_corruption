@@ -5,6 +5,7 @@ from portia.cli import CLIExecutionHooks
 from portia.open_source_tools.search_tool import SearchTool
 #from registry import custom_tool_registry
 from fastapi import FastAPI, Query, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 
@@ -24,6 +25,17 @@ app = FastAPI(
     description="API for performing company and individual search using Portia",
     version = "1.0.0"
 )
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 # Define request and response models
 class CompanySearchRequest(BaseModel):

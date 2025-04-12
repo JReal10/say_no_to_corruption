@@ -69,23 +69,50 @@
 
 <body>
     <div class="container">
-        <div class = "logo">
+        <div class="logo">
             <img width="350" height="350" src="./assets/SNTC.png">
         </div>
         <h1>Search for an individual or an entity</h1>
         <input type="text" id="searchInput" placeholder="Type your query here..." />
         <br />
-        <button id="searchButton" onclick="handleSearch()">Search Individual</button>
-        <button id="searchButton" onclick="handleSearch()">Search Entity</button>
+        <button id="searchButton" onclick="handleSearch('individual')">Search Individual</button>
+        <button id="searchButton" onclick="handleSearch('entity')">Search Entity</button>
 
     </div>
 
     <script>
-        function handleSearch() {
-            const input = document.getElementById('searchInput');
-            const button = document.getElementById('searchButton');
-            const query = input.value.trim();
+        const input = document.getElementById('searchInput');
+        const button = document.getElementById('searchButton');
+        var query = input.value.trim();
 
+        async function APICall(searchType) {
+
+            if (searchType === "individual") {
+                var res = await fetch(`http://localhost:8000/search/individual/${query}`, {
+                    method: "GET"
+                })
+                
+                var sum = null;
+                res.json().then((v) => {
+                   console.log(v)
+                   sum = v
+                })
+
+                console.log(sum);
+                localStorage.setItem("Query",query);
+                localStorage.setItem("result",sum);
+                
+               
+            }
+
+            if (searchType === "entity") {
+
+            }
+
+        }
+
+        function handleSearch(searchType) {
+            query = input.value.trim();
             if (query === "") {
                 alert("Please enter a search query!");
                 return;
@@ -96,15 +123,18 @@
             button.disabled = true;
             button.textContent = "Searching...";
 
-            // Simulate async search
-            setTimeout(() => {
-                alert(`You searched for: "${query}"`);
-
+            APICall(searchType).then(() => {
                 // Reset input and button
                 input.disabled = false;
                 button.disabled = false;
-                button.textContent = "Search";
-            }, 3000);
+                // button.textContent = "Search";
+            })
+            // // Simulate async search
+            // setTimeout(() => {
+            //     alert(`You searched for: "${query}"`);
+
+
+            // }, 3000);
         }
     </script>
 </body>
