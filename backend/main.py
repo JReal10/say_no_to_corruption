@@ -81,7 +81,8 @@ async def search_individual(request: IndividualSearchRequest):
             print(f"{plan.model_dump_json(indent = 2)}")
             
             # Return the results
-            return {"result": json.loads(plan_run.model_dump_json())}
+            # return {"result": json.loads(plan_run.model_dump_json())}
+            return SearchResponse(json.loads(plan_run.model_dump_json()))
             
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error performing individual search: {str(e)}")
