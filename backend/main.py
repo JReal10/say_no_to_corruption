@@ -73,13 +73,19 @@ async def search_individual(request: IndividualSearchRequest):
                 f"Search news using specific queries: *{request.name}* AND (corruption OR sanction OR investigation) limited to major news outlets and last 5 years."
                 3.Check 'UN_sanction_list.json' for exact match of *{request.name}*.
                 4. Search if *{request.name}* has citizenship and primary countries of activities in any "high_risk_jurisdiction.json" country'
-                5.Briefly report PEP indicators, adverse media hits (BBC), anction status, key countries, and flag if high-risk/PEP.
+                5.
+                6. Risk Assessment Summary
+                    - PEP Status: [Yes/No] - [Position/Relationship if applicable]
+                    - Sanctions: [None/Listed] - [List name if applicable]
+                    - Adverse Media: [Yes/No] - [Brief description if applicable]
+                    - High-Risk Countries: [List countries]
+                    - Overall Risk Rating: [Low/Medium/High]
+                    - Risk Flags: [Brief bullet points of key issues]
                 """
             )
         
             # Run the plan
             plan_run = portia.run_plan(plan)
-            print(f"{plan.model_dump_json(indent = 2)}")
             
             # Return the results
             result = json.loads(plan_run.model_dump_json())
