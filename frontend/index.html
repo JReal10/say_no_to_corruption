@@ -92,16 +92,14 @@
                     method: "GET"
                 })
                 
-                var sum = null;
                 res.json().then((v) => {
                    console.log(v)
-                   sum = v
+                   localStorage.setItem("result",JSON.stringify(v));
                 })
 
-                console.log(sum);
-                localStorage.setItem("Query",query);
-                localStorage.setItem("result",sum);
-                
+                localStorage.setItem("query",query);
+
+                window.location.href = "results.html"
                
             }
 
