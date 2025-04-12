@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SNTC &#40;Say NO TO CORRUPTION&#41;</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #e8e8e8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 600px;
+            width: 100%;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 30px;
+            margin-top: 5px;
+            color: #444343;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1rem;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 10px;
+            background-color: #eb0b0b;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:disabled {
+            background-color: #500606;
+            cursor: not-allowed;
+        }
+
+
+        button:hover {
+            background-color: #8f0a0a;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class = "logo">
+            <img width="350" height="350" src="./assets/SNTC.png">
+        </div>
+        <h1>Search for an individual or an entity</h1>
+        <input type="text" id="searchInput" placeholder="Type your query here..." />
+        <br />
+        <button id="searchButton" onclick="handleSearch()">Search Individual</button>
+        <button id="searchButton" onclick="handleSearch()">Search Entity</button>
+
+    </div>
+
+    <script>
+        function handleSearch() {
+            const input = document.getElementById('searchInput');
+            const button = document.getElementById('searchButton');
+            const query = input.value.trim();
+
+            if (query === "") {
+                alert("Please enter a search query!");
+                return;
+            }
+
+            // Disable input and show loading state
+            input.disabled = true;
+            button.disabled = true;
+            button.textContent = "Searching...";
+
+            // Simulate async search
+            setTimeout(() => {
+                alert(`You searched for: "${query}"`);
+
+                // Reset input and button
+                input.disabled = false;
+                button.disabled = false;
+                button.textContent = "Search";
+            }, 3000);
+        }
+    </script>
+</body>
+
+</html>
