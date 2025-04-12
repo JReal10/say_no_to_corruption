@@ -1,3 +1,5 @@
 poetry
 portia-sdk-python
 openai
+fastapi
+uvicorn
