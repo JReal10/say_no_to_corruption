@@ -58,7 +58,7 @@ cd backend
 pip install -r requirements.txt
 
 # Configure environment variables
-# Create a .env file with your Portia.ai API keys
+# Create a .env file with your Portia.ai and Openai API keys
 
 # Start the backend server
 python main.py
