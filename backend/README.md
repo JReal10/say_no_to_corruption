@@ -1,1 +1,0 @@
-# say_no_to_corruption
