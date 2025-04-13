@@ -1,4 +1,5 @@
 # SNTC (SAY NO TO CORRUPTION)
+![image](https://github.com/user-attachments/assets/8986a847-0649-4cd7-a735-d1cc15fce138)
 
 ## Overview
 SNTC (Say NO TO CORRUPTION) is a risk assessment tool designed to help identify corruption risks associated with individuals and companies. The application allows users to search for individuals or entities and receive comprehensive risk assessments that include sanctions checks, political exposure screening, adverse media analysis, and high-risk jurisdiction evaluation.
