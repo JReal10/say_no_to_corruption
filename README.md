@@ -95,6 +95,7 @@ Usage Examples
 
 ## Future Enhancements
 - Integration with additional data sources
+- RAG implementation for better data search capability
 - Batch processing for multiple entities
 - PDF report generation
 - User authentication and search history
