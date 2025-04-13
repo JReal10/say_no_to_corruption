@@ -103,7 +103,10 @@ Usage Examples
 
 ## Team Members
 - Jamie Ogundiran - AI engineer (https://github.com/JReal10)
-- (https://github.com/teammember2)
+- Vanessa Nwabuoku - Software engineer (https://github.com/vaninx)
+- Adeayooluwa Oladipo - Software Engineer (https://github.com/atiaen)
+- Ruth Iluyomade - Software Engineer (https://github.com/ruru156)
+- Safia Hasan - Governance, Risk and Compliance Expert (https://www.linkedin.com/in/safia-hassan-a68438223/)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
