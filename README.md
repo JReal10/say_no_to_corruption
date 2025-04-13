@@ -86,7 +86,7 @@ Usage Examples
 2. Company Search:
 - Enter a company name in the search box
 - Click "Search Entity."
-- Review the risk assessment including:
+- Review the risk assessment, including:
    - Registration information
    - Sustainability/CSR reports analysis
    - Sanctions checks
@@ -102,8 +102,8 @@ Usage Examples
 - Visualization of entity relationships and risk networks
 
 ## Team Members
-- [Team Member 1](https://github.com/teammember1)
-- [Team Member 2](https://github.com/teammember2)
+- Jamie Ogundiran - AI engineer (https://github.com/JReal10)
+- (https://github.com/teammember2)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
