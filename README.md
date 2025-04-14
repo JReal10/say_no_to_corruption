@@ -7,7 +7,6 @@ SNTC (Say NO TO CORRUPTION) is a risk assessment tool designed to help identify 
 This tool addresses the growing need for enhanced due diligence in business relationships and investment decisions by providing quick, AI-powered risk insights that would typically require extensive manual research across multiple sources.
 
 ## Project Description
-Provide a more detailed explanation of your project, including:
 - Core functionality: Performs comprehensive risk assessments on individuals and companies to identify potential corruption risks
 - Target audience: Compliance officers, due diligence professionals, financial institutions, and businesses seeking to evaluate potential partners
 - Key features
