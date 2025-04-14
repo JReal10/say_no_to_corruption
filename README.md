@@ -25,7 +25,7 @@ This tool addresses the growing need for enhanced due diligence in business rela
 - AI Analysis: Portia's AI capabilities are used to analyze search results, identify risk factors, and generate comprehensive risk assessments in a structured format
 
 ### Video Demo
-[Link to video demonstration](https://example.com/demo-video)
+[Link to video demonstration](https://www.youtube.com/watch?v=PlEDk1UHx1s&ab_channel=AdeayoOladipo)
 
 ## Technical Details
 - Architecture: Client-server architecture with a FastAPI backend and HTML/JavaScript frontend
