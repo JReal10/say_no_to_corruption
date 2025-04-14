@@ -109,7 +109,7 @@ Usage Examples
 - Safia Hasan - Governance, Risk and Compliance Expert (https://www.linkedin.com/in/safia-hassan-a68438223/)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  GNU GENERAL PUBLIC LICENSE - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Special thanks to Portia.ai for providing the AI technology that powers this project
